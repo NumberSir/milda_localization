@@ -10,6 +10,7 @@ DIR_RESULTS = DIR_PROJECT / "data" / "results"
 DIR_SUPPORT = DIR_PROJECT / "data" / "support"
 DIR_FETCHES = DIR_PROJECT / "data" / "fetches"
 DIR_PROCESS = DIR_PROJECT / "data" / "processes"
+DIR_MACHINE = DIR_PROJECT / "data" / "machine"
 DIR_LOCALIZATIONS = DIR_PROJECT / "data" / "localizations"
 DIR_LOCALIZATIONS_FILES = DIR_LOCALIZATIONS / "files" / VERSION
 
@@ -19,6 +20,7 @@ RAW_FILES = {
     "common": "CommonEvents.json",
     "maps": "Map{:0>3d}.json"
 }
+
 MAPS_COUNT = 70
 CODES_NEEDED_TRANSLATION = {
     "对话": 401,
@@ -35,6 +37,7 @@ __all__ = [
     "DIR_SUPPORT",
     "DIR_FETCHES",
     "DIR_PROCESS",
+    "DIR_MACHINE",
     "DIR_LOCALIZATIONS",
     "DIR_LOCALIZATIONS_FILES",
 

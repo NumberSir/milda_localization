@@ -17,7 +17,7 @@ class Translation:
         os.makedirs(DIR_FETCHES, exist_ok=True)
         os.makedirs(DIR_SUPPORT, exist_ok=True)
         os.makedirs(DIR_PROCESS, exist_ok=True)
-        # os.makedirs(DIR_TRANSLATES, exist_ok=True)
+        os.makedirs(DIR_MACHINE, exist_ok=True)
         os.makedirs(DIR_LOCALIZATIONS_FILES, exist_ok=True)
         shutil.copytree(DIR_BACKUP, DIR_RESULTS)
 
@@ -25,12 +25,28 @@ class Translation:
     @classmethod
     def fetch_all(cls):
         logger.info("##### STARTING FETCHING ALL FILES...")
+        cls.fetch_system()
         cls.fetch_items()
         cls.fetch_common()
         cls.fetch_maps()
         cls.fetch_special_words()
         cls.fetch_map_names()
         logger.info("===== ALL FILES FETCHED DONE.")
+
+    @staticmethod
+    def fetch_system():
+        with open(DIR_ROOT / RAW_FILES["system"], "r", encoding="utf-8") as fp:
+            data: dict = json.load(fp)
+        results = {
+            "gameTitle": data["gameTitle"],
+            "locale": data["locale"],
+            "commands": [_ for _ in data["terms"]["commands"] if _]
+        }
+
+        with open(DIR_FETCHES / RAW_FILES["system"], "w", encoding='utf-8') as fp:
+            json.dump(results, fp, ensure_ascii=False, indent=2)
+
+        logger.info("\t- SYSTEM FETCHED DONE.")
 
     @staticmethod
     def fetch_items():
@@ -122,7 +138,7 @@ class Translation:
     def fetch_special_words():
         names: set = {"Me <br>"}
         for file in os.listdir(DIR_FETCHES):
-            if file == RAW_FILES["items"]:
+            if file in {RAW_FILES["items"], RAW_FILES["system"]}:
                 continue
             with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
@@ -176,13 +192,23 @@ class Translation:
                 if d["name"] and d["name"] not in results:
                     results[d["name"]] = ""
 
+        elif file in {RAW_FILES["system"]}:
+            with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
+                data = json.load(fp)
+            results["gameTitle"] = data["gameTitle"]
+            results["locale"] = data["locale"]
+            for cmd in data["commands"]:
+                if cmd not in results:
+                    results[cmd] = ""
+
         else:
             with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
 
             for d in data:
-                if d["param"][0] not in results:
-                    results[d["param"][0]] = ""
+                for param in d["param"]:
+                    if param not in results:
+                        results[param] = ""
 
             if not results:
                 return
@@ -223,6 +249,7 @@ class Translation:
     def post_process_all(cls):
         logger.info("##### STARTING POST PROCESSING ALL FILES...")
         cls.post_process_translated()
+        cls.post_process_machine()
         logger.info("===== ALL FILES POST PROCESSED DONE.")
 
     @staticmethod
@@ -232,20 +259,52 @@ class Translation:
                 os.remove(DIR_PROCESS / file)
         logger.info("\t- ALREADY TRANSLATED POST PROCESSED DONE.")
 
+    @staticmethod
+    def post_process_machine():
+        for file in os.listdir(DIR_PROCESS):
+            file_name = file.split(".")[0]
+            with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
+                data: dict = json.load(fp)
+
+            with open(DIR_MACHINE / "from" / f"{file_name}.txt", "w", encoding="utf-8") as fp:
+                fp.write("\n".join(list(data.keys())))
+        logger.info("\t- TRANSFER TO TXT POST PROCESSED DONE.")
+
     """ APPLY """
     @classmethod
     def apply_all(cls):
         logger.info("##### STARTING APPLYING ALL FILES...")
+        cls.apply_system()
         cls.apply_items()
         cls.apply_common()
         cls.apply_maps()
         cls.apply_map_names()
         logger.info("===== ALL FILES APPLIED DONE.")
+        
+    @staticmethod
+    def apply_system():
+        with open(DIR_LOCALIZATIONS_FILES / RAW_FILES["system"], "r", encoding="utf-8") as fp:
+            data_localized = json.load(fp)
+        with open(DIR_RESULTS / RAW_FILES["system"], "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+
+        data["gameTitle"] = data_localized["gameTitle"]
+        data["locale"] = data_localized["locale"]
+
+        for idx, d in enumerate(data["terms"]["commands"]):
+            if not d:
+                continue
+            data["terms"]["commands"][idx] = data_localized[d]
+
+        with open(DIR_RESULTS / RAW_FILES["system"], "w", encoding="utf-8") as fp:
+            json.dump(data, fp, ensure_ascii=False)
+        logger.info("\t- SYSTEM APPLIED DONE.")
+        
 
     @staticmethod
     def apply_items():
         with open(DIR_LOCALIZATIONS_FILES / RAW_FILES["items"], "r", encoding="utf-8") as fp:
-            data_translated: dict = json.load(fp)
+            data_localized: dict = json.load(fp)
 
         with open(DIR_RESULTS / RAW_FILES["items"], "r", encoding="utf-8") as fp:
             data: list = json.load(fp)
@@ -253,9 +312,9 @@ class Translation:
             if not d:
                 continue
             if d["description"]:
-                data[idx]["description"] = data_translated[d["description"]]
+                data[idx]["description"] = data_localized[d["description"]]
             if d["name"]:
-                data[idx]["name"] = data_translated[d["name"]]
+                data[idx]["name"] = data_localized[d["name"]]
 
         with open(DIR_RESULTS / RAW_FILES["items"], "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False)
@@ -264,7 +323,7 @@ class Translation:
     @staticmethod
     def apply_common():
         with open(DIR_LOCALIZATIONS_FILES / RAW_FILES["common"], "r", encoding="utf-8") as fp:
-            data_translated: dict = json.load(fp)
+            data_localized: dict = json.load(fp)
 
         with open(DIR_RESULTS / RAW_FILES["common"], "r", encoding="utf-8") as fp:
             data: list = json.load(fp)
@@ -284,17 +343,17 @@ class Translation:
                 if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
                     key = code["parameters"][0]
                     try:
-                        if not data_translated[key]:
+                        if not data_localized[key]:
                             continue
-                        data[data_idx]["list"][list_idx]["parameters"][0] = data_translated[key]
+                        data[data_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
                     except KeyError:
                         continue
                 elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
                     for code_idx, key in enumerate(code["parameters"][0]):
                         try:
-                            if not data_translated[key]:
+                            if not data_localized[key]:
                                 continue
-                            data[data_idx]["list"][list_idx]["parameters"][0][code_idx] = data_translated[key]
+                            data[data_idx]["list"][list_idx]["parameters"][0][code_idx] = data_localized[key]
                         except KeyError:
                             continue
                 else:
@@ -308,10 +367,10 @@ class Translation:
     def apply_maps():
         for i in range(1, MAPS_COUNT + 1):
             file_name = RAW_FILES["maps"].format(i)
-            if file_name not in os.listdir(DIR_LOCALIZATIONS / "files"):
+            if file_name not in os.listdir(DIR_LOCALIZATIONS_FILES):
                 continue
             with open(DIR_LOCALIZATIONS_FILES / file_name, "r", encoding="utf-8") as fp:
-                data_translated: dict = json.load(fp)
+                data_localized: dict = json.load(fp)
             with open(DIR_RESULTS / file_name, "r", encoding="utf-8") as fp:
                 data: dict = json.load(fp)
             if not data:
@@ -331,17 +390,17 @@ class Translation:
                         if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
                             key = code["parameters"][0]
                             try:
-                                if not data_translated[key]:
+                                if not data_localized[key]:
                                     continue
-                                data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_translated[key]
+                                data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
                             except KeyError:
                                 continue
                         elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
                             for code_idx, key in enumerate(code["parameters"][0]):
                                 try:
-                                    if not data_translated[key]:
+                                    if not data_localized[key]:
                                         continue
-                                    data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = data_translated[key]
+                                    data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = data_localized[key]
                                 except KeyError:
                                     continue
 
@@ -370,6 +429,13 @@ class Translation:
             with open(DIR_RESULTS / file_name, "w", encoding="utf-8") as fp:
                 json.dump(data, fp, ensure_ascii=False)
         logger.info("\t- MAP NAMES APPLIED DONE.")
+
+    """ COVER """
+    @staticmethod
+    def cover_all():
+        for file in os.listdir(DIR_RESULTS):
+            shutil.copyfile(DIR_RESULTS / file, DIR_ROOT / file)
+        logger.info("***** ALL FILES COVERED DONE.")
 
     """ DROP """
     @staticmethod
@@ -403,8 +469,9 @@ def main():
     tr.fetch_all()          # 获取原文
     tr.pre_process_all()    # 预处理(合并重复句子、替换专有名词)
     tr.post_process_all()   # 后处理(删除已翻译的)
-    tr.apply_all()          # 覆盖翻译
+    tr.apply_all()          # 应用翻译
     tr.count_length()       # 统计内容长度
+    tr.cover_all()          # 覆盖源文件
 
 
 if __name__ == '__main__':

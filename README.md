@@ -1,16 +1,12 @@
 ## 文件结构
 ```txt
-├── BACKUP
 ├── data
-│   ├── fetches
-│   ├── processes
-│   ├── result
-│   ├── support
-│   └── translation
+│   └── localizations
 │       └── files
 ├── __init__.py
 ├── consts.py
 ├── log.py
 ├── main.py
+├── models.py
 ...
 ```
