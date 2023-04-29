@@ -1,0 +1,160 @@
+<recipe1>
+ result:{type:"item", id:1, amount:2}
+ <materials>
+  {type:"item", id:5, amount:1}
+ <materials>
+ category:Alchemy
+ success:50
+ successGain:10
+ xp:35
+ xpDeprac:5
+<recipe1>
+
+<recipe2>
+ result:{type:"item", id:2, amount:1}
+ <materials>
+  {type:"item", id:6, amount:2}
+ <materials>
+ category:Alchemy
+ success:50
+ successGain:10
+ craftLevel:3
+ xp:60
+ xpDeprac:5
+<recipe2>
+
+<recipe3>
+ result:{type:"item", id:3, amount:1}
+ <materials>
+  {type:"item", id:5, amount:2}
+  {type:"item", id:7, amount:1}
+ <materials>
+ category:Alchemy
+ success:50
+ successGain:10
+ craftLevel:5
+ xp:100
+ xpDeprac:7
+<recipe3>
+
+<recipe4>
+ result:{type:"item", id:4, amount:1}
+ <materials>
+  {type:"item", id:5, amount:2}
+  {type:"item", id:6, amount:1}
+  {type:"item", id:7, amount:1}
+ <materials>
+ category:Alchemy
+ success:50
+ successGain:10
+ craftLevel:8
+ xp:150
+ xpDeprac:8
+ known:false
+<recipe4>
+
+<recipe5>
+ result:{type:"weapon", id:1, amount:1}
+ <materials>
+  {type:"item", id:8, amount:3}
+ <materials>
+ category:Blacksmith
+ success:80
+ successGain:2
+ xp:40
+ xpDeprac:5
+<recipe5>
+
+<recipe6>
+ result:{type:"weapon", id:2, amount:1}
+ <materials>
+  {type:"item", id:9, amount:5}
+ <materials>
+ category:Blacksmith
+ success:75
+ successGain:2
+ craftLevel:3
+ xp:80
+ xpDeprac:6
+<recipe6>
+
+<recipe7>
+ result:{type:"weapon", id:3, amount:1}
+ <materials>
+  {type:"item", id:8, amount:4}
+  {type:"item", id:9, amount:6}
+ <materials>
+ category:Blacksmith
+ success:72
+ successGain:3
+ craftLevel:5
+ xp:120
+ xpDeprac:8
+<recipe7>
+
+<recipe8>
+ result:{type:"weapon", id:4, amount:1}
+ <materials>
+  {type:"item", id:10, amount:7}
+ <materials>
+ category:Blacksmith
+ success:70
+ successGain:1
+ craftLevel:8
+ xp:225
+ xpDeprac:10
+ known:false
+<recipe8>
+
+<recipe9>
+ result:{type:"armor", id:1, amount:1}
+ <materials>
+  {type:"item", id:11, amount:4}
+ <materials>
+ category:Tailor
+ success:85
+ successGain:1
+ xp:30
+ xpDeprac:2
+<recipe9>
+
+<recipe10>
+ result:{type:"armor", id:2, amount:1}
+ <materials>
+  {type:"item", id:12, amount:7}
+ <materials>
+ category:Tailor
+ success:82
+ successGain:1
+ craftLevel:3
+ xp:60
+ xpDeprac:2
+<recipe10>
+
+<recipe11>
+ result:{type:"armor", id:3, amount:1}
+ <materials>
+  {type:"item", id:13, amount:10}
+ <materials>
+ category:Tailor
+ success:72
+ successGain:3
+ craftLevel:5
+ xp:120
+ xpDeprac:4
+<recipe11>
+
+<recipe12>
+ result:{type:"armor", id:4, amount:1}
+ <materials>
+  {type:"item", id:12, amount:7}
+  {type:"item", id:13, amount:12}
+ <materials>
+ category:Tailor
+ success:70
+ successGain:1
+ craftLevel:8
+ xp:175
+ xpDeprac:6
+ known:false
+<recipe12>

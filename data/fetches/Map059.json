@@ -1,0 +1,394 @@
+[
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\c[12]Tony\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Hello, sir. How can I help you?"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\c[12]Tony\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Thank you. Please come again."
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "\\c[12]Tony\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Hello, sir. How can I help you?"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "\\c[12]Tony\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Thank you. Please come again."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I’m going to pick out some clothes."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "You can do something else while you wait."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "It’s OK. I came here with you, so I might as well be here."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "That’s the spirit."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Oh, that’s a cute dress. Give me a second, let me try it on."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "How does this dress look?"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Wow!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "You look so nice and cute!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Thank you, \\n[1]!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Aww, but it’s so expensive."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I can’t afford it."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I’ll look for other clothes."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I will buy it for you."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Really!?"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Of course!!!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "But I didn't bring enough money, I will buy it for you later."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Thank you so much, \\n[1]!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Damn! These things are so expensive. Like three for four times normal."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "But if it makes them happy, it's worth it."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I want to buy Auntie a dress too. For taking care of me."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "That’s really generous of you."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "How about we surprise her at dinner?"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "That's a great idea!"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I bet mom will be amazed and love it!"
+    ]
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "I should talk \\C[3]Elphaba\\C[0] if I want to leave."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I have something for you. "
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "What is this?"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "You will feel better after drinking it."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Sweet!"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I'm thirsty as hell."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Wow! I feel like I'm full of energy. The feeling of being tired from walking around in the forest seemed to have disappeared."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "That is its effect and it has a side effect."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Side effect. What is its side effect?"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "What is happening? Why do I feel so tired?"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "That is its side effect."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Wait, what!? So why did you let me drink it?"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "For fun."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "What!? You're so evil."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "That's what they always say."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Ha-ha."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "What are all those things? Looks like you want to do something."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "What do they call? Something like ache..."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Alchemist."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Ha-ha! That's right. Alchemist!!!"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "You look more like a witch to me."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I have finished arranging everything. I'll take you out now."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Welcome to my house! Make yourself at home."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Holy cow! It feels like going back a hundred years."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "What kind of decoration is this?"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Hey... erm..."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Oh, I haven't introduced myself yet. "
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] is my name."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "My name is \\n[1]."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "What is this door?"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Stay away from it."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Hmm..."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Now, I'm more curious."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "This is no joke. "
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "If you've seen anything in there, it's a pity..."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "That I have to eliminate you."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Ha-ha. Just kidding."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Phew. You scared me there for a moment."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Seriously, don't go in there."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Gulp."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[3]Elphaba\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Okay, I have to sort things out. If there's any problem just ask me."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Okay."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "What is this place, I feel like walking into a fairy tale book."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Is that a cauldron? Man, I feel like I'm in a witch house right now."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "This place gives me a warm feeling. I think it's just my imagination."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "I should talk \\C[3]Elphaba\\C[0] if I want to leave."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "I'm really curious what's behind this door but it's better not to touch it."
+    ]
+  }
+]

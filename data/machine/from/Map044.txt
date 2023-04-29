@@ -1,0 +1,11 @@
+Me <br>
+Let's take some in case I get thirsty.
+It's locked.
+I must find a way to open it.
+What is this thing?
+The door is opening!
+Let's get out of this weird place.
+\C[20]Auntie Daisy\C[0] <br>
+Where are you going?
+Crap!
+<c:0,120,0>Ugh... How could you?

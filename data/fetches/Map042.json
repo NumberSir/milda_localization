@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "To play the minigame, <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "talk to \\C[20]Daisy\\C[0] at night on \\c[30]Halloween\\c[0]."
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "You haven't bought it yet. <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Use \\c[1]Phone Call\\c[0] to buy it on \\c[30]Halloween\\c[0]. "
+    ]
+  }
+]

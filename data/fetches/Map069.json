@@ -1,0 +1,500 @@
+[
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "How do you feel, \\n[1]! Did you have fun?"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "I wish every day is outdoor class!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Ha-ha!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 102,
+    "param": [
+      "End Class",
+      "No"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Alright, everyone! That's enough for today."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Boy <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Uurgh! Come on..."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Boy <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Just a little bit more, \\C[14]Ms. Emmi\\C[0]"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Don't worry, we have outdoor class every week!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "The whole class <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "YEAH!!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Now, let's go back!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "It was so fun! <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "I'm looking forward to next week's outdoor class!"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "\\C[6]Ms. Betty\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "I'm busy, talk to someone else."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Girl <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Hey! Wanna go and pick some flowers?"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I better stay here..."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "\\C[21]Brad\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "You wanna eat my fist or maybe your ass wants to taste my foot!"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Girl <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Stay away from me!"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Girl <br>"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Hey! Wanna go and pick some flowers?"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "I better stay here..."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Alright class, we're here!"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Find a spot to set your bags down."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Oh, you can set the materials down here, \\n[1]."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Say no more..."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Thanks for the help \\n[1]. <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "I'll take it from here."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Go and set your stuff down so I can explain our activity."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "(Can't... feel... my arms...)"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "That's all for today's lesson!"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[6]Ms. Betty\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Stay away from mushrooms you don't know or that are brightly colored."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[6]Ms. Betty\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "If you are bleeding or bitten by a snake, <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "come here immediately."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[6]Ms. Betty\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Don't get any funny ideas."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "There's a campfire over there, <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "you can grill mushrooms or roast marshmallows."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\C[14]Ms. Emmi\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Think of it as a picnic. <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "We will return in the afternoon."
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "The whole class <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "YEAH!!"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "\\c[14]Work in process! <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "There is nothing you can do here yet. <br>"
+    ]
+  },
+  {
+    "id": 11,
+    "code": 401,
+    "param": [
+      "Talk with Emmi to end the outdoor class."
+    ]
+  }
+]

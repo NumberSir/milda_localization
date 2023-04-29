@@ -18,6 +18,7 @@ class Translation:
         os.makedirs(DIR_SUPPORT, exist_ok=True)
         os.makedirs(DIR_PROCESS, exist_ok=True)
         os.makedirs(DIR_MACHINE, exist_ok=True)
+        os.makedirs(DIR_PARATRANZ, exist_ok=True)
         os.makedirs(DIR_LOCALIZATIONS_FILES, exist_ok=True)
         shutil.copytree(DIR_BACKUP, DIR_RESULTS)
 
@@ -177,6 +178,7 @@ class Translation:
         for file in os.listdir(DIR_FETCHES):
             cls.pre_process_duplicate(file)
             cls.pre_process_special_words(file)
+            cls.pre_process_paratranz(file)
         logger.info("===== ALL FILES PRE PROCESSED DONE.")
 
     @staticmethod
@@ -244,12 +246,28 @@ class Translation:
         with open(DIR_PROCESS / file, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)
 
+    @staticmethod
+    def pre_process_paratranz(file: str):
+        """处理成 paratranz 能看懂的文件"""
+        with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
+            data: dict = json.load(fp)
+
+        results = [
+            {"key": k, "original": k, "translation": ""}
+            for k in data
+        ]
+
+        with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
+            json.dump(results, fp, ensure_ascii=False)
+        logger.info("\t- TRANSFER TO PARATRANZ FORMAT PRE PROCESSED DONE.")
+
     """ POST PRECESS """
     @classmethod
     def post_process_all(cls):
         logger.info("##### STARTING POST PROCESSING ALL FILES...")
         cls.post_process_translated()
-        cls.post_process_machine()
+        cls.post_process_paratranz()
+        # cls.post_process_machine()
         logger.info("===== ALL FILES POST PROCESSED DONE.")
 
     @staticmethod
@@ -269,6 +287,24 @@ class Translation:
             with open(DIR_MACHINE / "from" / f"{file_name}.txt", "w", encoding="utf-8") as fp:
                 fp.write("\n".join(list(data.keys())))
         logger.info("\t- TRANSFER TO TXT POST PROCESSED DONE.")
+
+    @staticmethod
+    def post_process_paratranz():
+        """把已有的翻译丢进 paratranz 里"""
+        for file in os.listdir(DIR_LOCALIZATIONS_FILES):
+            with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
+                data_localization: dict = json.load(fp)
+
+            with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
+                data_raw_paratranz: list[dict[str, str]] = json.load(fp)
+
+            for idx, raw in enumerate(data_raw_paratranz):
+                data_raw_paratranz[idx]["translation"] = data_localization[raw["original"]]
+
+            with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
+                json.dump(data_raw_paratranz, fp, ensure_ascii=False)
+
+        logger.info("\t- TRANSFER TO PARATRANZ FORMAT POST PROCESSED DONE.")
 
     """ APPLY """
     @classmethod
@@ -299,7 +335,6 @@ class Translation:
         with open(DIR_RESULTS / RAW_FILES["system"], "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False)
         logger.info("\t- SYSTEM APPLIED DONE.")
-        
 
     @staticmethod
     def apply_items():
@@ -469,9 +504,9 @@ def main():
     tr.fetch_all()          # 获取原文
     tr.pre_process_all()    # 预处理(合并重复句子、替换专有名词)
     tr.post_process_all()   # 后处理(删除已翻译的)
-    tr.apply_all()          # 应用翻译
-    tr.count_length()       # 统计内容长度
-    tr.cover_all()          # 覆盖源文件
+    # tr.apply_all()          # 应用翻译
+    # tr.count_length()       # 统计内容长度
+    # tr.cover_all()          # 覆盖源文件
 
 
 if __name__ == '__main__':

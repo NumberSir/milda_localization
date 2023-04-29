@@ -1,0 +1,135 @@
+Potion
+Magic Water
+Dispel Herb
+Stimulant
+Contain fresh milk.
+\c[3]+5\c[0] \c[1]Stamina\c[0]
+Bottle of Milk
+Contain fresh milk.
+Bottle of Milk (Quest)
+Dirty clothes.
+Should put them in the basket in the bathroom.
+Dirty Clothes (Quest)
+A little bit different from other pine. 
+Used for making the \c[2]Christmas Tree\c[0].
+Pine
+My handy dandy phone.
+Phone
+\C[20]Auntie Daisy\C[0]'s Axe.
+Don't know what she have it for.
+Daisy's Axe
+Tiny dust made by Flower Fairies.
+Used for making things smaller.
+Tiny Miny Mini Dust
+Lesbian porn Magzine Vol 1.
+Lesbian Porn Mag Vol 1
+School Hammer. Stealing is prohibited.
+School Hammer (Quest)
+Fixing the floor necessary items.
+Nails (Quest)
+Fixing the floor necessary item.
+Wooden Plank (Quest)
+Lesbian porn Magzine Vol 2.
+Lesbian Porn Mag Vol 2
+Contain Lady's dress and accessories.
+Lady Box
+New Clothes 
+Contains blessed water. 
+The use for spiritual cleansing.
+Holy Water
+Contains tea.
+Tea
+Wine bottle. 
+It looks pretty old. 
+Wine
+It can be used for something or eaten directly
+\c[3]+10\c[0] \c[1]Stamina\c[0]
+Pudding
+Looks very expensive. 
+Maybe it's not just a normal necklace.
+Elphaba's Gift
+Sunscreen Oil but with Secret Ingredients.
+This will bring pleasure to both her and yourself.
+Lover Oil
+Organic special formula.
+Hot Oil
+Summer Dress.
+Dress
+A bag of \I[282]Turnip seeds. 
+Days to grow: 5.
+Turnip Seeds
+A bag of \I[283]Potato seeds. 
+Days to grow: 8.
+Potato Seeds
+A bag of \I[284]Cucumber seeds. 
+Days to grow: 10. Days to Re-grow: 5.
+Cucumber Seeds
+A bag of \I[285]Corn seeds. 
+Days to grow: 15. Days to Re-grow: 4.
+Corn Seeds
+Can be used to open Daisy's room.
+Daisy's Room Keys
+Contains enough tools that you can freely 
+decorate or repair on your own.
+DIY Tools
+All you need to know to stimulate a female's body.
+Adult Massage Book
+Lesbian porn Magzine Vol 3.
+Lesbian Porn Mag Vol 3
+A book from another World
+Fantasy Book
+An adult book. Only for nobles
+TeacherXStudent Book
+It can be used for something or eaten directly
+\c[3]+5\c[0] \c[1]Stamina\c[0]
+Bubble Tea
+Coffee
+Can be eaten raw or used as an ingredient.
+\c[3]+2\c[0] \c[1]Stamina\c[0]
+Turnip
+Can be eaten raw or used as an ingredient.
+\c[3]+3\c[0] \c[1]Stamina\c[0]
+Potato
+Cucumber
+Corn
+Can be eaten raw or used as an ingredient.
+\c[3]+20\c[0] \c[1]Stamina\c[0]
+Honey
+Obtained from cutting Tree Stumps
+
+Wood
+Obtained from smashing Bluish Rocks
+
+Stone
+Used for Building or Crafting
+Nails
+Used for hoeing or destroying seeds.
+\c[10]-3\c[0] \c[1]Stamina\c[0]
+Hoe
+Used for removing grasses or crops.
+\c[10]-3\c[0] \c[1]Stamina\c[0]
+Sickle
+Used for planting seeds or harvesting.
+\c[10]-3\c[0] \c[1]Stamina\c[0]
+Glove
+Used for watering crops. \c[10]-3\c[0] \c[1]Stamina\c[0]
+Water Left: \c[1]\v[205]/16\c[0] <br>
+Water Can
+Used for cutting Tree Stumps
+\c[10]-3\c[0] \c[1]Stamina\c[0]
+Axe
+Used for smashing Rocks
+\c[10]-3\c[0] \c[1]Stamina\c[0]
+Hammer
+\C[20]Ek\c[0]'s Great, Great Grandfather's Axe 
+Legend says it was used to defend from the Evil Force
+Broken Axe
+A workbench for building buildings or crafts
+Choose a location and place it
+Workbench Scroll
+A Bee House for Bees to live in
+Choose a location and place it
+Bee House Scroll
+Materials required:
+\I[295]Woods: 30|\I[305]Stones: 15|\I[297]Nails: 30
+Bee House Blueprint

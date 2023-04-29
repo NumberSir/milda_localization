@@ -1,0 +1,199 @@
+Me <br>
+Is that a banana tree? <br>
+This is my first time seeing one.
+Wow! This place looks like a cabin with a field over there...
+...And chickens.
+??? <br>
+You came back a little earlier than usual, \C[5]Maleena\c[0].
+So her name is \C[5]Maleena\c[0].
+Who is this little one? Is he your new friend?
+\C[5]Maleena\c[0] <br>
+I was jumping off a tree and... <br>
+landed my foot... on his face...
+I brought him here because I was worried that he would get any injuries.
+Can you check on him for me?
+That's terrible.
+Hmm... <br>
+Everything... look fine. <br>
+Except...
+There are a few small scratches on the face.
+This is my homemade medicine with natural herbs. <br>
+It will heal scratches on your face.
+How did you do that, kid?
+Well, I don't know.
+I felt a sudden gust of wind slap my face and my body immediately pulled back on its own.
+That's incredible!
+If you master it, you will be as slippery as a fish.
+No one can land a punch on you.
+Hmm...
+Why are you touching my arms and legs?
+Your physicality amazes me. <br>
+Did you train something before?
+I'm just doing some exercise and stretching.
+\C[20]Ek\c[0] <br>
+My name is \C[20]Ek\c[0]. <br>
+She is my granddaughter, \C[5]Maleena\c[0].
+I'm \n[1]! Nice to meet you!
+You are a bit old to learn martial arts but you have many things that can make you a great fighter.
+How about this?
+I can teach you, Muay Thai. My homeland fighting style.
+Do you want to be my student?
+No.
+Hahaha!
+Good! <br>
+We can start tomorrow!
+NO!? <br>
+What!? Why?
+It's boring and takes a lot of time!
+Well yes, it is! <br>
+But you can fight bad buddies and many girls will fall in love with you.
+I will teach you for free.
+We are not in an action movie. <br>
+Bad guys aren't everywhere.
+And I have more important things to do.
+That's too bad...
+Okay, you just missed your chance.
+It will be kinda pricey if you want to learn something from me.
+\C[5]Maleena\c[0], walk your little fella out.
+What is with him?
+He turns his face like flipping paper.
+What are you doing, Grandpa?
+Don't call me like that!
+I'm feeding the chickens.
+It looks interesting. <br>
+Do you need my assistance?
+What!? <br>
+I thought you didn't want to do boring things.
+You won't get anything from this old man.
+They call me the helper boy.
+More importantly, <br>
+I wouldn't do this every day, tho. <br>
+I do what I want.
+Alright. <br>
+Little force is better than nothing.
+But I won't give you anything for your help.
+What should I do now?
+Feeding is enough.
+Okay, leave it to me.
+*Phew*
+Done!
+How is that?
+Haha! <br>
+Thanks for your help, little one.
+\C[20]Ek\c[0]: \C[3]+5\C[0] <br>
+\C[20]Ek\c[0]: \v[145]
+What are you doing here?
+Shop
+Help
+No
+Heh heh! <br>
+It's always welcome if you buy woods and stones from me.
+Let me help you feed the chickens!
+Ha ha! <br>
+Thanks!
+Thank you for your help but it kinda ruined my hobby.
+Haha!
+Watch
+Can I sit here and watch your training?
+Just don't touch anything. <br>
+You are not my student anyway.
+Especially that punching bag.
+Damned! <br>
+I shouldn't have refused so quickly.
+The training session is over.
+I don't think you're still sitting here.
+Thank you for letting me observe. <br>
+It's really interesting.
+\C[5]Maleena\c[0]: \C[3]+3\C[0] <br>
+\C[5]Maleena\c[0]: \v[165]
+I'm about to start my morning training.
+You can stay here and watch, <br>
+It's pretty interesting!
+Holy shit! <br>
+I can't even see his hand.
+How can you do that?
+Gahaha!
+This is nothing compared to when I was younger.
+I can chop all these logs in one minute.
+I somehow believe in it...
+Does material arts training make people that strong? 
+Now I regret that decision...
+Why are you here for?
+You said I come here for the Bee House solutions.
+Oohh! <br>
+I almost forgot.
+We will talk about it later after I've finished all of this.
+All right! <br>
+Morning warm up done!
+Damn...
+Here!
+What is this!?
+A Workbench! <br>
+The most important thing if you want to build anything.
+Go to the desired location and place it.
+It's just... a scroll!??
+What did you just say?
+Oh, SNAP!!! <br>
+Fantasy, MAGIC! <br>
+I forgot!
+What? I'm still listening.
+Okay!?
+So after placing the Workbench. <br>
+How can I make a Bee House "Scroll"?
+Workbench is a finished product.
+Before that you need a Blueprint. <br>
+You can buy it from me, here.
+After gathering all the necessary Materials listed in the Blueprint, you can go to your Workbench and use all of those to create a final product.
+The basic materials are Wood, Stone and Nails.
+I have to go to the forest to chop trees now?
+No, no, no! <br>
+You can only do that if you have a logging license. 
+There're \c[1]Tree Stumps\c[0] around the forest, <br>
+you can get wood from cutting those.
+Not every stone will work. <br>
+Only choose the \c[1]Bluish Stones\c[0], they contains some iron elements which will make the structure more solid.
+Heh heh heh...
+Or...
+You can buy those from me as well but it has a really high price.
+How much is it?
+\c[17]100\c[0]\i[172] each.
+You gotta be kidding me.
+I could build a solid gold house with those materials money.
+He he!
+Then the only way you can go now is to find them by yourself.
+By the way, <br>
+I'm the only one selling wood and stone in this town.
+Dang!
+It will be more fun by doing it yourself, little one.
+Oh! I still have something for you.
+An axe from my great, great grandfather.
+It's in a bad condition and I can't use it anymore.
+Better give it to someone than throw it away.
+Wow, Thanks!
+There's only one blacksmith in town. <br>
+It can be fixed there.
+\C[2]Danesia\c[0]?
+Oh, you knew her?
+I have some business with her before.
+You can buy \c[1]Nails\c[0] and \c[1]Hammer\c[0] from her too.
+\c[17]100\c[0]\i[172] for each Nail?
+Gahaha! <br>
+It ain't that much!
+That should be everything.
+Did you catch up?
+I got it all.
+Thank you, Grandpa!
+No problem!
+So, it should be.
+Buy a \c[1]Blueprint\c[0] from Grandpa \C[20]Ek\c[0], <br>
+collect all the \c[1]Necessary Materials\c[0] listed in the blueprint then go to the \c[1]Workingbench\c[0]...
+And Voila!
+Choose the \c[1]Desired Location\c[0] and place the \c[1]Final Product\c[0].
+I can get \c[1]Wood\c[0] and \c[1]Stone\c[0] from chopping \c[1]Tree Stumps\c[0] and mashing \c[1]Bluish Rocks\c[0].
+But first I need to place the \c[1]Workbench\c[0] first.
+There's a small area near my Planting Spot. <br>
+I should place it there.
+\c[14]Workbench\c[0]\i[191] and \c[14]Broken Axe\c[0]\i[255] \c[1]Acquired\c[0]
+You've learned how to build a \c[14]Bee House
+\c[1]New Honey Quest has been added <br>
+\c[21]You can access Quest Logs by 'A' key or through Menu

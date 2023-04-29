@@ -1,0 +1,30 @@
+{
+  "gameTitle": "Daily Lives of My Countryside",
+  "locale": "en_US",
+  "commands": [
+    "Fight",
+    "Escape",
+    "Attack",
+    "Guard",
+    "Item",
+    "Skill",
+    "Equip",
+    "Status",
+    "Formation",
+    "Save",
+    "Game End",
+    "Options",
+    "Weapon",
+    "Armor",
+    "Key Item",
+    "Equip",
+    "Optimize",
+    "Clear",
+    "New Game",
+    "Continue",
+    "To Title",
+    "Cancel",
+    "Buy",
+    "Sell"
+  ]
+}

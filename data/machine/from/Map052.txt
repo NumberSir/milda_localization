@@ -1,0 +1,49 @@
+Me <br>
+I should talk \C[3]Elphaba\C[0] if I want to leave.
+\C[3]Elphaba\C[0] <br>
+I have something for you. 
+What is this?
+You will feel better after drinking it.
+Sweet!
+I'm thirsty as hell.
+Wow! I feel like I'm full of energy. The feeling of being tired from walking around in the forest seemed to have disappeared.
+That is its effect and it has a side effect.
+Side effect. What is its side effect?
+What is happening? Why do I feel so tired?
+That is its side effect.
+Wait, what!? So why did you let me drink it?
+For fun.
+What!? You're so evil.
+That's what they always say.
+Ha-ha.
+What are all those things? Looks like you want to do something.
+What do they call? Something like ache...
+Alchemist.
+Ha-ha! That's right. Alchemist!!!
+You look more like a witch to me.
+I have finished arranging everything. I'll take you out now.
+??? <br>
+Welcome to my house! Make yourself at home.
+Holy cow! It feels like going back a hundred years.
+What kind of decoration is this?
+Hey... erm...
+Oh, I haven't introduced myself yet. 
+\C[3]Elphaba\C[0] is my name.
+My name is \n[1].
+What is this door?
+Stay away from it.
+Hmm...
+Now, I'm more curious.
+This is no joke. 
+If you've seen anything in there, it's a pity...
+That I have to eliminate you.
+Ha-ha. Just kidding.
+Phew. You scared me there for a moment.
+Seriously, don't go in there.
+Gulp.
+Okay, I have to sort things out. If there's any problem just ask me.
+Okay.
+What is this place, I feel like walking into a fairy tale book.
+Is that a cauldron? Man, I feel like I'm in a witch house right now.
+This place gives me a warm feeling. I think it's just my imagination.
+I'm really curious what's behind this door but it's better not to touch it.

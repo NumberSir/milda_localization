@@ -1,0 +1,16 @@
+Me <br>
+I managed to get in here. Easy enough!
+Now let go to the 2nd floor. 
+The floor is made of wood. Hope it doesn't make any loud noise.
+\C[4]Ms. Susan\C[0] <br>
+I'll go get the tools.
+Luckily, all the necessary items are available. 
+Oops...
+Are you okay?
+He-he, I'm fine. But don't tell anyone, okay?
+*Phew*
+Here.
+Thank you very much, \C[4]Ms. Susan\C[0]. I think these are enough for what I need. 
+In that case, if you need anything come and ask me. 
+See you later, \C[4]Ms. Susan\C[0].
+Okay, I should go and fix it now.

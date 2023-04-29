@@ -1,0 +1,25 @@
+gameTitle
+locale
+Fight
+Escape
+Attack
+Guard
+Item
+Skill
+Equip
+Status
+Formation
+Save
+Game End
+Options
+Weapon
+Armor
+Key Item
+Optimize
+Clear
+New Game
+Continue
+To Title
+Cancel
+Buy
+Sell

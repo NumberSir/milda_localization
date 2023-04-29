@@ -2,6 +2,7 @@ from pathlib import Path
 
 VERSION = "0.2.7.1"
 
+"""游戏 data 文件夹绝对路径"""
 DIR_ROOT = Path("D:\Joy\Butter\Daily Lives of My Countryside v0.2.7.1 (PC) (Bugfix)\www\data").absolute()
 DIR_PROJECT = Path(__file__).parent
 DIR_BACKUP = DIR_PROJECT / "BACKUP"
@@ -11,6 +12,7 @@ DIR_SUPPORT = DIR_PROJECT / "data" / "support"
 DIR_FETCHES = DIR_PROJECT / "data" / "fetches"
 DIR_PROCESS = DIR_PROJECT / "data" / "processes"
 DIR_MACHINE = DIR_PROJECT / "data" / "machine"
+DIR_PARATRANZ = DIR_PROJECT / "data" / "paratranz"
 DIR_LOCALIZATIONS = DIR_PROJECT / "data" / "localizations"
 DIR_LOCALIZATIONS_FILES = DIR_LOCALIZATIONS / "files" / VERSION
 
@@ -38,6 +40,7 @@ __all__ = [
     "DIR_FETCHES",
     "DIR_PROCESS",
     "DIR_MACHINE",
+    "DIR_PARATRANZ",
     "DIR_LOCALIZATIONS",
     "DIR_LOCALIZATIONS_FILES",
 

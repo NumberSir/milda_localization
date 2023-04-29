@@ -1,0 +1,7 @@
+Me <br>
+...
+It's staff only. I don't want to get into any trouble.
+Too early.
+Okay, let's go. I'm kind of nervous.
+Too late, I should come back tomorrow.
+Today is the \c[2]Weekend\c[0], I should come back on \c[12]Monday\c[0]. 

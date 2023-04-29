@@ -1,0 +1,31 @@
+\c[12]Tony\c[0] <br>
+Hello, sir. How can I help you?
+Thank you. Please come again.
+Me <br>
+Hmm...
+I couldn't find it anywhere. Better ask the shopkeeper.
+Hello, I want to buy something like this.
+Hi, please wait a moment.
+We're sorry! It seems that we have sold out of this product.
+Do you want to buy similar products?
+Doesn't seem okay. I buy this for a friend.
+Tell me how they are. I can advise you.
+She is my girlfriend.
+Well. She is a girl and probably count as my friend. 
+So... I guess nothing wrong with it.
+In that case, you can try this.
+This will bring pleasure to both her and yourself.
+What the hell?
+It is sunscreen anyway. It would be fine...
+I guess...
+It looks so familiar...
+Oh! Look like I already bought it.
+It will be 2000\i[172].
+Buy
+No
+Do you need anything else?
+I only take this. Thanks!
+I will look for another sunscreen oil.
+Oh man, 2000\i[172]! I don't have enough money. Better get it next time.
+I will find another sunscreen oil.
+Thank you very much! Please tell me if you need anything else.

@@ -1,0 +1,24 @@
+Me <br>
+Shouldn't bother while she's sleeping.
+That should be enough.
+The door’s locked.
+How am I supposed to get in there?
+Hmm...
+I need a key, but where could I get one? I need to think about this some more.
+Better hurry to my magic hole!
+Better not.
+\C[2]Anna\C[0] <br>
+Hey \n[1], I had a dream last night. I was milking a cow and her milk sprayed all over my face.
+When I woke up, my face was still sticky for some reason, just like in the dream. Weird, right?
+... I guess it must have been your saliva.
+Ohhh... Maybe you're right, that does make sense.
+Yay! It's \c[2]Christmas\c[0]!
+Are you ready, \n[1]? We can go to school together after I finished brushing my teeth..
+Sure!
+I have something to do
+Yay!
+Ehh...! Why not? It would be more fun.
+We're not kids anymore.
+What's your plan today, \n[1]? Do you wanna play with me?
+Maybe later when I have some spare time.
+I must hurry!

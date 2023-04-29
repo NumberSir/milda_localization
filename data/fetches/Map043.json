@@ -1,0 +1,537 @@
+[
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "The fire is burning."
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "The fire burns weakly. "
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "It's too hot."
+    ]
+  },
+  {
+    "id": 1,
+    "code": 102,
+    "param": [
+      "Use Tea\\i[212]",
+      "Use Wine\\i[211]",
+      "Leave"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "It's still quite hot but I could see everything inside. "
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "Huh!? There seems to be a hidden path. Should I go in? "
+    ]
+  },
+  {
+    "id": 1,
+    "code": 102,
+    "param": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Let's take some in case I get thirsty."
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "Let's take some in case I get thirsty."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I guess it could be used on something."
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 5,
+    "code": 401,
+    "param": [
+      "I guess it could be used on something."
+    ]
+  },
+  {
+    "id": 6,
+    "code": 401,
+    "param": [
+      "<c:0,120,0>Ugh... How could you?"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "What is this place?"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Now that I wonder... Where am I?"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Oh, the fly swatter is still here..."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Anyway, let's get out of here."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "I swear I'm not gonna buy weird shit again."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Find a way to get out of here."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "You will be hit when \\C[20]Daisy\\C[0] touch you. <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Touch \\C[20]Daisy\\C[0]'s butt if you want to attack."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Your clothes will be shredded by \\C[20]Daisy\\C[0]'s attack. <br>"
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Collect \\c[17]New Clothes\\c[0]\\i[155] and use it to recover."
+    ]
+  },
+  {
+    "id": 7,
+    "code": 401,
+    "param": [
+      "Use \\c[17]Holy Water\\c[0]\\i[228] to erase \\c[10]Horny level\\c[0]."
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Man, can't seem to find a way out."
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 8,
+    "code": 401,
+    "param": [
+      "Crap!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "What are you doing here?"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Much better."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "I can't wait any longer. Let's the fun begin!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Hmm..."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "So warm..."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's feel good. Auntie's pussy is cold."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "This weird shiver is sending through my spine."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 102,
+    "param": [
+      "Next"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "So good... "
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Slow down, Auntie! You're breaking my back."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 102,
+    "param": [
+      "Cum"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's so good! I can't hold it back anymore."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Give me, shot your hot blood deep inside me!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "You shot out so much. "
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[20]Auntie Daisy\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "My womb is filled with your semen and it's so warm..."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 102,
+    "param": [
+      "End"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Man, such a weird dream..."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "I better prepare myself, as there is school today!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Let's go!"
+    ]
+  }
+]

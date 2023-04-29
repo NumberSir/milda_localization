@@ -1,0 +1,29 @@
+\c[12]Tony\c[0] <br>
+Hello, sir. How can I help you?
+Thank you. Please come again.
+\C[2]Anna\C[0] <br>
+I’m going to pick out some clothes.
+You can do something else while you wait.
+Me <br>
+It’s OK. I came here with you, so I might as well be here.
+That’s the spirit.
+Oh, that’s a cute dress. Give me a second, let me try it on.
+How does this dress look?
+Wow!
+You look so nice and cute!
+Thank you, \n[1]!
+Aww, but it’s so expensive.
+I can’t afford it.
+I’ll look for other clothes.
+I will buy it for you.
+Really!?
+Of course!!!
+But I didn't bring enough money, I will buy it for you later.
+Thank you so much, \n[1]!
+Damn! These things are so expensive. Like three for four times normal.
+But if it makes them happy, it's worth it.
+I want to buy Auntie a dress too. For taking care of me.
+That’s really generous of you.
+How about we surprise her at dinner?
+That's a great idea!
+I bet mom will be amazed and love it!

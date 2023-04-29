@@ -1,0 +1,4319 @@
+[
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Good morning, \\C[25]Ms. Megan\\C[0]! You sure an early bird!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "It's my job. I need to observe every detail to ensure the peace of this school."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "(Ye, you sure did your job! You didn't do anything the first time I went to this school and got into trouble.)"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "What's going on? I can sense bad thoughts through your smile."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "You're just overthinking. Anyway, have a good day!"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "You too! "
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "The class already ended one hour ago. What are you still doing here?"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Sorry, \\C[25]Ms. Megan\\C[0]! I'm too tired and overslept."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Seriously! You such a night owl. You should sleep earlier to ensure your health."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Enough talk. I will take you out."
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 3,
+    "code": 401,
+    "param": [
+      "Thanks, \\C[25]Ms. Megan\\C[0]!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's pitch dark in this place! Must careful not to make any loud noise."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[22]Theo\\C[0] said, there is a ladder on the left."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "I should start there to able to get into the school."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's so dark! I'm starting to nervous!"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's pitch dark in this place! Must careful not to make any loud noise."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "\\C[22]Theo\\C[0] said, there is a ladder on the left."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "I should start there to able to get into the school."
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 13,
+    "code": 401,
+    "param": [
+      "It's so dark! I'm starting to nervous!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 102,
+    "param": [
+      "Talk",
+      "Leave"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Hey, it's nice to meet you."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Letting you know that your underwear is wide open. Everyone will see everything..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "???"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Oh! I know you!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "What? Am I famous?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "You're the pervert that walks around the school with his penis hanging out."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "!!!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "That is a misunderstanding. My pants got pulled down, I didn't know!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Besides, it would be better that you should introduce yourself."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "I don't care. Stay away from me, pervert."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(What is wrong with her? I just wanna be nice.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "It's you again. What do you want now?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 102,
+    "param": [
+      "Tell her",
+      "Leave"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "I just want to say that your underwear is visible, everyone can see it."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Pff... Everyone? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Do you mean? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "You."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Besides, I am wearing my pantie. You can't see anything except a piece of cloth."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "But..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Won't you feel ashamed if you wore pants? No one could see your penis."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Maybe you're right. But, I feel something wrong. "
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Wrong!?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "You're such an idiot! Enjoy looking long as you want. It's a piece of cloth."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(Who is the idiot right now? I don't know...)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "It's nothing. I'm just passing by."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Hmm... I just notice that you have been here for a while."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(This idiot again.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(Hmm...)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(I guess teasing him a little bit won't hurt.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(I bet he hungers to see my smoothie.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Hmm... What is she doing?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "!!!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Ha-ha! I guess you really want to see what it looks like under my pantie, right?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Sadly, you can't see anything."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "!!!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(W-What? I didn't expect this to happen.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(Wow!)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(It so beautiful. Smooth and pink.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Eek!!?"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "What is in your pants? It got so big now."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Ha-ha! You even got a boner. Such a weirdo!"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(Man, this is so embarrassing. But I guess I already got some benefits to fill that.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(It's him again. Let's make the same recipe.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "(He wants to see my pussy so badly.)"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 102,
+    "param": [
+      "Again",
+      "Leave"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "What just happened? I can't see anything."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "You probably saw nothing."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Maybe later."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "I'm not that idiot. Definitely."
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 16,
+    "code": 401,
+    "param": [
+      "That would be enough. It would be fucked up if she notice."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Hurry up! You're too slow!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "It's not that I'm slow but you're running too fast."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Haha! You are so weak!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I remember running up the mountain without taking a breath. What happened to my body since I got to the city?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Hey, \\C[2]Anna\\C[0]!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\n[1], this is \\C[4]Lily\\C[0]. She is my best friend!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Hi, \\C[4]Lily\\C[0]. Nice to meet you."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Hello~"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Well then \\C[2]Anna\\C[0], I'll just wait for you in the classroom."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "See you around, \\n[1]."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Bye, \\C[4]Lily\\C[0]."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Sorry, I have to go."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "My teacher usually needs my help around this time."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "It's okay. You should hurry and help her out then."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I'll see you after school then!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "See you later."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Now! let's see what my new school looks like."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "HEY! STOP RIGHT THERE, TWERP."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "What are you doing here, brat? Separated from your mommy?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "....No? I'm a transfer student, this is my first day of school."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "You must have come to the wrong place, because this isn't a kindergarten."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Hey! Don't judge people by their looks. Just so you know, I'm over 18 years old."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "And I'm pretty sure this is the school I'm gonna be studying at from now on."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "If you're old enough to be here. You didn't come to the wrong place. I guess you already know my name by now."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Erm... No, I don't. Am I supposed to?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "WHAT!!! You move here and you don't know my name??"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "That really hurt my soul. Now, give me money to heal my wounded soul."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "WHAT!? That doesn't make any sense at all."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Then you better give me some money too. As my soul kinda hurts too now."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(Fuck! This always works on twerps. This brat is tougher than he looks. He didn't even get scared by my intimidation.)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(I can't beat him up right now, too many people around.)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(Maybe I should give him a swirly?)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(No wait, there's not a toilet outside...)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(Oh wait, I got an idea!)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Ayy! Look! There's a girl with no pantie on sitting over there!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(I'm a genius! This will definitely work on this idiot.)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "(Now is my chance, I must hurry before he notices.)"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Wow!  <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "There actually is a girl with no pantie on sitting over there."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I can clearly see everything."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Damn... She looks so smooth and soft..."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Shit! I was staring her too hard. Another thing got hard too!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me  <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I hope no one saw me staring at her with an erection."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Wait.... WTF! What happened to my pants??"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "What is going on out here?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[21]Brad\\C[0]. It's you again. I should have known."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "For the last time, this is not your home. Stop playing around."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[21]Brad\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Tsk!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[21]Brad\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "You better watch your back or I will beat your ass next time. Twerp!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Ehem! You should put your pants back on."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me  <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Oh! I almost forgot about it. Sorry!"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "???  <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "You seem to have forgotten how to hide your embarrassing \"thing\" as well."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Well, you see it anyways. So, there is no need to hide it now."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Well, at least you're a funny guy, I kinda like it."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Let me guess, you're \\n[1], the new transfer student. Am I right?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Yea."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Well, I'm the school's student council president. You can call me \\C[31]Marie\\C[0]."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Nice to meet you, \\C[31]Marie\\C[0]."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Is there something on my face?"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I-It's nothing. I have never seen someone with white hair before and you seem kinda cool too. Sorry for staring though.."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Cool? That's not a good word to praise a girl with you know. But, I guess I will accept it."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "You look really beautiful when you smile then too, I hope I'll see you smiling some more often."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "I will not fall for that, Mr. Playboy. "
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Well the class is about to start, I have to go now."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "If you have any problems, you can ask me after class."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Good luck on your first day. Until next time."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "See you later."
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0]: \\C[3]+10\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 20,
+    "code": 401,
+    "param": [
+      "\\C[31]Marie\\C[0]: \\v[101]"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Man, this is so embarrassing."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Fortunately no one at the moment."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Hello~"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "It's \\C[2]Anna\\C[0] best friend, \\C[4]Lily\\C[0]."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Good morning, \\n[1]. "
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Good morning, \\C[4]Lily\\C[0]."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "They are going for a chat. What should I do now?"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 102,
+    "param": [
+      "Stay",
+      "Leave"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Yawn"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "It's so early."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "It's so empty here. I could barely see anyone."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "They really are going deep into the conversation. I don't know how some people could talk so much."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 102,
+    "param": [
+      "Tease \\C[2]Anna\\C[0]",
+      "Leave"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "He-he. There is no one around here."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "This is a payback for the time she slapped my dick while I was sleeping."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "So round and fluffy... My favorite."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "!!?"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Heeyyyy! "
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "What are you doing?"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "What's wrong, \\C[2]Anna\\C[0]?"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "It's nothing. I just fixing her skirt. It's not in the right place."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 102,
+    "param": [
+      "End"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "I will get in first. See you guys later."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "See you around, \\n[1]."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "See you after school."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "I will get in first. See you guys later."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[4]Lily\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "See you around, \\n[1]."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "See you after school."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "See you after school."
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0]: \\C[3]+2\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 22,
+    "code": 401,
+    "param": [
+      "\\C[2]Anna\\C[0]: \\v[23]"
+    ]
+  },
+  {
+    "id": 23,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 23,
+    "code": 401,
+    "param": [
+      "It's locked."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] is still here!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] probably would sneak into the school tonight."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 102,
+    "param": [
+      "Adjust the Ladder ",
+      "Use the Ladder",
+      "Back"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Hehehe."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I already did it. "
+    ]
+  },
+  {
+    "id": 27,
+    "code": 102,
+    "param": [
+      "Use the Ladder",
+      "Back"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Huh? There's something stuck on the fence!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 102,
+    "param": [
+      "Come Closer",
+      "Leave"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Stupid fence! Why am I so unlucky!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "It speared through my pants and I can't get down!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(There's someone down there. Maybe I can ask him for help.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Wait! Isn't he my classmate?)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(What is his name again? ...If I remember correctly it was probably \\n[1].)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(This is bad! I don't want him to see me like this and tell everyone in the class.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Huh? ...You really look like someone I've met."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Have we ever met?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(That's right! It's too dark now. I can keep my distance and change my voice so he can't recognize me.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I'm this school student anyway. Perhaps you've seen me a few times."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Don't you mind give me a helping hand?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I've been hanging up here for quite a while. So now I feel really uncomfortable and dizzy."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I got lost in my thoughts and I forgot you were hanging on it."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Let me help you down."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Well, well, well. What do we have here?)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(I still remember the last time she did to me.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(It's time to take revenge.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(What should I do with this unlucky person!)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Again! Are you kidding me?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "!!!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "It's him again!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(I can ask him to save me ... Damn! Almost forgot the last time.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Really sure, this time he won't help me again after all I've done to him.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Hi! Sorry about last time!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Can you forgive me and help me down, please?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Her pleading face looks so adorable!)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(If I have never seen about those things in \\C[14]Ms. Emmi\\C[0]'s office.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(I will ignore the last time and help her without any hesitate.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(But...)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(I've already seen your final form, \\C[27]Mabel\\C[0])"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "It's okay! I'll help you down right now!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Such an idiot! It can only be as simple as this!)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 102,
+    "param": [
+      "Slap",
+      "Help",
+      "Leave"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "W-What are you doing!?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "You're piece of shit! What the fuck are you doing?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "That's it! I'm calling the police! You are done for!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I'm sorry! Please stop!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Huh?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Man! This is so fun!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Are you okay?"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "(Crap! I overdo it! Hope she's okay.)"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "You're gonna pay for this!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0]: \\C[3]+3\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0]: \\v[103]"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Hmm... What is this sticky liquid?..."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0]: \\C[3]+2\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "\\C[27]Mabel\\C[0]: \\v[103]"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Hey! At Least Say, \"Thank You!\" before leaving!"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Meh! I guess it just a piece of clothes."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 27,
+    "code": 401,
+    "param": [
+      "I'm too tired. Better go home and take a good sleep."
+    ]
+  },
+  {
+    "id": 27,
+    "code": 102,
+    "param": [
+      "Use the Ladder",
+      "Back"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "Couple <br>"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "Couple <br>"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "Couple <br>"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "*Shoo* *Shoo*"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "Couple <br>"
+    ]
+  },
+  {
+    "id": 28,
+    "code": 401,
+    "param": [
+      "Can't you see we are working, kid?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Thanks for your helping!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "I'm glad to help you!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Anyway, why are you hanging up there?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Uhm... I saw a cute cat in school... and I wanted to go in there and pet it..."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "(I made a loud noise as I fell. \\C[25]Ms. Megan\\C[0] will appear any moment, I must get out of here.)"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Hey! Are you even listening?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "I'm \\n[1]. What is your name? Why are you so far away from me?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "(This guy is so annoying! No time wasting, I have to get out of here!)"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "(It's \\C[25]Ms. Megan\\C[0]!!!)"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "(I'm too slow! I can't out run her!)"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "(Exactly! I can use this idiot to buy some time for me.)"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Hey! What are you looking at? Run!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Ouch! It hurts!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "My face feels like burning and flatten. "
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "What is wrong with her? Why would she do this?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Hey!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "What are you doing?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Did you try to break into the school and steal something?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Wait! What!? Why would I do that?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "So, can you explain these noises just now?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "That's the sound when I fell to the ground..."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "You got busted and run. You were so clumsy that you fell on the ground."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "But..."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Then, can you explain the previous sound? Like the metal noise, when someone like you tries to climb on those metal fences."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "There was a girl trapped on that fence. I just helped her get down."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Are you out of your damn mind?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Now you're tellin' me your imagination nonexistent story?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Follow me! I need you to write something."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "This place is bright enough. I need you to write something on here..."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Wait! Ain't you the new transfer student?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "It's me. I'm moving in here not so long ago."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "I just wanted to go for a walk and fell into this bad situation."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "It makes sense now. Sorry for yelling at you earlier."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "It's okay! You're just doing your job."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "You can go now! But don't get excited too soon! You are still on my list."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "\\C[25]Ms. Megan\\C[0] <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "If I catch you making another suspicious noise again. You're in big trouble! Understand?"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "I understand. Thanks, \\C[25]Ms. Megan\\C[0]!"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "*sigh*"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "What is this unlucky day? Better check the calendar before step out of the house next time."
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 31,
+    "code": 401,
+    "param": [
+      "I'm too tired. Better go home and take a good sleep."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Is he the one that \\C[22]Theo\\C[0]'s talking about?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "I'm just a little zombie chasing a dummy man."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "What... the fuck?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "I'm faded..."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "What the hell? Are you on drugs or something!?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Damn, this is so embarrassing. Is he the dealer?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "What is the last one? Kimchi war?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Kimochi waruiii...?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Aeyyyyyyy."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[16]Tuuku\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Nice to meet you, bro! My name is \\c[16]Tuuku\\c[0]."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Phew, it's him."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[16]Tuuku\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Here is your stuff."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[14]Massage Oil\\c[0]\\i[214] and \\c[14]Massage Book\\c[0]\\i[230] \\c[1]Acquired\\c[0]"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[16]Tuuku\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Thanks, man! Come back anytime."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Thanks!"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Phew, I got it. Why is this stuff so hard to get?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Doesn’t matter. Next opportunity, I’ll give Auntie a massage."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Me <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "I need \\c[14]3000\\c[0]\\i[172]!"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[16]Tuuku\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Hey! Do you need anything?"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "\\c[16]Tuuku\\c[0] <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "Thanks, man! Come back anytime."
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "??? <br>"
+    ]
+  },
+  {
+    "id": 34,
+    "code": 401,
+    "param": [
+      "..."
+    ]
+  }
+]

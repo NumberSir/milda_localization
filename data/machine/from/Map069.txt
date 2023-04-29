@@ -1,0 +1,46 @@
+\C[14]Ms. Emmi\C[0] <br>
+How do you feel, \n[1]! Did you have fun?
+Me <br>
+I wish every day is outdoor class!
+Ha-ha!
+End Class
+No
+Alright, everyone! That's enough for today.
+Boy <br>
+Uurgh! Come on...
+Just a little bit more, \C[14]Ms. Emmi\C[0]
+Don't worry, we have outdoor class every week!
+The whole class <br>
+YEAH!!
+Now, let's go back!
+It was so fun! <br>
+I'm looking forward to next week's outdoor class!
+\C[6]Ms. Betty\C[0] <br>
+I'm busy, talk to someone else.
+Girl <br>
+Hey! Wanna go and pick some flowers?
+\C[27]Mabel\C[0] <br>
+I better stay here...
+\C[21]Brad\C[0] <br>
+You wanna eat my fist or maybe your ass wants to taste my foot!
+Stay away from me!
+Alright class, we're here!
+Find a spot to set your bags down.
+Oh, you can set the materials down here, \n[1].
+Say no more...
+Thanks for the help \n[1]. <br>
+I'll take it from here.
+Go and set your stuff down so I can explain our activity.
+(Can't... feel... my arms...)
+That's all for today's lesson!
+Stay away from mushrooms you don't know or that are brightly colored.
+If you are bleeding or bitten by a snake, <br>
+come here immediately.
+Don't get any funny ideas.
+There's a campfire over there, <br>
+you can grill mushrooms or roast marshmallows.
+Think of it as a picnic. <br>
+We will return in the afternoon.
+\c[14]Work in process! <br>
+There is nothing you can do here yet. <br>
+Talk with Emmi to end the outdoor class.

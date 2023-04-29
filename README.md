@@ -3,6 +3,7 @@
 ├── data
 │   └── localizations
 │       └── files
+│           └── {VERSION}
 ├── __init__.py
 ├── consts.py
 ├── log.py

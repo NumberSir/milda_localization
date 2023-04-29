@@ -1,0 +1,955 @@
+\C[2]Anna\C[0] <br>
+Hey \n[1]?
+Me <br>
+Yes, Anna?
+My stomach is growling at me. I'm wondering...
+Could it be that my stomach is angry at me because I ate something before lunch?
+Haha Anna, it's just growling because you're hungry.
+Where is your mom, \C[2]Anna\C[0]?
+She went to the market to prepare for the evening.
+We will have roasted turkey. Oh gosh, the appetite is killing me!
+Didn't we just have lunch? You are Goku or something?
+Well, I guess you're just fat!
+Hey! I'm not fat!!!
+Ha-ha!
+What is it, \n[1]? I'm watching TV. 
+\C[20]Auntie Daisy\C[0] <br>
+Do you remember where your room is, sweetie?
+What are you talking about, Auntie? I lived in this house for like 10 years.
+I know every inch of this place.
+I'm glad you still remember. 
+Why dont you take a bath now and get some sleep?
+Sure, Auntie.
+Before I go, where is \C[2]Anna\C[0]? 
+It's Friday, she's still at school.
+She will be back before sunset.
+Ah, okay, thanks for telling me.
+Auntie looks super busy, I should try helping her out sometime.
+Better get going, my room was upstairs.
+This is my room. Time to set it up...
+Eat
+Leave
+It's Anna. She's changing.
+Keep Watching
+Anna: \C[3]+1\C[0] <br>
+Anna: \v[23]
+...
+Anna <br>
+\n[1]? Oh, you're here again?
+So, you were actually peeping on me the last time!
+I was just passing by, honestly.
+You know, you can just ask if you want to see me naked. It's not that big of a deal.
+Okay then, I like seeing you like this, to be honest.
+Good, you're honest now.
+But \n[1], are you a pervert?
+Wait! No, I'm not...
+Anna: \C[3]+3\C[0] <br>
+Nice, breakfast!
+The food is ready.
+Let's eat.
+\C[21]Joyce\C[0] <br>
+Haha! <br>
+You look funny, sis.
+Stop making fun of me!
+I'm sorry, Auntie!
+We are waiting for you. <br>
+Come on, Sit down!
+Hurry! Hurry!
+Come on, Sit down.
+Drop the Spoon
+Eat and Leave
+Oops... I dropped my spoon.
+\C[20]Auntie Daisy\C[0]: \C[3]+1\C[0] <br>
+\C[20]Auntie Daisy\C[0]: \v[21]
+\C[2]Anna\C[0]: \C[3]+1\C[0] <br>
+\C[2]Anna\C[0]: \v[23]
+Come on, Sit down
+Steak! Yay! My favorite.
+I made it to celebrate you coming back, Sweetie.
+You're the best, Auntie!.
+Mom, you know what?
+What is it Anna?
+Earlier, \n[1] peeped on me when I was changing.
+I-I didn't mean to... I didn't even know you were there.
+\C[20]Auntie Daisy\C[0]: \C[3]+2\C[0] <br>
+\C[2]Anna\C[0]: \C[3]+2\C[0] <br>
+So, how was your first day at school \n[1]?
+It was really fun. I made a lot of new friends, most of the people were really nice.
+(I already told Anna not to tell her mom about the morning accident. I don't want Auntie to worry about me too much.)
+It's good to hear that. Remember to focus on your studies, sweetie.
+Look what we have today, \C[2]Anna\C[0]!
+Huh!? <br>
+What is it, Mom?
+Try this salad. <br>
+One of the ingredients is turnip which \n[1] had grown.
+Wow!!! 
+What is this? 
+It's the tiniest little turnip that I have ever seen.
+Hahaha!!! <br>
+It's so SMALL! <br>
+Just like \n[1]'s pee pee!!!
+\C[2]Anna\C[0]! <br>
+Watch your language! 
+Hey! <br>
+It's not small... it's average!
+Since it's the first time \n[1]'s growing something. <br>
+Why don't we give it a try?
+Okay, Mom!
+Whoa!!!
+The flavor... It's so STRONG. <br>
+Like ten more times than other turnips.
+Hmm... <br>
+It's actually really good.
+How did you do it, \n[1]!?
+It feels like you were born to do this!
+Is that so? <br>
+Hahaha!
+Thanks for the meal.
+So what did you do today?
+I went shopping with \n[1].
+Oh, that’s something new.
+Did you have fun?
+Sure!
+Speaking of which, we got you something.
+!?
+Here, open it!
+Oh my!
+What is it?
+It’s a secret.
+Really, you didn’t have to do this.
+We wanted to.
+For being such a wonderful person, and taking care of us.
+You are a hard-working, and selfless person.
+We love you, mom!
+I love you too, my sweethearts! My sweet little darlings.
+Come on, open it up.
+Wow, it’s beautiful!
+Such a nice dress... are you sure I can take this?
+It looks expensive.
+Don’t even worry about it. It’s our gift to you.
+Thank you so much, you two...
+How about a hug?
+OK, close your eyes!
+Erm, alright.
+\C[20]Auntie Daisy\C[0]: \C[3]+5\C[0] <br>
+\C[2]Anna\C[0]: \C[3]+5\C[0] <br>
+Mom... <br>
+I don't want to go back to the city.
+I have my friends and it's really peaceful here.
+I don't want to get into your family conversation, \C[21]Joyce\C[0].
+But he may be right.
+He has lived here since he was born. <br>
+A lot of things are hard to be separated.
+I could feel his feeling the time he lived in the city. <br>
+Lonely and difference.
+Just wanted to let you know.
+The salad you're eating is from \n[1].
+He even had enough money from selling vegetables to buy me and \C[2]Anna\C[0] expensive dresses and many luxurious things.
+I'm so proud of you, \n[1]!
+Why did you say "my family" \C[20]Daisy\C[0]? <br>
+We are a family.
+Don't worry!
+I just went back here for a visit. <br>
+\n[1]! I respect your decision, <br>
+just do whatever you feel like!
+YAY! You're the best! <br>
+I love you so much, MOM!
+And where is my dress!?
+!!!
+You're not here so... <br>
+I will buy you something later.
+Just kidding.
+How long do you plan to stay here, Sis?
+I think for a couple of days.
+I feel like city life sucked all of my energy...
+And when I got here, it somehow slowly recharges!?
+So much difference... I can feel my youth again!
+You're talking like an old grandma, \C[21]Joyce\C[0]!
+I guess I'm a little too dramatic.
+Probably the Magic Energy...
+Not too difficult to get here, <br>
+just an hour.
+I plan to live here for the weekends. <br>
+You don't mind, \C[20]Daisy\C[0]?
+What are you talking about!? <br>
+This is our home.
+If you feel tired, go back here anytime. <br>
+The door is always open.
+Oh~ <br>
+It warms my heart.
+The food is getting cold, everyone!
+Don't be so dramatic. <br>
+This isn't a Korean movie!
+Everyone <br>
+\C[20]Auntie Daisy\C[0]: \C[3]+3\C[0] <br>
+\C[21]Joyce\C[0]: \C[3]+3\C[0] <br>
+\C[21]Joyce\C[0]: \v[27]
+\C[2]Anna\C[0]: \C[3]+3\C[0] <br>
+Chat
+Picnic
+Tomorrow is Christmas, Sweetie. We can't go on that day.
+We will have a picnic tomorrow.
+Hurray!!
+Today isn't \c[1]Saturday\c[0].
+\n[1], what is it? You look sad.
+Do you feel sick? Have you hurt yourself?
+No.. It's nothing... Its just... I don't feel comfortable.
+Tell me what is wrong then, please. As I'm getting really worried now.
+Did you get Bullied at school?
+No! Everyone has been nice to me.
+I even made some new friends on my first day.
+Oh, that's a good sign then. So tell me now, what makes you feel sad?
+It's my height.
+People always treat me like a kid, even tho I'm already grown up.
+And that makes me feel very uncomfortable...
+I see. I really like the way you look right now, you don't need to be worried at all.
+But I wanna be a tall, fit, and attractive man...
+You're already a handsome a man, sweetie. Say now, what do you think Anna?
+I think you look cute and I see nothing wrong with it at all.
+But, if you want to get taller, then I think you should start drinking more milk.
+Especially, fresh milk!
+Yea, it's just like Anna said: If you want to get taller, you should drink some more milk.
+You're probably right, the only thing I need now is to drink fresh milk. <br>
+*Staring at Daisy's Boobs*.
+Thank you Auntie, Anna. I know what to do to grow taller.
+*You listen to \C[20]Auntie Daisy\C[0] and \C[2]Anna\C[0] conversation while eating.*
+Oops!
+Wow!<br>
+Auntie's pussy looks so smooth.
+Nice...
+Oh my... Where is \C[2]Anna\C[0]'s panties?
+I guess she forgot to put them on when changing.
+Merry Christmas, everyone!
+Merry Christmas!
+Enjoy your meal!
+Yay!
+What you all wish for Christmas?
+Say, \C[2]Anna\C[0]. Do you want another Teddy Bear.
+Ha-ha! That's a perfect gift for a kid like you, \C[2]Anna\C[0]!
+No, mom! I don't want another Teddy Bear.
+I want my breast bigger just like your.
+That's not a present, \C[2]Anna\C[0]!
+Maybe... You want something else.
+I just want my breast bigger.
+Your boob is like a Melon and mine is a Lemon.
+Don't be silly. You still grow up. Maybe they will bigger than mine.
+Really?
+I never lie to you.
+What do you wish for Christmas, mom?
+If so, I wish I could be younger.
+It feels like carry a rock recently. Back in the day, it feels like feather when walking.
+\C[2]Anna\C[0] wishes for her boobs to get bigger while Auntie wishes to be younger.
+\C[2]Anna\C[0]...
+Boobs...
+Bigger...
+*Gulps*
+I guess she not gonna happy about that.
+What about Auntie? 
+Younger...
+Six-packs!!!
+She is SMOKIN' HOT. We took a bath together frequently back then.
+He-he...
+\n[1]!
+Yes, Auntie!
+What do you wish for Christmas?
+Oh...
+I wish both of you guy wishes come true.
+Oh! You're such a sweetheart.
+Hey \n[1], what do you need?
+Nothing at the moment. I was wondering if you needed any help?
+Ahhh, that's sweet of you \n[1], but cooking is more of a woman's job.
+You can just sit down, and wait for me too finish preparing lunch.
+Me  <br>
+Okay then. Call me if you need any help.
+W-What are you wearing Auntie?
+*sigh*...
+Well, this apron is the only thing I can wear.
+What? Why is that?
+You took my clothes that I had on the bed and put them in the laundry.
+I have nothing left to wear, except for this.
+I'm really sorry. I will be more careful next time.
+Don't worry. It's not your fault. I should have told you not to touch them.
+There are no guests around, it's should be fine. 
+And don't worry about it too much. I'm still thankful for you helping me out earlier, Sweetie.
+Oh, great, I was worried you were gonna beat my ass for a second.
+Don't be silly, I would never do that to you.
+I absolutely swear this will not happen again.
+Slap
+That should be enough, I don't want to get a slap in the face now.
+W-What are you doing \n[1]!?!?!?
+T-There was a bug on your butt. I just wanted to kill it for you.
+Phew! You're really scared me for a moment.
+You could just tell me next time, don't just slap a woman's butt without permission.
+I'm really sorry, Auntie. I will be more careful next time.
+W...
+There's a bug on your butt.
+We will have turkey tonight!
+Yay! Christmas!
+Hey, Auntie!
+I got something for salad tonight.
+Oh!
+Where did you get it from?
+Hehe!
+I planted them.<br>
+They have grown from the turnip seed you gave me.
+Wow! Congratulations, \n[1]!
+Thank you, Auntie!
+Do you know where to sell your product?
+\C[3]Pixie\c[0]. <br>
+Haven't you told me already?
+Great! <br>
+She comes to our farm every day, it is quite convenient.
+Hmm...
+Auntie... <br>
+Do you sell all your goods to her?
+Not really. 
+We must sell some for our town. <br>
+The remaining will be sold to her and for cattle feed.
+Wait... <br>
+Why don't you save some for the next sow? 
+Good question!!!
+We can do that but the quality will degenerate each generation.
+Unless we have better knowledge and a nursery <br>
+it is better to buy new seeds from \C[25]Aunt Douie\C[0].
+Wow! It's so complex. 
+You're welcome, Sweetie!
+Good luck with your work!
+Dinner will be ready soon. 
+What you want for dinner,sweetie?
+Casual
+Steak
+Dinner will be ready soon.
+Steak!
+Today's dinner will be steak.
+Yay! Auntie, you're the best.
+Do you need something?
+Let me help you with the dishes, Auntie.
+No need, Sweetie, besides I'm almost finished with them now.
+Don't be like that, I'm like a dish washing machine. Let me finish for you.
+Ahh! thank you, you're such a sweet boy.
+Help
+Thanks for the meal. It's super, Auntie!
+You’re welcome.
+Let me help with the dishes.
+Phew...!
+I’m almost done.
+Just one more dish left. And there we go.
+Oh dear!
+What was that?
+Oh, sorry, Auntie. I splashed some water on you.
+I was trying to finish too fast.
+It’s okay, \n[1]. Just be careful next time.
+I can see her boobs through her wet shirt.
+Should I say something?
+Um, Auntie?
+What is it, Sweetie?
+Do you need me to bring you a different shirt?
+Ah. It’s fine. I was going to take a bath anyway.
+Thank you for the help, \n[1].
+Damn! She looks so hot with a semi-transparent shirt...
+Maybe I can make better use of this situation next time...
+Splash Water 
+No
+He-he. Sorry, Auntie! I slipped my hand again.
+I never get bored of doing this!
+Just wet clothes again.
+My body is all sticky and gross.
+I should take a shower.
+\n[1]?
+What are you doing?
+You want to join me in the shower?
+Yes!
+Let me help you take your clothes off!
+Thanks but I can do it myself.
+More importantly, I’m not in the shower yet.
+Here!
+Stop! Not this again. 
+We will be in trouble one day.
+Ahh!!!
+What are you doing!!! We’re still in the kitchen!
+We’re still in the kitchen!
+You have such a beautiful body, Auntie.
+Shut up!
+Now stop playing! I need to cover myself.
+What are you doing? I almost fell.
+I'm sorry. Are you OK, Auntie?
+There's water on the ground and I just slipped.
+I'm fine.
+Wait...
+Auntie's butt...
+Damn, it's so beautiful and I can't take my eyes off it.
+!?!
+Your dick!!!
+W-What are you doing, \n[1]!
+You're so hot, Auntie... I can't hold it anymore.
+S-stop!! I am your aunt.
+Don't worry, Auntie. I just want to rub. 
+I swear I'm not gonna put it inside.
+S-stop!
+\C[2]Anna\C[0] will come out any second. What if she sees us?
+Don’t worry, we will be quick.
+Sweetie. What if \C[2]Anna\C[0] sees us?
+Don’t worry, we will be quick. Like last time.
+Oh my goodness...
+It’s so hot down there...
+This boy is going to make me go crazy...
+She’s not resisting very hard... and she’s soaked.
+Stop doing that...
+What’s that?
+You want me to keep going?
+Sorry, Auntie. I’m so horny. I can’t stop until I come.
+Don’t you feel good?
+Oh no... his dick is so hot...
+I feel like there's a torch between my thighs...
+My clitoris is burning.
+Faster
+I’m going to get angry if you don’t stop.
+Ahh... Ahhh!
+It’s so big... and he’s so strong.
+He keeps going like a wild animal.
+Do you still want me to stop?
+Then I’m going to go even faster.
+W-wait, if you do that... you’re going to make me lose my mind.
+Her thighs are so soft... this is amazing...
+I wish I can push it a little more.
+Auntie, I’m going to come.
+Can I come inside?
+NO!
+Don’t even joke about that!
+I told you NO! Stop joking about that!
+Cum
+It’s coming!
+Hah...hah...
+His dick is twitching so much...
+His warm semen all over my thighs...
+It was so good Auntie. My dick is still rock hard...
+End
+Put your pants on!
+Mom?
+Why are you doing nude?
+It’s nothing, Sweetie.
+I was just waiting for you to finish showering.
+Ok, sure.
+Have you seen \n[1]?
+I just heard his voice.
+Uh... no. I haven’t, Sweetie.
+It's all done now!
+That was so thorough, also fast! You're helpful to have around.
+Of course I am, I used to do the dishes all the time, back when me and mom lived here.
+Yea, you were always a good boy!
+(For some reason, I feel like I'm being treated like a kid...)
+Auntie is using the bathroom.
+She's doing it right now. I should hurry. 
+There was a hole in the floor that I fixed in Auntie's room. 
+\C[2]Anna\C[0] is using the bathroom.
+Peep
+Join
+I think it should be fine. For some reason, I feel like she doesn't afraid of my muscular little brother.
+\C[2]Anna\C[0]. Can I join the bath?
+I'm coming in.
+Let me wash your hair.
+Your hair is so soft. 
+Ha-ha. It feels great to have someone wash your hair.
+For some reason, I feel like she doesn't afraid of my muscular little brother.
+I should be closer to her more.
+Better not go in there. She will never want to bathe with me again.
+Man, I never notice that \C[2]Anna\C[0] is so hot.
+Watching here from this angle turns me on so much.
+Her skin is so healthy and soft. The water makes it look shiny and sparkle. I bet it would be silky when touching it.
+Her body is very hot. It kept emitting a stream of heat against my face and the scent was so pleasant.
+I feel like my dick is blown up just by thinking about it.
+Not to mention her perky nipples. It looks really attractive... a beautiful pink... 
+I don't think I can hold it anymore, I need to let it out.
+What heavy thing is on my shoulder? Can you take it out? I feel uncomfortable.
+Oh! Did you just say something?
+There's something on my shoulder.
+It-It's just a shampoo bottle.
+I feel more convenient to put it here.
+Are you sure? Why do I feel it so hot? Feeling like it's on fire?
+It feels very... familiar.
+Isn't it normal? We're taking a shower anyway. It should be warm.
+Seem right.
+Anyway. Could you hold it with your arm?
+Ah, okay.
+Like this?
+Mmm...
+Are you okay?
+I-I'm all good...
+What happened? The feeling is so great.
+Her armpit is really nice. She is holding my penis tightly with her arm. It's so warm and wet...
+It's surprisingly good!
+Next
+What are you doing? Stop moving! I feel my armpit is tickling.
+What did you put in it?
+Hey! Don't look. The shampoo may into your eyes.
+Ahhh! I knew it was your pee pee.
+Wait! Looks like you're not so unfamiliar with it. I don't remember showing you it before.
+I played with it when I sometimes come to your room in the morning to wake you up...
+Oof...
+I know there is something wrong every morning that you wake me up.
+Anyway...
+Ha-ha. Stop! It's so tickle.
+It's so good. I didn't think rubbing my penis in the middle of an armpit would be so nice.
+It feels so weird.
+Hang on. I'm going to burst out soon.
+It's coming!
+Ahhh... It's so good...
+Ehh! It's all over my body. It's so hot, sticky and gooey.
+Why is it still coming out?
+Its smell makes me feel weird.
+Aright, another round! Lemme wash it.
+Eh, no thanks! I will do it by myself.
+Too bad.
+Stay
+Man,\C[2]Anna\C[0] is so hot no matter how many times I look at her naked body.
+Her body is so healthy. It's still shiny and sparkles every time water runs on her skin.
+She smells so nice.
+My dick got so hard already just by looking at her invited titties.
+Hey, \C[2]Anna\C[0]! Could you hold my dick with your arm again? I can't hold it anymore.
+Eh, okay. 
+Just be quick, my armpit is still burning hot from last time.
+Okay, okay!
+Phew... it feels so good.
+Ha-ha, it's so tickle.
+It's so good, \C[2]Anna\C[0]. Your armpit is the best.
+Hurry! You're giving me a weird feeling.
+I'm cumming!
+Hah-hah...
+It's all over my body again.
+Can you do it somewhere else next time? It's really hard to clean your milk off. Such weird sticky milk.
+No way, much better this way.
+\C[2]Anna\C[0] will freak out if she sees my monster. 
+Body check completed. It is very healthy.
+...?
+Huh? Did I forget to close the door?
+Well.
+Do you want to use \c[14]Tiny Miny Mini Dust\i[317]\c[0]?
+Yes
+Oh right, let's go!
+\C[2]Anna\C[0], I'm going in!
+Look at Anna
+To the Bathtub
+Anna looks so nice...
+*Gulp*
+It looks so juicy! For some reason, I'm really thirsty. 
+He-he. You're too slow! 
+I want to go in, move your leg. 
+Okay, okay.
+Huh!?
+Ha-ha. Your pee pee is so cute, how many times I saw it.
+Because you haven't seen its final form. 
+Hurry, hurry! Getting bigger!
+Holy shit! It feels so good! 
+It's getting bigger now!
+Ha-ha. Playing with it is so much fun. 
+Resist
+It's time to drink my milk.
+Wait! You freaking me out!
+Why are you holding me back? 
+Hurry, let's me suck it!
+Lower your voice, Auntie may hear us. 
+Damn! It's too good!
+!!?
+I almost bust out! It feels so good.
+Oh right, oh right! You can have it now.
+Ugh!
+Damn! Her mouth, it's so warm and slippery.
+Huh?
+More milk coming out!
+Stop, I have any more left.
+Eh! Fine.
+Too bad, I'll come back next time. Better will be plenty of milk in it.
+I want to go in. I don't want to catch a cold. 
+Ahhhhh!
+So good...
+Finish
+I don't have any \c[14]Tiny Miny Mini Dust\i[317]\c[0] at the moment.
+\c[1]*You don't have any \c[14]Tiny Miny Mini Dust\i[317]\c[1]*
+I'm coming in, Auntie!
+What! Don't you see I'm still using it!
+I haven't had a bath in a day! My body feels really sticky.
+Fine, then!
+Yay!!!
+Wash her Butt
+... !!!
+W-What is that, \n[1]?!! Is that your dick?
+Huh? What are you talking about, Auntie? Is something wrong with my penis?
+You wanna see it?
+It-It's nothing wrong with it? But why did you put it between my butt?
+Huh? It's a shampoo bottle. I feel more convenient to leave it here.
+Anyway, why do I have to put my penis between your butt?
+It's nothing. I'm just overthinking.
+Am I wrong? This sensation...
+Man, that was close! Her butt feels so good!
+Then let's go on.
+Slower
+It feels so good. I'm cumming!
+See, Auntie! If I need it, I just need to squeeze it out.
+Is that really shampoo? Why it feels so hot...
+I squeezed it out too much. To avoid wasting let me rub it on your back.
+Thank you very much, Sweetie! I'm leaving now, remember don't sleep in the bath.
+What is it? You need something?
+What is wrong with me? Why I feel so hot?
+It's nothing, Auntie. You just stand up too fast, I just accidentally grasped it.
+If that so, you can let go of me.
+Ha-ha... What are you doing? It so tickle!
+Wait! Is that your dick?
+Stop!!! What are you doing?!!
+It feels so good. I can feel it is sucking me...
+It loosened up a bit, if a little more force ...
+Insert
+Stop! I'm your aunt! What happens if your mother know this?
+Gosh! Why is he so strong? I feel like there's an iron plier holding me back!
+What! It-It's in! It's in my anus.
+I can't believe he actually doing this!!!
+It's in! My penis is inside her! It's so hot and tight...
+I can feel it squeezing and melting my penis!!!
+It's amazing!!! I want to move!!!
+Start Moving
+Ouch... What is this? His dick is so big.
+Stop, \n[1]!!!
+He's not even listening at all. What is wrong with him?
+ON/OFF MC
+It feels so good, Auntie. I'm cumming!!!
+WHAT?!! You can't do it!
+I can't believe it... Hah... He-He's actually came inside me! It is only in the anus...
+... but-but he's my nephew. I got fucked by my nephew and he came inside me...
+Ugh... He's still moving. He's making a big mess in my anus...
+It's cumming! Hah...hah I'm cumming again!!!
+What is this? My hips are still moving. I can't stop!
+It finally ends... I don't even know how many times he came inside me...
+Why does he have so much energy?
+Hah-hah... There's so much inside me...
+\n[1]! Are you okay?!!
+What is this? How could he be this hot?!!
+Considering his expression and status now? He seems to be drugged!
+Oh! My poor litte baby!
+What are you doing, \n[1]?!!
+I'm sorry, Auntie! I didn't mean to, I instinctively grasped it.
+For some reason it looks so appealing to me! And my penis is always so hard when I see your butt.
+His penis looks so big right now! I think it was from last time.
+Can I put my penis in you butt, Auntie? I have a feeling it will be amazing!
+WHAT!!! No, we can't do it!
+Why! You are so selfish! I just want to put it in and it won't hurt.
+I'm your aunt that why! And stop saying something like that or I will get angry!
+But, Auntie! My penis is so big right now! It feels like it wants to explode anytime!
+And I don't even know how to hold it down!
+He looks like he's in pain and holding it is not good. It is very harmful to his development...
+Fine!
+What! You let me put my penis in your...
+NO! Just lay down! I will handle it with my hands!
+If so. Can you use your foot?
+WHAT! What is wrong with you?
+Fine... Just lay down.
+Yay! You a the best, Auntie!
+This is so embarrassing! Why did I agree to this?
+Hurry, Auntie! It can't wait no more!
+It's amazing, Auntie! You are so good at this!
+ON/OFF MC's Hand
+It feels so good, Auntie! Faster, Please!
+Your boobs so big and beautiful, Auntie! Can I grab it?
+His penis is twitching so much! He is about to cum.
+You are truly good at this, Auntie! It was wonderful!
+Shut up! You don't have to say that all over again. 
+Now! Stand up! We've been in here for so long. You will catch a cold.
+Yes, madam!
+Slower, Auntie! You're being too fast!
+Maybe another time. It's too risky!
+It's late.
+Anna's using the TV right now. Better not interrupt her.
+Watch TV
+Cartoon
+Weather Forecasts
+This Cartoon is boring. Only Anna would enjoy this.
+This broadcaster looks so hot.
+(Anna's changing clothes..)
+(I saw her naked a lot of times, as kids, this feels...)
+(Quite different....)
+(I want to look at her a little longer...)
+(She noticed me! What do I do now?!?)
+Run
+\n[1]? What are you doing here?
+Anna, I'm sorry, I didn't know you were here.
+It's fine \n[1], I don't mind.
+Like, we did use to take baths together all the time back in the day.
+So, its not like we haven't seen each other naked before.
+Anyway, What is that in your pants?
+In my pants?
+Oh... Its... It's a cool stick that I picked up from the ground outside.
+Isn't it your peepee, \n[1]? It always got like this when bathed together.
+It's okay though, I don't mind it, even if you have a strange body. 
+(She was always naive in the past.)
+(She didn't know the difference between a man and a woman. She seems to understand to their differences now.)
+Anyways, I have to go, we can talk again later, \C[2]Anna\C[0] <br>.
+Hey! Where are you going?
+(Why did I run?)
+\C[2]Anna\C[0]: \C[10]-1\C[0] <br>
+(It's bad to peep on someone.)
+(For some reason, I feel kind of lost.)
+That was quite refreshing.
+It's dinner time now. I should go downstair to eat.
+I guess I already got my reward.
+Better tell Auntie that I finished my task.
+There are still more.
+It is Anna's pantie.
+Auntie's pantie!
+Use Auntie's Pantie
+Its smell so nice...
+... Auntie's pantie... so sexy.
+Auntie Daisy: \C[3]+2\C[0] <br>
+Auntie Daisy: \v[21]
+I'm coming!
+\c[10]Korona\c[0] <br>
+Hello! Your package is here.
+Wow, Thanks!
+Happy \c[30]Halloween\c[0].
+Sweet! I should give it to Auntie tonight.
+What are you doing, Auntie?
+It's you, \n[1]! I'm just decorating for the Christmas.
+Do you have anything in your mind to do for this holiday?
+There's actually nothing plan for it?
+Maybe I can help you with your preparation.
+Ha-ha! You such a boring person. Isn't it?
+It's fine! There're not many things to do. You can go and play with \C[2]Anna\C[0].
+Oh! I remember!
+What is it? Do you have something that requires my assistance?
+I just remembered a very interesting thing about Christmas day in this town.
+Is it Santa, Auntie? You know, I'm kind of a grown-up man myself.
+And I also can't even believe, there is a person who travels at the speed of light to deliver gifts to the kids.
+... Well, kind of like that!
+But can you please let me finish my lines?
+I don't know what other places are like? But there is a rumor in this town.
+If you make your own Christmas Tree in your room. When you go to sleep Santa will come and give you present.
+It's the same, Auntie!
+Believe it or not. It's Christmas anyway and you seem like have nothing to do. Why not try and make it.
+Sound like a plan!
+Just to make sure! I doing this for the holiday's atmosphere. Not because I believe there will be "someone" gives me a present.
+Okay! Okay! Mr. Smart Ass.
+You can borrow my \c[1]Axe\c[0] in the \c[1]Barn\c[0] if you want to make your Christmas Tree.
+Do you have anything to do for this Christmas?
+Ye...
+I think I will make another Christmas Tree.
+That's a good attitude. Look like you already found a way to enjoy the holiday.
+Kind of...
+Let's take a bath together. 
+It's fine! I'll do it later, you should go and clean yourself first.
+Let's do it together. Hurry, hurry!
+I'd love to but Auntie will beat me to death.  
+You should bathe with her. She really misses you during the time when you moved to the city. 
+All right then, if you insist.
+Let's go!
+Alright, alright, you don't have to push me.
+How long has it been since I took a bath together with \C[2]Anna\C[0]?
+It feels so strange...
+What is she doing right now? 
+What! You're here already?
+He-he. Always take the first bath. 
+What are you doing? I want to go in, It's really cold outside. 
+Ha-ha. Your penis is so cute, like the last time I saw it. 
+What!? Stop making fun of it, it's not even its final form. 
+Don't say I haven't told you yet, you'll cry and pee if you saw it. 
+Whoa! It's so soft, just like a cow's teat! 
+Wow! It's getting bigger. How can you do it? It's so cool!
+What is this? It's so hard and hot. Playing with it is so much fun. 
+Damn... Her hand skill is so good. 
+The way she's moving her hand is amazing.
+This is bad. Auntie will be here any moment, she will beat me to death.
+Will the milk come out of your pee pee, \n[1]? It actually looks like a cow's teat. 
+Are you dumb. There's no way!
+I think I used the wrong way. If I suck it, the milk will come out. 
+I already said, there's no milk in it. You stubborn!
+I want to suck it, I want to suck it!
+Definitely, there will be milk in it, it looks just like a cow's teat. You are so selfish!
+Her stroking is so good...
+Her warm breath is like stimulating my dick's head...
+Crap! I don't think I can hold it any longer! 
+Huh? Why is your pee pee twitching so much? 
+Wait!? There's milk coming out. 
+I knew it will have milk. You lied! 
+Now let me drink it.
+Never mind Auntie anymore. I just want to let it out!
+Okay, if you were so stubborn! 
+Don't say I haven't told you, it tastes really bad. 
+Is that all of it? 
+Whoa! There is still coming out! 
+It-It's empty. You've sucked it all. 
+Eh! Your pee pee is so useless. It's not even a cup. 
+What did you expect? I'm not a cow, you cow!
+How did it taste? You didn't seem to hate it. 
+Hm...
+It's very delicious!
+What the hell? 
+It's like condensed milk but a little bit salty. 
+Milk? Am I diabetic? 
+It's very delicious. You should try it.
+Nah!
+Yay! I can have it all!
+In your dream.
+\C[2]Anna\C[0]: \C[3]+10\C[0] <br>
+\c[1]*You can now bathe with \C[2]Anna\C[1] if you have \c[14]Tiny Miny Mini Dust\i[317]\c[1].*
+Aahhh...
+Gosh, I really want a man's cock inside me so badly... A man that can fuck me so hard right now.
+For a long time, I haven't had a real dick inside of me.
+I don't even remember what is real sex feel like. I guess it will be real good.
+Auntie.
+Auntie!
+W-Who is it?
+It's me, Auntie.
+Oh! It's you, \n[1].
+Do you need anything?
+Can I use the shower? My body is all sticky now.
+It gonna be quick.
+O-Okay! Come in, Sweetie.
+Is it you, \n[1]?
+Yes, it's me, Auntie.
+Sure! Come in, Sweetie.
+Shouldn't you be at school by now? 
+T-There is a self-study class today. I play some sports with my friend. 
+Sweat is good.
+Is it self-study class today?
+Y-Yeah!
+Wow! What a body you have! How can you do that? 
+I put myself into some training. 
+I guess all these girls fell like a tree when they saw your body. Ha-ha.
+Man, Seeing her this close like this was way a different view. 
+My auntie is smoking hot. I feel like all her fat stayed in the good places. 
+Her boob is floating like a balloon. It looks so soft, I want to feel it so bad. 
+I can't imagine my nephew has such a beautiful body. I guess he put a lot of effort into it. 
+If I hadn't been his aunt, I would have been his girlfriend already. Ha-ha. Just kidding. 
+W-What is it? 
+... It's so big. I never thought it would be this big. 
+I guess it would be huge at full size. 
+The horny is back. I can feel the itching inside my pussy...
+Those abs look so attractive. I really want to touch it.
+His dick is getting bigger. How adorable.
+W-What is she doing?
+She's touching herself! 
+Jesus! I should keep myself calm. 
+His dick is twitching... It's so sensitive. I guess the warm tickling it.
+I want it inside me. I want to feel its throbbing inside me so bad...
+It feels so good, I'm cumming...
+I'm so bad. Touching myself while imaging my nephew's cock inside of me.
+It's such a shame to stay here.
+The towel is outside. How can I get out? 
+It's really embarrassing if he sees my body!!! 
+!? 
+What am I thinking? He is just my little baby. Why did I feel ashamed of it if he sees my body?
+I'm finished, I'm leaving now.
+Hah... hah...
+Ah! She's leaving.
+W-What!?
+Her nipples are so... perky.
+Follow
+Hah--hah...
+H-Her butt is so beautiful...
+Just a little bit...
+Man, it feels so good... Just by looking at Auntie's beautiful butt already make me feel like I'm in heaven.
+Just a little bit... I think I'm about to cum.
+Oh man! 
+Too bad, she left.
+It's smaller than I thought...
+I couldn't believe such a small piece of cloth could handle my aunt's humongous ass...
+It's so soft and smooth, I could feel its warm. I guess Auntie wore it in the morning...
+Use It to Masturbate 
+Put It Back
+Hah-hah... It smell so nice...
+Shit! I can't hold it anymore!
+I'm cumming...
+Yawn...
+It's so early in the morning...
+Hurry, \n[1]!
+Wow!
+How do we look?
+You guys look fantastic!
+Oh, thank you, dear!
+It’s you who bought these clothes after all.
+It fits so well.
+Because of this, we will have picnics more frequently from now on. 
+Hurray!!!
+If you want to go, talk to me at \c[1]Saturday Dinner\c[0].
+Absolutely!
+Without further interruption, let's go, everyone!
+Let's go!!!
+You guys look so beautiful!!!
+Are you ready, is there anything missing?
+Packed up and ready!
+Without further interruption. Let's go, everyone!
+What a beautiful day!
+Come here. Let’s eat some food.
+It took a while to get here and we still haven't eaten since morning.
+Yay, lots of food!
+It’s all for you guys! Enjoy!
+Wow!!!
+I’m going to sit in the sun.
+We have to go back by afternoon, so you can do whatever you want until then.
+Do you want steak for dinner, honey?
+Yep. Thanks, Auntie!
+He seemed a bit nervous.
+He usually comes and tells me he wants a steak for today.
+Did he...
+Oh, not again!
+\C[25]Aunt Douie\C[0] <br>
+Looks like we arrived just in time!
+Come on in!
+\C[20]Mae\C[0] <br>
+Hi, \C[20]Aunt Daisy\C[0] and \C[21]Aunt Joyce\C[0]!
+You too, \C[20]Mae\C[0]!
+Cheer!!!
+Thanks for coming to my party!
+Long time no see, \C[21]Joyce\C[0]! <br>
+You're still as pretty as always.
+How is everything?
+You're too \C[25]Douie\C[0]! <br>
+I'm really jealous of how fit you are.
+Everything is wonderful just how it is.
+Except for my hopeless boy. <br>
+Hope he didn't bring you any trouble.
+You're wrong!
+He helped us a lot.
+That's right, Aunt \C[21]Joyce\C[0]!
+I saw him everywhere.
+If you ask anyone in this town who is the most famous. <br>
+That should be him.
+Oh Wow!
+Unbelievable!
+Not all heroes wear capes, Mom!
+Hahaha!!!
+Thank you for inviting us! <br>
+The food is amazing!!!
+Glad to see you after a long time, \C[21]Joyce\C[0]!
+It's getting late, we have to go home.
+Thank you all for coming!
+Bye, Everyone!
+I feel so refreshed now~
+Glad you like it!
+More party!
+Alright, everyone! 
+Time to clean up!!!
+Let me help.
+Me too!
+\C[25]Aunt Douie\C[0]: \C[3]+3\C[0] <br>
+\C[25]Aunt Douie\C[0]: \v[35]
+\C[20]Mae\C[0]: \C[3]+3\C[0] <br>
+\C[20]Mae\C[0]: \v[37]
+You can go ahead and get comfortable, <br>
+I'll be back with a towel.
+\C[10]Korona\c[0] <br>
+Thanks! <br>
+I hope I'm not causing any trouble.
+It's just a shower, nothing too serious.
+(Gulps...)
+(I can see through her shirt...)
+(Woah she's already started <br>
+and she left the door wide open!)
+(I think she thought I was going to close the outside door so she didn't close the bathroom door...)
+(I'm just gonna.. stand here for a bit...)
+(She looks pretty good in there...)
+(Okay I should probably stop...)
+Hey! I brought your towel, I'll leave it here!
+Sounds good. Thanks!
+Ah, I feel much better!
+Whoop, better get back to my route! <br>
+Thanks again for the help!
+Any time!
+\C[10]Korona\c[0]: \C[3]+5\C[0] <br>
+\C[10]Korona\c[0]: \v[167]
