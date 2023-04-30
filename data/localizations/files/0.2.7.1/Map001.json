@@ -1,11 +1,1 @@
-{
-  "Watch Intro": "观看入场动画",
-  "Skip": "跳过",
-  "\\C[20]Auntie Daisy\\C[0]: \\C[3]+2\\C[0] <br>": "\\C[20]黛西阿姨\\C[0]: \\C[3]+2\\C[0] <br>",
-  "\\C[20]Auntie Daisy\\C[0]: \\v[21]": "\\C[20]黛西阿姨\\C[0]: \\v[21]",
-  "\\C[2]Anna\\C[0]: \\C[3]+2\\C[0] <br>": "\\C[2]安娜\\C[0]: \\C[3]+2\\C[0] <br>",
-  "\\C[2]Anna\\C[0]: \\v[23]": "\\C[2]安娜\\C[0]: \\v[23]",
-  "Me <br>": "我 <br>",
-  "This is my \\c[12]Phone\\c[0]. \\c[12]P\\c[0] is the \\c[2]Hotkey\\c[0]. There is some useful stuff in there.": "这是我的\\c[12]手机\\c[0]，里面有一些有用的功能。\\c[2]快捷键\\c[0]是\\c[12]P\\c[0]",
-  "I put it in \\c[12]Key Item\\c[0] in case if I need it.": "我把它放进\\c[12]关键物品\\c[0]中了"
-}
+{"Watch Intro": "观看入场动画", "Skip": "跳过", "\\C[20]Auntie Daisy\\C[0]: \\C[3]+2\\C[0] <br>": "\\C[20]黛西阿姨\\C[0]: \\C[3]+2\\C[0] <br>", "\\C[20]Auntie Daisy\\C[0]: \\v[21]": "\\C[20]黛西阿姨\\C[0]: \\v[21]", "\\C[2]Anna\\C[0]: \\C[3]+2\\C[0] <br>": "\\C[2]安娜\\C[0]: \\C[3]+2\\C[0] <br>", "\\C[2]Anna\\C[0]: \\v[23]": "\\C[2]安娜\\C[0]: \\v[23]", "Me <br>": "我 <br>", "This is my \\c[12]Phone\\c[0]. \\c[12]P\\c[0] is the \\c[2]Hotkey\\c[0]. There is some useful stuff in there.": "这是我的\\c[12]手机\\c[0]，里面有一些有用的功能。\\c[2]快捷键\\c[0]是\\c[12]P\\c[0]", "I put it in \\c[12]Key Item\\c[0] in case if I need it.": "我把它放进\\c[12]关键物品\\c[0]中了"}

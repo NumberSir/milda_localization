@@ -1,0 +1,2000 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's locked.",
+    "original": "It's locked.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Looking good today.",
+    "original": "Looking good today.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Shouldn't bother while she's sleeping.",
+    "original": "Shouldn't bother while she's sleeping.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[2]Anna\\C[0] <br>",
+    "original": "\\C[2]Anna\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Did you remember to eat your breakfast?",
+    "original": "Did you remember to eat your breakfast?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mom's cooking is always delicious!",
+    "original": "Mom's cooking is always delicious!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Auntie Daisy\\C[0] <br>",
+    "original": "\\C[20]Auntie Daisy\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You should eat your breakfast, it's the most important meal of the day afterall.",
+    "original": "You should eat your breakfast, it's the most important meal of the day afterall.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Leave",
+    "original": "Leave",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mom is here...",
+    "original": "Mom is here...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "... Anna is still around.",
+    "original": "... Anna is still around.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Approach",
+    "original": "Approach",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Help",
+    "original": "Help",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "...",
+    "original": "...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What are you doing, \\n[1]?",
+    "original": "What are you doing, \\n[1]?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh! Hi, \\C[2]Anna\\C[0].",
+    "original": "Oh! Hi, \\C[2]Anna\\C[0].",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You shouldn't be popping out of nowhere like that. You could scare the cows (or me).",
+    "original": "You shouldn't be popping out of nowhere like that. You could scare the cows (or me).",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh. I see. So, what are you doing?",
+    "original": "Oh. I see. So, what are you doing?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I was just gonna ask if your mom needed help with anything.",
+    "original": "I was just gonna ask if your mom needed help with anything.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Back",
+    "original": "Back",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Nothing I can help her with right now.",
+    "original": "Nothing I can help her with right now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Do you need any help, auntie?",
+    "original": "Do you need any help, auntie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I noticed it's Laundry Day. I thought I could help you with the clothes.",
+    "original": "I noticed it's Laundry Day. I thought I could help you with the clothes.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You're such a sweet boy. That sounds lovely, I will leave it up to you.",
+    "original": "You're such a sweet boy. That sounds lovely, I will leave it up to you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Just pick up the dirty clothes and put them inside the laundry basket. Then I will do the rest afterwards.",
+    "original": "Just pick up the dirty clothes and put them inside the laundry basket. Then I will do the rest afterwards.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That sound easy enough, you can leave it to me! I'll have it done in no time!",
+    "original": "That sound easy enough, you can leave it to me! I'll have it done in no time!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*You received \"\\c[1]Laundry Day\\c[0]\" quest*",
+    "original": "*You received \"\\c[1]Laundry Day\\c[0]\" quest*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*You can quickly view the Quest log by Press \"\\c[1]A\\c[0]\" key.*",
+    "original": "*You can quickly view the Quest log by Press \"\\c[1]A\\c[0]\" key.*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*Double click on the Quest to track it. Which mean, it will appear each time you view the quest log.*",
+    "original": "*Double click on the Quest to track it. Which mean, it will appear each time you view the quest log.*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "hmmm... I better start picking up the clothes.",
+    "original": "hmmm... I better start picking up the clothes.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Auntie, I'm done with picking up all the dirty clothes.",
+    "original": "Auntie, I'm done with picking up all the dirty clothes.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's great! Thank you so much, sweetie. ",
+    "original": "That's great! Thank you so much, sweetie. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It was easy peazy. Do you have anything else that I could help you with? I'm kind of free to do anything right now.",
+    "original": "It was easy peazy. Do you have anything else that I could help you with? I'm kind of free to do anything right now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thank you, but it's fine. I'm almost done. Even then, there's nothing more that you can help me.",
+    "original": "Thank you, but it's fine. I'm almost done. Even then, there's nothing more that you can help me.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh, I see. Call me if you need anything though.",
+    "original": "Oh, I see. Call me if you need anything though.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Auntie Daisy\\C[0]: \\C[3]+2\\C[0] <br>",
+    "original": "\\C[20]Auntie Daisy\\C[0]: \\C[3]+2\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Auntie Daisy\\C[0]: \\v[21]",
+    "original": "\\C[20]Auntie Daisy\\C[0]: \\v[21]",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Auntie, let me help you. ",
+    "original": "Auntie, let me help you. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thanks, Sweetie. Shouldn't you go to school now? ",
+    "original": "Thanks, Sweetie. Shouldn't you go to school now? ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There's still a lot of time to go before school starts.",
+    "original": "There's still a lot of time to go before school starts.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's very kind of you. You can help me fill the grass, it will go low soon.",
+    "original": "That's very kind of you. You can help me fill the grass, it will go low soon.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "No problem. Leave it to me.",
+    "original": "No problem. Leave it to me.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Phew...",
+    "original": "Phew...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I think this should be enough.",
+    "original": "I think this should be enough.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Wow! These ladies are so strong and healthy. Auntie sure took good care of them. ",
+    "original": "Wow! These ladies are so strong and healthy. Auntie sure took good care of them. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Slap",
+    "original": "Slap",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "No",
+    "original": "No",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Holy! What is with this ass? It's so round and firm. ",
+    "original": "Holy! What is with this ass? It's so round and firm. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Ouch!!!",
+    "original": "Ouch!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thanks for helping me, \\n[1]! ",
+    "original": "Thanks for helping me, \\n[1]! ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Are you OK?",
+    "original": "Are you OK?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I-I'm fine, Auntie. ",
+    "original": "I-I'm fine, Auntie. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You should be more careful. ",
+    "original": "You should be more careful. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "These cows are really friendly but they would attack if it is a stranger. You should be friends with them first. ",
+    "original": "These cows are really friendly but they would attack if it is a stranger. You should be friends with them first. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thanks, Auntie.",
+    "original": "Thanks, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Ahh...",
+    "original": "Ahh...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hmmm...",
+    "original": "Hmmm...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Nothing better than a good stretch after hard work.",
+    "original": "Nothing better than a good stretch after hard work.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Holy shit! I could see her boob through her sweaty shirt.",
+    "original": "Holy shit! I could see her boob through her sweaty shirt.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Gulps...",
+    "original": "Gulps...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh Crap!!!",
+    "original": "Oh Crap!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is everything alright?",
+    "original": "Is everything alright?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What are you doing?",
+    "original": "What are you doing?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I-I'm fine. I-I have to pee.",
+    "original": "I-I'm fine. I-I have to pee.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is that so. You should hurry and do it now. Don't hold your urine for too long, it's not good.",
+    "original": "Is that so. You should hurry and do it now. Don't hold your urine for too long, it's not good.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I will take a bath. I'm all sweaty now.",
+    "original": "I will take a bath. I'm all sweaty now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Man, Auntie is so hot...",
+    "original": "Man, Auntie is so hot...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why didn't I realize that before? ",
+    "original": "Why didn't I realize that before? ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Shit!",
+    "original": "Shit!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Damn,  Auntie is all over my head right now...",
+    "original": "Damn,  Auntie is all over my head right now...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Now that I remember, she always took a bath after morning work. Not a shower but a bath. Such a weird habit tho.",
+    "original": "Now that I remember, she always took a bath after morning work. Not a shower but a bath. Such a weird habit tho.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Phew... Luckily no pee landing on my clothing.",
+    "original": "Phew... Luckily no pee landing on my clothing.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Man, I want to see her naked body so bad. I have seen it a lot of times in the past but it all fades away. ",
+    "original": "Man, I want to see her naked body so bad. I have seen it a lot of times in the past but it all fades away. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's right! ",
+    "original": "That's right! ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I almost forgot it. I can use that hole to see into the bathroom.",
+    "original": "I almost forgot it. I can use that hole to see into the bathroom.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "She's probably doing it right now. I should hurry. ",
+    "original": "She's probably doing it right now. I should hurry. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Auntie Daisy\\C[0]: \\C[3]+5\\C[0] <br>",
+    "original": "\\C[20]Auntie Daisy\\C[0]: \\C[3]+5\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Anyway, I will take a bath. I'm all sweaty now.",
+    "original": "Anyway, I will take a bath. I'm all sweaty now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Are you okay!?",
+    "original": "Are you okay!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hurry! Help me!!!",
+    "original": "Hurry! Help me!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why are you smiling?",
+    "original": "Why are you smiling?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It kinds of funny when seeing you like this.",
+    "original": "It kinds of funny when seeing you like this.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Wait a minute! How can you get in this situation?",
+    "original": "Wait a minute! How can you get in this situation?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I slipped in here when I tried to hide.",
+    "original": "I slipped in here when I tried to hide.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hmm...",
+    "original": "Hmm...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Now I know why I can't find you and always lose in this game.",
+    "original": "Now I know why I can't find you and always lose in this game.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He-he...",
+    "original": "He-he...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Okay! Let's help you out first.",
+    "original": "Okay! Let's help you out first.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's stuck. I can't get you out because you're too fat.",
+    "original": "It's stuck. I can't get you out because you're too fat.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hey! I'm not fat!",
+    "original": "Hey! I'm not fat!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "This will not gonna work. I will pull you out from the other side.",
+    "original": "This will not gonna work. I will pull you out from the other side.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Haven't learned your lesson, do you?",
+    "original": "Haven't learned your lesson, do you?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Stop laughing! Helping me!",
+    "original": "Stop laughing! Helping me!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hurry! I'm stuck.",
+    "original": "Hurry! I'm stuck.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Have no need of it.",
+    "original": "Have no need of it.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Already got a Pine. Let's decorate it in my room.",
+    "original": "Already got a Pine. Let's decorate it in my room.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Found the \\c[1]Axe\\c[0]!",
+    "original": "Found the \\c[1]Axe\\c[0]!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There's a good looking \\c[1]Pine\\c[0] near my \\c[3]Farming Area\\c[0]. ",
+    "original": "There's a good looking \\c[1]Pine\\c[0] near my \\c[3]Farming Area\\c[0]. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m all wet.",
+    "original": "I’m all wet.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The rain will last quite a while. Better wait here.",
+    "original": "The rain will last quite a while. Better wait here.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Let's go upstairs.",
+    "original": "Let's go upstairs.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "OK!",
+    "original": "OK!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You should take off your clothes. You don’t want to catch a cold.",
+    "original": "You should take off your clothes. You don’t want to catch a cold.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’re right, Auntie.",
+    "original": "You’re right, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’ll do it too.",
+    "original": "I’ll do it too.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Come here, sweetie.",
+    "original": "Come here, sweetie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Take a seat. You must be tired from helping me.",
+    "original": "Take a seat. You must be tired from helping me.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Phew... A rest after a hard work is the best.",
+    "original": "Phew... A rest after a hard work is the best.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Man, she smells so good.",
+    "original": "Man, she smells so good.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Even if she’s covered with rain and sweat, I can still smell her wonderful scent...",
+    "original": "Even if she’s covered with rain and sweat, I can still smell her wonderful scent...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How are you feeling?",
+    "original": "How are you feeling?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Good, Auntie.",
+    "original": "Good, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Damn! My Auntie is so hot...",
+    "original": "Damn! My Auntie is so hot...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "My blood flowed into my willy fully in a millisecond.",
+    "original": "My blood flowed into my willy fully in a millisecond.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I don’t think she noticed...",
+    "original": "I don’t think she noticed...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "My dick is getting hard, like a rock.",
+    "original": "My dick is getting hard, like a rock.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Then let’s stay like this for a little longer.",
+    "original": "Then let’s stay like this for a little longer.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "O-Ouch...",
+    "original": "O-Ouch...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What’s wrong, Auntie!?",
+    "original": "What’s wrong, Auntie!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "N-nothing, Sweetie. It’s my shoulder, it’s a little stiff.",
+    "original": "N-nothing, Sweetie. It’s my shoulder, it’s a little stiff.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Do you want me to take a look at it?",
+    "original": "Do you want me to take a look at it?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s OK. I don’t think it’s anything serious.",
+    "original": "It’s OK. I don’t think it’s anything serious.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hmm... It's weird...",
+    "original": "Hmm... It's weird...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Maybe my massage for her shoulder at night wasn't good enough?",
+    "original": "Maybe my massage for her shoulder at night wasn't good enough?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[22]Theo\\C[0] has a lot of weird things.",
+    "original": "\\C[22]Theo\\C[0] has a lot of weird things.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I should talk to him after school tomorrow.",
+    "original": "I should talk to him after school tomorrow.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The rain is over.",
+    "original": "The rain is over.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Let's go home and take a shower, \\n[1]",
+    "original": "Let's go home and take a shower, \\n[1]",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How are your shoulders, Auntie?",
+    "original": "How are your shoulders, Auntie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's a lot better now. I don't feel any pain after a day's work.",
+    "original": "It's a lot better now. I don't feel any pain after a day's work.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "... and it feel really good...",
+    "original": "... and it feel really good...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is your shoulder hurt again, Auntie?",
+    "original": "Is your shoulder hurt again, Auntie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s a little stiff.",
+    "original": "It’s a little stiff.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Auntie, aren’t you staring too hard?",
+    "original": "Auntie, aren’t you staring too hard?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "!!!",
+    "original": "!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, I was just... thinking about something.",
+    "original": "Sorry, I was just... thinking about something.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You're so hot, Auntie...",
+    "original": "You're so hot, Auntie...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thank you, \\n[1]!",
+    "original": "Thank you, \\n[1]!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "But you shouldn't have said that. I'm your aunt.",
+    "original": "But you shouldn't have said that. I'm your aunt.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Can we have sex, Auntie? They say it tastes like a drug...",
+    "original": "Can we have sex, Auntie? They say it tastes like a drug...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Shit! I let it slip without thinking!!!",
+    "original": "Shit! I let it slip without thinking!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "W-What did you say!?",
+    "original": "W-What did you say!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm sorry, Auntie!",
+    "original": "I'm sorry, Auntie!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "My friend showed me a sex video yesterday and I was just curious...",
+    "original": "My friend showed me a sex video yesterday and I was just curious...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Forget about it. ",
+    "original": "Forget about it. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You should focus on studying more at this age.",
+    "original": "You should focus on studying more at this age.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "And stay away from that unhealthy boy!!!",
+    "original": "And stay away from that unhealthy boy!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That was a close one!",
+    "original": "That was a close one!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "His dick...",
+    "original": "His dick...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's so hard and big... Does he have that feeling for me, his aunt?",
+    "original": "It's so hard and big... Does he have that feeling for me, his aunt?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He looks so sad.",
+    "original": "He looks so sad.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "If I don't do something, there would be a gap between us.",
+    "original": "If I don't do something, there would be a gap between us.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can give you a... handjob?",
+    "original": "I can give you a... handjob?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Really?",
+    "original": "Really?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Yes. But you mustn’t tell anyone.",
+    "original": "Yes. But you mustn’t tell anyone.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You are the best, Auntie!!!",
+    "original": "You are the best, Auntie!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Who am I going to tell?",
+    "original": "Who am I going to tell?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s just us here.",
+    "original": "It’s just us here.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The cows are cooling off outside.",
+    "original": "The cows are cooling off outside.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Daisy\\C[0]! This is just to relieve his pressure...",
+    "original": "\\C[20]Daisy\\C[0]! This is just to relieve his pressure...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I don’t want him getting a cold.",
+    "original": "I don’t want him getting a cold.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I haven’t touched one all these years...",
+    "original": "I haven’t touched one all these years...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Let alone, my nephew’s dick... Can I really do this?",
+    "original": "Let alone, my nephew’s dick... Can I really do this?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How is it, Sweetie?",
+    "original": "How is it, Sweetie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Does it feel good?",
+    "original": "Does it feel good?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's really good, Auntie.",
+    "original": "It's really good, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Your small hand is so soft and warm...",
+    "original": "Your small hand is so soft and warm...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Small!?",
+    "original": "Small!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh my god! I can't grasp it all with my hands!!",
+    "original": "Oh my god! I can't grasp it all with my hands!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "My sister gave birth to such a monster!!!",
+    "original": "My sister gave birth to such a monster!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I think his future girlfriend may have a hard time...",
+    "original": "I think his future girlfriend may have a hard time...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's getting weird... I need to do it quickly.",
+    "original": "It's getting weird... I need to do it quickly.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Can you put your mouth on it?",
+    "original": "Can you put your mouth on it?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "NO!",
+    "original": "NO!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry... I got a little carried away.",
+    "original": "Sorry... I got a little carried away.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s OK. Just focus on the feeling.",
+    "original": "It’s OK. Just focus on the feeling.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Her hands feel so smooth.",
+    "original": "Her hands feel so smooth.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can picture her stroking it and making my dick hard so that she would stick it in her mouth.",
+    "original": "I can picture her stroking it and making my dick hard so that she would stick it in her mouth.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Then she takes the dick, wet with her saliva, and puts it deep into her pussy...",
+    "original": "Then she takes the dick, wet with her saliva, and puts it deep into her pussy...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "So hot... my Auntie is so hot...",
+    "original": "So hot... my Auntie is so hot...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Handjob",
+    "original": "Handjob",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "While we’re waiting for the rain to stop, why don’t we have some... fun?",
+    "original": "While we’re waiting for the rain to stop, why don’t we have some... fun?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Fun? What do you mean?",
+    "original": "Fun? What do you mean?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Like this!",
+    "original": "Like this!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is this boy horny 24/7?",
+    "original": "Is this boy horny 24/7?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hurry, Auntie! I still haven't got any reward today.",
+    "original": "Hurry, Auntie! I still haven't got any reward today.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Be sure not to tell anyone. Especially your mother...",
+    "original": "Be sure not to tell anyone. Especially your mother...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hurry, Auntie!!! I can't wait anymore!",
+    "original": "Hurry, Auntie!!! I can't wait anymore!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Okay, fine! Just stay still.",
+    "original": "Okay, fine! Just stay still.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[20]Daisy\\C[0]! This is just to relieve his pressure.",
+    "original": "\\C[20]Daisy\\C[0]! This is just to relieve his pressure.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m touching his dick again...",
+    "original": "I’m touching his dick again...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How is it, sweetie?",
+    "original": "How is it, sweetie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How did it get so big?",
+    "original": "How did it get so big?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Can you go a bit harder?",
+    "original": "Can you go a bit harder?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How’s that?",
+    "original": "How’s that?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Amazing.",
+    "original": "Amazing.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Your grip is so hard.",
+    "original": "Your grip is so hard.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Keep stroking it with your hand.",
+    "original": "Keep stroking it with your hand.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Slow down, Auntie!",
+    "original": "Slow down, Auntie!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I want to enjoy it a bit more.",
+    "original": "I want to enjoy it a bit more.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "If we stay out here, we’re going to catch a cold.",
+    "original": "If we stay out here, we’re going to catch a cold.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Shit, if she quickens the pace even more...",
+    "original": "Shit, if she quickens the pace even more...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "His dick is throbbing... he’s close.",
+    "original": "His dick is throbbing... he’s close.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Blowjob",
+    "original": "Blowjob",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Dammit. I can’t cum at this rate...",
+    "original": "Dammit. I can’t cum at this rate...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I need to push this a little further.",
+    "original": "I need to push this a little further.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\n[1]! What are you doing!?",
+    "original": "\\n[1]! What are you doing!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Relax, Auntie.",
+    "original": "Relax, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’ve been working so hard.",
+    "original": "You’ve been working so hard.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You need to release your tension.",
+    "original": "You need to release your tension.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’re speaking like a dirty old man...",
+    "original": "You’re speaking like a dirty old man...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He’s grown so much...",
+    "original": "He’s grown so much...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He’s gotten so strong, too...",
+    "original": "He’s gotten so strong, too...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why do you care about how I talk Auntie?",
+    "original": "Why do you care about how I talk Auntie?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Let me show you how I feel instead.",
+    "original": "Let me show you how I feel instead.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’re holding me up... like a ragdoll...",
+    "original": "You’re holding me up... like a ragdoll...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, Auntie. I don’t want you to fall and get hurt.",
+    "original": "Sorry, Auntie. I don’t want you to fall and get hurt.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m going to hold you up there.",
+    "original": "I’m going to hold you up there.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Don’t worry. I’m going to give you what you want.",
+    "original": "Don’t worry. I’m going to give you what you want.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Don’t act surprised, Auntie. I know what you were doing.",
+    "original": "Don’t act surprised, Auntie. I know what you were doing.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Fingering yourself in the bath. Playing with yourself with the dildo.",
+    "original": "Fingering yourself in the bath. Playing with yourself with the dildo.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "WHAT? How do you know about that?",
+    "original": "WHAT? How do you know about that?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s obvious. You make so much noise.",
+    "original": "It’s obvious. You make so much noise.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Even when we’re sleeping together. You grind on my dick.",
+    "original": "Even when we’re sleeping together. You grind on my dick.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What kind of thing is that to say?",
+    "original": "What kind of thing is that to say?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Come on.",
+    "original": "Come on.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What can you do this with a dick?",
+    "original": "What can you do this with a dick?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Stop saying like that!",
+    "original": "Stop saying like that!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Ohhh!",
+    "original": "Ohhh!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can't hold it anymore!",
+    "original": "I can't hold it anymore!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Say ah, Auntie. Your food is ready.",
+    "original": "Say ah, Auntie. Your food is ready.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mfmm!?!",
+    "original": "Mfmm!?!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There, Auntie. It tastes good, right?",
+    "original": "There, Auntie. It tastes good, right?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "His precum is filling my mouth... and running down my throat...",
+    "original": "His precum is filling my mouth... and running down my throat...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The taste of his dick milk is so sweet...",
+    "original": "The taste of his dick milk is so sweet...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I don’t hear any complaints.",
+    "original": "I don’t hear any complaints.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mfmm!!!",
+    "original": "Mfmm!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh shit!!!",
+    "original": "Oh shit!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "She’s sucking so hard!!!",
+    "original": "She’s sucking so hard!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He’s got such a hard, throbbing dick.",
+    "original": "He’s got such a hard, throbbing dick.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mmm... I love the taste of his young cock.",
+    "original": "Mmm... I love the taste of his young cock.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s as thick as a milk bottle...",
+    "original": "It’s as thick as a milk bottle...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Faster",
+    "original": "Faster",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m going to go faster now.",
+    "original": "I’m going to go faster now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m gagging on my nephew’s dick...",
+    "original": "I’m gagging on my nephew’s dick...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Your mouth feels so good, Auntie. It feels like I’m in heaven.",
+    "original": "Your mouth feels so good, Auntie. It feels like I’m in heaven.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s like sticking my dick in a warm bath.",
+    "original": "It’s like sticking my dick in a warm bath.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He’s violating my mouth so throughly...",
+    "original": "He’s violating my mouth so throughly...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "At this rate, I’m going to come...",
+    "original": "At this rate, I’m going to come...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Auntie?!?",
+    "original": "Auntie?!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’re going too hard!!!",
+    "original": "You’re going too hard!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "She’s trying to suck the cum out of my dick!",
+    "original": "She’s trying to suck the cum out of my dick!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’m the one who should be in charge...",
+    "original": "I’m the one who should be in charge...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I love this feeling.",
+    "original": "I love this feeling.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "This strong, veiny, throbbing, hard dick.",
+    "original": "This strong, veiny, throbbing, hard dick.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's smells so manly.",
+    "original": "It's smells so manly.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Cum",
+    "original": "Cum",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh shit!!! It's so good!",
+    "original": "Oh shit!!! It's so good!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm cumming!!!",
+    "original": "I'm cumming!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Auntie!!!",
+    "original": "Auntie!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You’re going to make me come!",
+    "original": "You’re going to make me come!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There’s so much cum...",
+    "original": "There’s so much cum...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, Auntie. Something came over me.",
+    "original": "Sorry, Auntie. Something came over me.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It’s okay, \\n[1].",
+    "original": "It’s okay, \\n[1].",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Luckily, you didn't lose control and put it inside me...",
+    "original": "Luckily, you didn't lose control and put it inside me...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It will be a huge problem if that happened.",
+    "original": "It will be a huge problem if that happened.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, Auntie.",
+    "original": "Sorry, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I think I put it inside you when you were sleeping, and not just once.",
+    "original": "I think I put it inside you when you were sleeping, and not just once.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I was so scared. If you want it so much, just ask me.",
+    "original": "I was so scared. If you want it so much, just ask me.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Don't be so rough next time.",
+    "original": "Don't be so rough next time.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I love you so much, Auntie.",
+    "original": "I love you so much, Auntie.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, Auntie. It's way too good while holding your arms up like that. ",
+    "original": "Sorry, Auntie. It's way too good while holding your arms up like that. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I came my ball out. ",
+    "original": "I came my ball out. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I’ll need to do this again. On my own terms...",
+    "original": "I’ll need to do this again. On my own terms...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hah... hah...",
+    "original": "Hah... hah...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I came so hard...",
+    "original": "I came so hard...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That’s for sticking your dick in me without permission...",
+    "original": "That’s for sticking your dick in me without permission...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Sorry, Auntie... I won’t do it again, I swear...",
+    "original": "Sorry, Auntie... I won’t do it again, I swear...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "End",
+    "original": "End",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm cumming!!! Ahhhh....",
+    "original": "I'm cumming!!! Ahhhh....",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh my...",
+    "original": "Oh my...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He came all over me... the smell is making me go crazy.",
+    "original": "He came all over me... the smell is making me go crazy.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How was that, \\n[1]?",
+    "original": "How was that, \\n[1]?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Thank you, Auntie. I’ll consider this a reward for helping you.",
+    "original": "Thank you, Auntie. I’ll consider this a reward for helping you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Can I expect more rewards in the future?",
+    "original": "Can I expect more rewards in the future?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I-it’s getting late. Let’s go inside and shower.",
+    "original": "I-it’s getting late. Let’s go inside and shower.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[21]Joyce\\C[0] <br>",
+    "original": "\\C[21]Joyce\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Remember to eat your breakfast, Honey!",
+    "original": "Remember to eat your breakfast, Honey!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Urg! <br>",
+    "original": "Urg! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It stinks!!!",
+    "original": "It stinks!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How can you even work normally in this condition!?",
+    "original": "How can you even work normally in this condition!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is that so? <br>",
+    "original": "Is that so? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I don't seem to smell anything wrong. <br>",
+    "original": "I don't seem to smell anything wrong. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I guess I already get used to it.",
+    "original": "I guess I already get used to it.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You look busy. <br>",
+    "original": "You look busy. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is anything I could help with?",
+    "original": "Is anything I could help with?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's okay! <br>",
+    "original": "It's okay! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Be a guest for a day.",
+    "original": "Be a guest for a day.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "If there is any work, <br>",
+    "original": "If there is any work, <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I don't think a city lady can handle it.",
+    "original": "I don't think a city lady can handle it.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Don't mock me, my dear sis!",
+    "original": "Don't mock me, my dear sis!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The city life sure made you tired, \\C[21]Joyce\\C[0]. <br>",
+    "original": "The city life sure made you tired, \\C[21]Joyce\\C[0]. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why don't you just stay here?",
+    "original": "Why don't you just stay here?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I love to but my husband works in the city and I have my job there too. <br>",
+    "original": "I love to but my husband works in the city and I have my job there too. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I need to take care of him.",
+    "original": "I need to take care of him.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How is your life? <br>",
+    "original": "How is your life? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It must be really hard for you and your daughter.",
+    "original": "It must be really hard for you and your daughter.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What are you saying? <br>",
+    "original": "What are you saying? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "We have a man in this house.",
+    "original": "We have a man in this house.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He helped us a lot.",
+    "original": "He helped us a lot.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's my boy!",
+    "original": "That's my boy!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh, my goddess! <br>",
+    "original": "Oh, my goddess! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why am I so embarrassed?",
+    "original": "Why am I so embarrassed?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "After all the things we've done, <br>",
+    "original": "After all the things we've done, <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can't even dare to look my sister in the eye.",
+    "original": "I can't even dare to look my sister in the eye.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's all his fault...",
+    "original": "It's all his fault...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mom, what are you doing here? <br>",
+    "original": "Mom, what are you doing here? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You sure wake up early.",
+    "original": "You sure wake up early.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hahaha!",
+    "original": "Hahaha!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What!?",
+    "original": "What!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "We were thinking about a celebration party. <br>",
+    "original": "We were thinking about a celebration party. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Do you have any idea?",
+    "original": "Do you have any idea?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Oh!",
+    "original": "Oh!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How about doing it at Dinner? <br>",
+    "original": "How about doing it at Dinner? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'll invite \\C[25]Aunt Douie\\C[0] too. ",
+    "original": "I'll invite \\C[25]Aunt Douie\\C[0] too. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's a great idea! <br>",
+    "original": "That's a great idea! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Me and your mom will prepare food for the party.",
+    "original": "Me and your mom will prepare food for the party.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "All you need to do is invite our best neighbor, \\C[25]Douie\\C[0].",
+    "original": "All you need to do is invite our best neighbor, \\C[25]Douie\\C[0].",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Alright!",
+    "original": "Alright!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Woohoo! Party!!!",
+    "original": "Woohoo! Party!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm so excited!!!",
+    "original": "I'm so excited!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I need to go to \\C[25]Aunt Douie\\C[0]'s house right now!",
+    "original": "I need to go to \\C[25]Aunt Douie\\C[0]'s house right now!",
+    "translation": "",
+    "stage": 0
+  }
+]

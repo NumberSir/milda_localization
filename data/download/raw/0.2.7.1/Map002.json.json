@@ -1,0 +1,1730 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "我 <br>",
+    "stage": 1
+  },
+  {
+    "key": "Good morning, \\C[25]Ms. Megan\\C[0]! You sure an early bird!",
+    "original": "Good morning, \\C[25]Ms. Megan\\C[0]! You sure an early bird!",
+    "translation": "早上好\\C[25]梅根小姐\\C[0]！你起得可真早！",
+    "stage": 1
+  },
+  {
+    "key": "\\C[25]Ms. Megan\\C[0] <br>",
+    "original": "\\C[25]Ms. Megan\\C[0] <br>",
+    "translation": "\\C[25]梅根小姐\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "It's my job. I need to observe every detail to ensure the peace of this school.",
+    "original": "It's my job. I need to observe every detail to ensure the peace of this school.",
+    "translation": "我就是干这个的，要确保学校时刻安全",
+    "stage": 1
+  },
+  {
+    "key": "(Ye, you sure did your job! You didn't do anything the first time I went to this school and got into trouble.)",
+    "original": "(Ye, you sure did your job! You didn't do anything the first time I went to this school and got into trouble.)",
+    "translation": "(呵呵，那你可真够称职的，在我遇到麻烦的时候冷眼旁观)",
+    "stage": 1
+  },
+  {
+    "key": "What's going on? I can sense bad thoughts through your smile.",
+    "original": "What's going on? I can sense bad thoughts through your smile.",
+    "translation": "怎么了？你坏笑什么",
+    "stage": 1
+  },
+  {
+    "key": "You're just overthinking. Anyway, have a good day!",
+    "original": "You're just overthinking. Anyway, have a good day!",
+    "translation": "没什么，就祝你天天开心吧",
+    "stage": 1
+  },
+  {
+    "key": "You too! ",
+    "original": "You too! ",
+    "translation": "你也一样！",
+    "stage": 1
+  },
+  {
+    "key": "The class already ended one hour ago. What are you still doing here?",
+    "original": "The class already ended one hour ago. What are you still doing here?",
+    "translation": "早都下课了，你还在这儿干什么？",
+    "stage": 1
+  },
+  {
+    "key": "Sorry, \\C[25]Ms. Megan\\C[0]! I'm too tired and overslept.",
+    "original": "Sorry, \\C[25]Ms. Megan\\C[0]! I'm too tired and overslept.",
+    "translation": "抱歉\\C[25]梅根小姐\\C[0]！我睡过头了",
+    "stage": 1
+  },
+  {
+    "key": "Seriously! You such a night owl. You should sleep earlier to ensure your health.",
+    "original": "Seriously! You such a night owl. You should sleep earlier to ensure your health.",
+    "translation": "你真是个夜猫子！记得下次早点睡觉",
+    "stage": 1
+  },
+  {
+    "key": "Enough talk. I will take you out.",
+    "original": "Enough talk. I will take you out.",
+    "translation": "行了，放你过去吧",
+    "stage": 1
+  },
+  {
+    "key": "Thanks, \\C[25]Ms. Megan\\C[0]!",
+    "original": "Thanks, \\C[25]Ms. Megan\\C[0]!",
+    "translation": "谢谢你，\\C[25]梅根小姐\\C[0]！",
+    "stage": 1
+  },
+  {
+    "key": "It's pitch dark in this place! Must careful not to make any loud noise.",
+    "original": "It's pitch dark in this place! Must careful not to make any loud noise.",
+    "translation": "这儿可真够黑的！我得小心别弄出动静",
+    "stage": 1
+  },
+  {
+    "key": "\\C[22]Theo\\C[0] said, there is a ladder on the left.",
+    "original": "\\C[22]Theo\\C[0] said, there is a ladder on the left.",
+    "translation": "\\C[22]希奥\\C[0]说左边有个梯子",
+    "stage": 1
+  },
+  {
+    "key": "I should start there to able to get into the school.",
+    "original": "I should start there to able to get into the school.",
+    "translation": "我得从那儿翻进学校",
+    "stage": 1
+  },
+  {
+    "key": "It's so dark! I'm starting to nervous!",
+    "original": "It's so dark! I'm starting to nervous!",
+    "translation": "真够黑的！我汗都下来了",
+    "stage": 1
+  },
+  {
+    "key": "Talk",
+    "original": "Talk",
+    "translation": "对话",
+    "stage": 1
+  },
+  {
+    "key": "Leave",
+    "original": "Leave",
+    "translation": "离开",
+    "stage": 1
+  },
+  {
+    "key": "Hey, it's nice to meet you.",
+    "original": "Hey, it's nice to meet you.",
+    "translation": "嘿，你好啊",
+    "stage": 1
+  },
+  {
+    "key": "Letting you know that your underwear is wide open. Everyone will see everything...",
+    "original": "Letting you know that your underwear is wide open. Everyone will see everything...",
+    "translation": "和你说一声，你小穴大张，大家都能看得一清二楚……",
+    "stage": 1
+  },
+  {
+    "key": "???",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 1
+  },
+  {
+    "key": "...",
+    "original": "...",
+    "translation": "...",
+    "stage": 1
+  },
+  {
+    "key": "??? <br>",
+    "original": "??? <br>",
+    "translation": "???<br>",
+    "stage": 1
+  },
+  {
+    "key": "Oh! I know you!",
+    "original": "Oh! I know you!",
+    "translation": "哦！我知道你是谁",
+    "stage": 1
+  },
+  {
+    "key": "What? Am I famous?",
+    "original": "What? Am I famous?",
+    "translation": "哈？我有那么出名吗",
+    "stage": 1
+  },
+  {
+    "key": "You're the pervert that walks around the school with his penis hanging out.",
+    "original": "You're the pervert that walks around the school with his penis hanging out.",
+    "translation": "你是那个在学校里遛鸟的变态",
+    "stage": 1
+  },
+  {
+    "key": "!!!",
+    "original": "!!!",
+    "translation": "!!!",
+    "stage": 1
+  },
+  {
+    "key": "That is a misunderstanding. My pants got pulled down, I didn't know!",
+    "original": "That is a misunderstanding. My pants got pulled down, I didn't know!",
+    "translation": "你搞错了，那是因为有别人把我裤子扒下来！",
+    "stage": 1
+  },
+  {
+    "key": "Besides, it would be better that you should introduce yourself.",
+    "original": "Besides, it would be better that you should introduce yourself.",
+    "translation": "而且你最好先自我介绍一下",
+    "stage": 1
+  },
+  {
+    "key": "I don't care. Stay away from me, pervert.",
+    "original": "I don't care. Stay away from me, pervert.",
+    "translation": "谁管你，离我远点，变态",
+    "stage": 1
+  },
+  {
+    "key": "(What is wrong with her? I just wanna be nice.)",
+    "original": "(What is wrong with her? I just wanna be nice.)",
+    "translation": "(她什么毛病？我就打个招呼)",
+    "stage": 1
+  },
+  {
+    "key": "It's you again. What do you want now?",
+    "original": "It's you again. What do you want now?",
+    "translation": "又是你，你想干嘛？",
+    "stage": 1
+  },
+  {
+    "key": "Tell her",
+    "original": "Tell her",
+    "translation": "告诉她",
+    "stage": 1
+  },
+  {
+    "key": "I just want to say that your underwear is visible, everyone can see it.",
+    "original": "I just want to say that your underwear is visible, everyone can see it.",
+    "translation": "我就想给你说一声，大家都看得到你下面什么都没穿",
+    "stage": 1
+  },
+  {
+    "key": "Pff... Everyone? <br>",
+    "original": "Pff... Everyone? <br>",
+    "translation": "噗……大家？<br>",
+    "stage": 1
+  },
+  {
+    "key": "Do you mean? <br>",
+    "original": "Do you mean? <br>",
+    "translation": "你想说的是<br>",
+    "stage": 1
+  },
+  {
+    "key": "You.",
+    "original": "You.",
+    "translation": "你自己吧",
+    "stage": 1
+  },
+  {
+    "key": "Besides, I am wearing my pantie. You can't see anything except a piece of cloth.",
+    "original": "Besides, I am wearing my pantie. You can't see anything except a piece of cloth.",
+    "translation": "而且我穿着内裤呢，你除了一块遮羞布之外什么都看不到",
+    "stage": 1
+  },
+  {
+    "key": "But...",
+    "original": "But...",
+    "translation": "但是……",
+    "stage": 1
+  },
+  {
+    "key": "Won't you feel ashamed if you wore pants? No one could see your penis.",
+    "original": "Won't you feel ashamed if you wore pants? No one could see your penis.",
+    "translation": "怎么这次你穿着裤子啊？这样大家可看不到你的小鸟鸟了",
+    "stage": 1
+  },
+  {
+    "key": "Maybe you're right. But, I feel something wrong. ",
+    "original": "Maybe you're right. But, I feel something wrong. ",
+    "translation": "你说是就是吧，反正我觉得不对劲",
+    "stage": 1
+  },
+  {
+    "key": "Wrong!?",
+    "original": "Wrong!?",
+    "translation": "不对劲？！",
+    "stage": 1
+  },
+  {
+    "key": "You're such an idiot! Enjoy looking long as you want. It's a piece of cloth.",
+    "original": "You're such an idiot! Enjoy looking long as you want. It's a piece of cloth.",
+    "translation": "你这笨蛋！想看就给你看吧，反正你什么也看不到",
+    "stage": 1
+  },
+  {
+    "key": "(Who is the idiot right now? I don't know...)",
+    "original": "(Who is the idiot right now? I don't know...)",
+    "translation": "(到底谁笨啊？给我大脑干烧了……)",
+    "stage": 1
+  },
+  {
+    "key": "It's nothing. I'm just passing by.",
+    "original": "It's nothing. I'm just passing by.",
+    "translation": "没事，我纯路人",
+    "stage": 1
+  },
+  {
+    "key": "Hmm... I just notice that you have been here for a while.",
+    "original": "Hmm... I just notice that you have been here for a while.",
+    "translation": "嗯……你在这儿晃悠了一阵子了",
+    "stage": 1
+  },
+  {
+    "key": "(This idiot again.)",
+    "original": "(This idiot again.)",
+    "translation": "(又是这个笨蛋)",
+    "stage": 1
+  },
+  {
+    "key": "(Hmm...)",
+    "original": "(Hmm...)",
+    "translation": "(嗯……)",
+    "stage": 1
+  },
+  {
+    "key": "(I guess teasing him a little bit won't hurt.)",
+    "original": "(I guess teasing him a little bit won't hurt.)",
+    "translation": "(逗逗他玩应该没什么大不了的)",
+    "stage": 1
+  },
+  {
+    "key": "(I bet he hungers to see my smoothie.)",
+    "original": "(I bet he hungers to see my smoothie.)",
+    "translation": "(我猜他肯定想看我的夹心)",
+    "stage": 1
+  },
+  {
+    "key": "Hmm... What is she doing?",
+    "original": "Hmm... What is she doing?",
+    "translation": "呃……她在干嘛？",
+    "stage": 1
+  },
+  {
+    "key": "Ha-ha! I guess you really want to see what it looks like under my pantie, right?",
+    "original": "Ha-ha! I guess you really want to see what it looks like under my pantie, right?",
+    "translation": "哈哈！猜你一定想看我内裤下面是什么样子吧？",
+    "stage": 1
+  },
+  {
+    "key": "Sadly, you can't see anything.",
+    "original": "Sadly, you can't see anything.",
+    "translation": "可惜你什么都看不到",
+    "stage": 1
+  },
+  {
+    "key": "(W-What? I didn't expect this to happen.)",
+    "original": "(W-What? I didn't expect this to happen.)",
+    "translation": "(搞什么？我可没想到会这样)",
+    "stage": 1
+  },
+  {
+    "key": "(Wow!)",
+    "original": "(Wow!)",
+    "translation": "(我去！)",
+    "stage": 1
+  },
+  {
+    "key": "(It so beautiful. Smooth and pink.)",
+    "original": "(It so beautiful. Smooth and pink.)",
+    "translation": "(真漂亮啊，粉粉嫩嫩的)",
+    "stage": 1
+  },
+  {
+    "key": "Eek!!?",
+    "original": "Eek!!?",
+    "translation": "咦惹？！",
+    "stage": 1
+  },
+  {
+    "key": "What is in your pants? It got so big now.",
+    "original": "What is in your pants? It got so big now.",
+    "translation": "你裤子里装着什么？变那么大",
+    "stage": 1
+  },
+  {
+    "key": "Ha-ha! You even got a boner. Such a weirdo!",
+    "original": "Ha-ha! You even got a boner. Such a weirdo!",
+    "translation": "哈哈！你不会看硬了吧，真是变态！",
+    "stage": 1
+  },
+  {
+    "key": "(Man, this is so embarrassing. But I guess I already got some benefits to fill that.)",
+    "original": "(Man, this is so embarrassing. But I guess I already got some benefits to fill that.)",
+    "translation": "(真够尴尬的，但也值了)",
+    "stage": 1
+  },
+  {
+    "key": "(It's him again. Let's make the same recipe.)",
+    "original": "(It's him again. Let's make the same recipe.)",
+    "translation": "(又是他，让我再逗他玩玩)",
+    "stage": 1
+  },
+  {
+    "key": "(He wants to see my pussy so badly.)",
+    "original": "(He wants to see my pussy so badly.)",
+    "translation": "(他真够饥渴的)",
+    "stage": 1
+  },
+  {
+    "key": "Again",
+    "original": "Again",
+    "translation": "重来",
+    "stage": 1
+  },
+  {
+    "key": "What just happened? I can't see anything.",
+    "original": "What just happened? I can't see anything.",
+    "translation": "怎么了？我什么都没看见",
+    "stage": 1
+  },
+  {
+    "key": "You probably saw nothing.",
+    "original": "You probably saw nothing.",
+    "translation": "你当然什么都看不见",
+    "stage": 1
+  },
+  {
+    "key": "Maybe later.",
+    "original": "Maybe later.",
+    "translation": "下次吧",
+    "stage": 1
+  },
+  {
+    "key": "I'm not that idiot. Definitely.",
+    "original": "I'm not that idiot. Definitely.",
+    "translation": "我肯定不是那个笨蛋",
+    "stage": 1
+  },
+  {
+    "key": "That would be enough. It would be fucked up if she notice.",
+    "original": "That would be enough. It would be fucked up if she notice.",
+    "translation": "差不多就这样吧，要是她反应过来就不好了",
+    "stage": 1
+  },
+  {
+    "key": "\\C[2]Anna\\C[0] <br>",
+    "original": "\\C[2]Anna\\C[0] <br>",
+    "translation": "\\C[2]安娜\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "Hurry up! You're too slow!",
+    "original": "Hurry up! You're too slow!",
+    "translation": "赶快！你太慢了！",
+    "stage": 1
+  },
+  {
+    "key": "It's not that I'm slow but you're running too fast.",
+    "original": "It's not that I'm slow but you're running too fast.",
+    "translation": "不是我慢，是你跑太快了",
+    "stage": 1
+  },
+  {
+    "key": "Haha! You are so weak!",
+    "original": "Haha! You are so weak!",
+    "translation": "哈哈！你太菜了！",
+    "stage": 1
+  },
+  {
+    "key": "I remember running up the mountain without taking a breath. What happened to my body since I got to the city?",
+    "original": "I remember running up the mountain without taking a breath. What happened to my body since I got to the city?",
+    "translation": "我以前翻山越岭大气都不喘一口，怎么进城之后体力变得这么差？",
+    "stage": 1
+  },
+  {
+    "key": "Hey, \\C[2]Anna\\C[0]!",
+    "original": "Hey, \\C[2]Anna\\C[0]!",
+    "translation": "嘿，\\C[2]安娜\\C[0]！",
+    "stage": 1
+  },
+  {
+    "key": "\\n[1], this is \\C[4]Lily\\C[0]. She is my best friend!",
+    "original": "\\n[1], this is \\C[4]Lily\\C[0]. She is my best friend!",
+    "translation": "\\n[1]，这是我最好的朋友\\C[4]莉莉\\C[0]！",
+    "stage": 1
+  },
+  {
+    "key": "Hi, \\C[4]Lily\\C[0]. Nice to meet you.",
+    "original": "Hi, \\C[4]Lily\\C[0]. Nice to meet you.",
+    "translation": "嗨\\C[4]莉莉\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "\\C[4]Lily\\C[0] <br>",
+    "original": "\\C[4]Lily\\C[0] <br>",
+    "translation": "\\C[4]莉莉\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "Hello~",
+    "original": "Hello~",
+    "translation": "你好啊~",
+    "stage": 1
+  },
+  {
+    "key": "Well then \\C[2]Anna\\C[0], I'll just wait for you in the classroom.",
+    "original": "Well then \\C[2]Anna\\C[0], I'll just wait for you in the classroom.",
+    "translation": "\\C[2]安娜\\C[0]我在教室等你",
+    "stage": 1
+  },
+  {
+    "key": "See you around, \\n[1].",
+    "original": "See you around, \\n[1].",
+    "translation": "再见啦，\\n[1]",
+    "stage": 1
+  },
+  {
+    "key": "Bye, \\C[4]Lily\\C[0].",
+    "original": "Bye, \\C[4]Lily\\C[0].",
+    "translation": "再见\\C[4]莉莉\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Sorry, I have to go.",
+    "original": "Sorry, I have to go.",
+    "translation": "抱歉，我得先走了",
+    "stage": 1
+  },
+  {
+    "key": "My teacher usually needs my help around this time.",
+    "original": "My teacher usually needs my help around this time.",
+    "translation": "老师在课前总是要我帮忙",
+    "stage": 1
+  },
+  {
+    "key": "It's okay. You should hurry and help her out then.",
+    "original": "It's okay. You should hurry and help her out then.",
+    "translation": "没事，你快去吧",
+    "stage": 1
+  },
+  {
+    "key": "I'll see you after school then!",
+    "original": "I'll see you after school then!",
+    "translation": "放学后再找你！",
+    "stage": 1
+  },
+  {
+    "key": "See you later.",
+    "original": "See you later.",
+    "translation": "再见",
+    "stage": 1
+  },
+  {
+    "key": "Now! let's see what my new school looks like.",
+    "original": "Now! let's see what my new school looks like.",
+    "translation": "好！让我看看新的校园生活如何吧",
+    "stage": 1
+  },
+  {
+    "key": "HEY! STOP RIGHT THERE, TWERP.",
+    "original": "HEY! STOP RIGHT THERE, TWERP.",
+    "translation": "嘿！别动，你这家伙",
+    "stage": 1
+  },
+  {
+    "key": "What are you doing here, brat? Separated from your mommy?",
+    "original": "What are you doing here, brat? Separated from your mommy?",
+    "translation": "你在这儿干嘛，小鬼？和你妈咪走散了吗？",
+    "stage": 1
+  },
+  {
+    "key": "....No? I'm a transfer student, this is my first day of school.",
+    "original": "....No? I'm a transfer student, this is my first day of school.",
+    "translation": "……啊？我是转学生，第一天来学校",
+    "stage": 1
+  },
+  {
+    "key": "You must have come to the wrong place, because this isn't a kindergarten.",
+    "original": "You must have come to the wrong place, because this isn't a kindergarten.",
+    "translation": "你走错地方了，这里可不是幼儿园",
+    "stage": 1
+  },
+  {
+    "key": "Hey! Don't judge people by their looks. Just so you know, I'm over 18 years old.",
+    "original": "Hey! Don't judge people by their looks. Just so you know, I'm over 18 years old.",
+    "translation": "嘿！别看我长得小，我已经十八岁了！",
+    "stage": 1
+  },
+  {
+    "key": "And I'm pretty sure this is the school I'm gonna be studying at from now on.",
+    "original": "And I'm pretty sure this is the school I'm gonna be studying at from now on.",
+    "translation": "我可没走错地方，这儿就是我的新学校",
+    "stage": 1
+  },
+  {
+    "key": "If you're old enough to be here. You didn't come to the wrong place. I guess you already know my name by now.",
+    "original": "If you're old enough to be here. You didn't come to the wrong place. I guess you already know my name by now.",
+    "translation": "你最好没撒谎。我猜你知道我是谁吧",
+    "stage": 1
+  },
+  {
+    "key": "Erm... No, I don't. Am I supposed to?",
+    "original": "Erm... No, I don't. Am I supposed to?",
+    "translation": "呃……我应该知道吗？",
+    "stage": 1
+  },
+  {
+    "key": "WHAT!!! You move here and you don't know my name??",
+    "original": "WHAT!!! You move here and you don't know my name??",
+    "translation": "哈？！你竟然连本大爷是谁都不知道？",
+    "stage": 1
+  },
+  {
+    "key": "That really hurt my soul. Now, give me money to heal my wounded soul.",
+    "original": "That really hurt my soul. Now, give me money to heal my wounded soul.",
+    "translation": "我的心都碎了，快点，陪我精神损失费",
+    "stage": 1
+  },
+  {
+    "key": "WHAT!? That doesn't make any sense at all.",
+    "original": "WHAT!? That doesn't make any sense at all.",
+    "translation": "啊？！你扯什么有的没的",
+    "stage": 1
+  },
+  {
+    "key": "Then you better give me some money too. As my soul kinda hurts too now.",
+    "original": "Then you better give me some money too. As my soul kinda hurts too now.",
+    "translation": "我说你最好把身上的钱都给我，不然我也让你尝尝心碎的滋味",
+    "stage": 1
+  },
+  {
+    "key": "(Fuck! This always works on twerps. This brat is tougher than he looks. He didn't even get scared by my intimidation.)",
+    "original": "(Fuck! This always works on twerps. This brat is tougher than he looks. He didn't even get scared by my intimidation.)",
+    "translation": "(草，这招一直百试百灵，怎么放这小子身上一点害怕的感觉都没有)",
+    "stage": 1
+  },
+  {
+    "key": "(I can't beat him up right now, too many people around.)",
+    "original": "(I can't beat him up right now, too many people around.)",
+    "translation": "(这儿人太多了，我没法动手)",
+    "stage": 1
+  },
+  {
+    "key": "(Maybe I should give him a swirly?)",
+    "original": "(Maybe I should give him a swirly?)",
+    "translation": "(我该把他脑袋塞进马桶里吗？)",
+    "stage": 1
+  },
+  {
+    "key": "(No wait, there's not a toilet outside...)",
+    "original": "(No wait, there's not a toilet outside...)",
+    "translation": "(不不不，这儿没有厕所……)",
+    "stage": 1
+  },
+  {
+    "key": "(Oh wait, I got an idea!)",
+    "original": "(Oh wait, I got an idea!)",
+    "translation": "(哦我想到个好主意！)",
+    "stage": 1
+  },
+  {
+    "key": "Ayy! Look! There's a girl with no pantie on sitting over there!",
+    "original": "Ayy! Look! There's a girl with no pantie on sitting over there!",
+    "translation": "哎呀！那有个没穿内裤的女孩坐在椅子上！",
+    "stage": 1
+  },
+  {
+    "key": "(I'm a genius! This will definitely work on this idiot.)",
+    "original": "(I'm a genius! This will definitely work on this idiot.)",
+    "translation": "(我真是个天才，这招绝对能骗到他)",
+    "stage": 1
+  },
+  {
+    "key": "(Now is my chance, I must hurry before he notices.)",
+    "original": "(Now is my chance, I must hurry before he notices.)",
+    "translation": "(现在该我趁他不注意出手了)",
+    "stage": 1
+  },
+  {
+    "key": "Wow!  <br>",
+    "original": "Wow!  <br>",
+    "translation": "哇哦！<br>",
+    "stage": 1
+  },
+  {
+    "key": "There actually is a girl with no pantie on sitting over there.",
+    "original": "There actually is a girl with no pantie on sitting over there.",
+    "translation": "还真有个没穿内裤的女孩",
+    "stage": 1
+  },
+  {
+    "key": "I can clearly see everything.",
+    "original": "I can clearly see everything.",
+    "translation": "我看得一清二楚",
+    "stage": 1
+  },
+  {
+    "key": "Damn... She looks so smooth and soft...",
+    "original": "Damn... She looks so smooth and soft...",
+    "translation": "老天……看上去真软嫩啊……",
+    "stage": 1
+  },
+  {
+    "key": "Shit! I was staring her too hard. Another thing got hard too!",
+    "original": "Shit! I was staring her too hard. Another thing got hard too!",
+    "translation": "我去！我看硬了！",
+    "stage": 1
+  },
+  {
+    "key": "Me  <br>",
+    "original": "Me  <br>",
+    "translation": "我 <br>",
+    "stage": 1
+  },
+  {
+    "key": "I hope no one saw me staring at her with an erection.",
+    "original": "I hope no one saw me staring at her with an erection.",
+    "translation": "希望没人看到我这幅样子",
+    "stage": 1
+  },
+  {
+    "key": "Wait.... WTF! What happened to my pants??",
+    "original": "Wait.... WTF! What happened to my pants??",
+    "translation": "等等……我去！我裤子呢？？",
+    "stage": 1
+  },
+  {
+    "key": "What is going on out here?",
+    "original": "What is going on out here?",
+    "translation": "出什么事了？",
+    "stage": 1
+  },
+  {
+    "key": "\\C[21]Brad\\C[0]. It's you again. I should have known.",
+    "original": "\\C[21]Brad\\C[0]. It's you again. I should have known.",
+    "translation": "\\C[21]布拉德\\C[0]又是你，我猜也是",
+    "stage": 1
+  },
+  {
+    "key": "For the last time, this is not your home. Stop playing around.",
+    "original": "For the last time, this is not your home. Stop playing around.",
+    "translation": "这儿不是你家，别闹了",
+    "stage": 1
+  },
+  {
+    "key": "\\C[21]Brad\\C[0] <br>",
+    "original": "\\C[21]Brad\\C[0] <br>",
+    "translation": "\\C[21]Brad\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "Tsk!",
+    "original": "Tsk!",
+    "translation": "嘁！",
+    "stage": 1
+  },
+  {
+    "key": "You better watch your back or I will beat your ass next time. Twerp!",
+    "original": "You better watch your back or I will beat your ass next time. Twerp!",
+    "translation": "你最好小心点，别让我再撞见你！",
+    "stage": 1
+  },
+  {
+    "key": "Ehem! You should put your pants back on.",
+    "original": "Ehem! You should put your pants back on.",
+    "translation": "咦惹，快把你裤子穿上",
+    "stage": 1
+  },
+  {
+    "key": "Oh! I almost forgot about it. Sorry!",
+    "original": "Oh! I almost forgot about it. Sorry!",
+    "translation": "哦抱歉，我都忘了这回事了",
+    "stage": 1
+  },
+  {
+    "key": "???  <br>",
+    "original": "???  <br>",
+    "translation": "???<br>",
+    "stage": 1
+  },
+  {
+    "key": "You seem to have forgotten how to hide your embarrassing \"thing\" as well.",
+    "original": "You seem to have forgotten how to hide your embarrassing \"thing\" as well.",
+    "translation": "你应该也忘了要把你的小兄弟挡一挡了",
+    "stage": 1
+  },
+  {
+    "key": "Well, you see it anyways. So, there is no need to hide it now.",
+    "original": "Well, you see it anyways. So, there is no need to hide it now.",
+    "translation": "反正这里就咱们俩，无所谓了",
+    "stage": 1
+  },
+  {
+    "key": "Well, at least you're a funny guy, I kinda like it.",
+    "original": "Well, at least you're a funny guy, I kinda like it.",
+    "translation": "你这人还挺有趣的",
+    "stage": 1
+  },
+  {
+    "key": "Let me guess, you're \\n[1], the new transfer student. Am I right?",
+    "original": "Let me guess, you're \\n[1], the new transfer student. Am I right?",
+    "translation": "我猜你是\\n[1]，新来的转学生对吧？",
+    "stage": 1
+  },
+  {
+    "key": "Yea.",
+    "original": "Yea.",
+    "translation": "嗯",
+    "stage": 1
+  },
+  {
+    "key": "\\C[31]Marie\\C[0] <br>",
+    "original": "\\C[31]Marie\\C[0] <br>",
+    "translation": "\\C[31]玛丽\\C[0]<br>",
+    "stage": 1
+  },
+  {
+    "key": "Well, I'm the school's student council president. You can call me \\C[31]Marie\\C[0].",
+    "original": "Well, I'm the school's student council president. You can call me \\C[31]Marie\\C[0].",
+    "translation": "我是学生会主席，你可以叫我\\C[31]玛丽\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Nice to meet you, \\C[31]Marie\\C[0].",
+    "original": "Nice to meet you, \\C[31]Marie\\C[0].",
+    "translation": "你好\\C[31]玛丽\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Is there something on my face?",
+    "original": "Is there something on my face?",
+    "translation": "我脸上有什么东西吗？",
+    "stage": 1
+  },
+  {
+    "key": "I-It's nothing. I have never seen someone with white hair before and you seem kinda cool too. Sorry for staring though..",
+    "original": "I-It's nothing. I have never seen someone with white hair before and you seem kinda cool too. Sorry for staring though..",
+    "translation": "没-没什么，我还是第一次见到像你这么酷的女孩，不小心看入迷了……",
+    "stage": 1
+  },
+  {
+    "key": "Cool? That's not a good word to praise a girl with you know. But, I guess I will accept it.",
+    "original": "Cool? That's not a good word to praise a girl with you know. But, I guess I will accept it.",
+    "translation": "酷？这可不是夸女孩该用的词，我就当你是在夸我吧",
+    "stage": 1
+  },
+  {
+    "key": "You look really beautiful when you smile then too, I hope I'll see you smiling some more often.",
+    "original": "You look really beautiful when you smile then too, I hope I'll see you smiling some more often.",
+    "translation": "你看起来真漂亮，笑起来也是，我希望能看你多笑笑",
+    "stage": 1
+  },
+  {
+    "key": "I will not fall for that, Mr. Playboy. ",
+    "original": "I will not fall for that, Mr. Playboy. ",
+    "translation": "小滑头，这招对我可不管用",
+    "stage": 1
+  },
+  {
+    "key": "Well the class is about to start, I have to go now.",
+    "original": "Well the class is about to start, I have to go now.",
+    "translation": "该上课了，我先走了",
+    "stage": 1
+  },
+  {
+    "key": "If you have any problems, you can ask me after class.",
+    "original": "If you have any problems, you can ask me after class.",
+    "translation": "你有问题的话可以下课后找我",
+    "stage": 1
+  },
+  {
+    "key": "Good luck on your first day. Until next time.",
+    "original": "Good luck on your first day. Until next time.",
+    "translation": "祝你新学期好运，再见了",
+    "stage": 1
+  },
+  {
+    "key": "\\C[31]Marie\\C[0]: \\C[3]+10\\C[0] <br>",
+    "original": "\\C[31]Marie\\C[0]: \\C[3]+10\\C[0] <br>",
+    "translation": "\\C[31]玛丽\\C[0]: \\C[3]+10\\C[0]<br>",
+    "stage": 1
+  },
+  {
+    "key": "\\C[31]Marie\\C[0]: \\v[101]",
+    "original": "\\C[31]Marie\\C[0]: \\v[101]",
+    "translation": "\\C[31]玛丽\\C[0]: \\v[101]",
+    "stage": 1
+  },
+  {
+    "key": "Man, this is so embarrassing.",
+    "original": "Man, this is so embarrassing.",
+    "translation": "老天，真够尴尬的",
+    "stage": 1
+  },
+  {
+    "key": "Fortunately no one at the moment.",
+    "original": "Fortunately no one at the moment.",
+    "translation": "还好这会儿没什么人",
+    "stage": 1
+  },
+  {
+    "key": "It's \\C[2]Anna\\C[0] best friend, \\C[4]Lily\\C[0].",
+    "original": "It's \\C[2]Anna\\C[0] best friend, \\C[4]Lily\\C[0].",
+    "translation": "那是\\C[2]安娜\\C[0]最好的朋友\\C[4]莉莉\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Good morning, \\n[1]. ",
+    "original": "Good morning, \\n[1]. ",
+    "translation": "早上好\\n[1]",
+    "stage": 1
+  },
+  {
+    "key": "Good morning, \\C[4]Lily\\C[0].",
+    "original": "Good morning, \\C[4]Lily\\C[0].",
+    "translation": "早上好\\C[4]莉莉\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "They are going for a chat. What should I do now?",
+    "original": "They are going for a chat. What should I do now?",
+    "translation": "她们要开始聊天了，我该做什么？",
+    "stage": 1
+  },
+  {
+    "key": "Stay",
+    "original": "Stay",
+    "translation": "站着",
+    "stage": 1
+  },
+  {
+    "key": "Yawn",
+    "original": "Yawn",
+    "translation": "打哈欠",
+    "stage": 1
+  },
+  {
+    "key": "It's so early.",
+    "original": "It's so early.",
+    "translation": "真早啊",
+    "stage": 1
+  },
+  {
+    "key": "It's so empty here. I could barely see anyone.",
+    "original": "It's so empty here. I could barely see anyone.",
+    "translation": "这里连个人影都没有",
+    "stage": 1
+  },
+  {
+    "key": "They really are going deep into the conversation. I don't know how some people could talk so much.",
+    "original": "They really are going deep into the conversation. I don't know how some people could talk so much.",
+    "translation": "她们聊得可真起劲，比我一年说的话都多",
+    "stage": 1
+  },
+  {
+    "key": "Tease \\C[2]Anna\\C[0]",
+    "original": "Tease \\C[2]Anna\\C[0]",
+    "translation": "挑逗\\C[2]安娜\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "He-he. There is no one around here.",
+    "original": "He-he. There is no one around here.",
+    "translation": "嘿嘿，刚好周围没什么人",
+    "stage": 1
+  },
+  {
+    "key": "This is a payback for the time she slapped my dick while I was sleeping.",
+    "original": "This is a payback for the time she slapped my dick while I was sleeping.",
+    "translation": "是时候报她趁我睡觉扇我小鸡鸡的仇了",
+    "stage": 1
+  },
+  {
+    "key": "So round and fluffy... My favorite.",
+    "original": "So round and fluffy... My favorite.",
+    "translation": "真远真软啊……我爱死了",
+    "stage": 1
+  },
+  {
+    "key": "!!?",
+    "original": "!!?",
+    "translation": "！！？",
+    "stage": 1
+  },
+  {
+    "key": "Heeyyyy! ",
+    "original": "Heeyyyy! ",
+    "translation": "嘿！",
+    "stage": 1
+  },
+  {
+    "key": "What are you doing?",
+    "original": "What are you doing?",
+    "translation": "你在干嘛？",
+    "stage": 1
+  },
+  {
+    "key": "What's wrong, \\C[2]Anna\\C[0]?",
+    "original": "What's wrong, \\C[2]Anna\\C[0]?",
+    "translation": "怎么了\\C[2]安娜\\C[0]？",
+    "stage": 1
+  },
+  {
+    "key": "It's nothing. I just fixing her skirt. It's not in the right place.",
+    "original": "It's nothing. I just fixing her skirt. It's not in the right place.",
+    "translation": "没什么，我就帮她整理下裙子",
+    "stage": 1
+  },
+  {
+    "key": "End",
+    "original": "End",
+    "translation": "结束",
+    "stage": 1
+  },
+  {
+    "key": "I will get in first. See you guys later.",
+    "original": "I will get in first. See you guys later.",
+    "translation": "我要当最早进教室的人！下次再见！",
+    "stage": 1
+  },
+  {
+    "key": "See you after school.",
+    "original": "See you after school.",
+    "translation": "放学后再见！",
+    "stage": 1
+  },
+  {
+    "key": "\\C[2]Anna\\C[0]: \\C[3]+2\\C[0] <br>",
+    "original": "\\C[2]Anna\\C[0]: \\C[3]+2\\C[0] <br>",
+    "translation": "\\C[2]安娜\\C[0]: \\C[3]+2\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "\\C[2]Anna\\C[0]: \\v[23]",
+    "original": "\\C[2]Anna\\C[0]: \\v[23]",
+    "translation": "\\C[2]安娜\\C[0]: \\v[23]",
+    "stage": 1
+  },
+  {
+    "key": "It's locked.",
+    "original": "It's locked.",
+    "translation": "锁住了",
+    "stage": 1
+  },
+  {
+    "key": "\\C[25]Ms. Megan\\C[0] is still here!",
+    "original": "\\C[25]Ms. Megan\\C[0] is still here!",
+    "translation": "\\C[25]梅根(小姐)\\C[0]还在这儿呢！",
+    "stage": 1
+  },
+  {
+    "key": "\\C[27]Mabel\\C[0] probably would sneak into the school tonight.",
+    "original": "\\C[27]Mabel\\C[0] probably would sneak into the school tonight.",
+    "translation": "\\C[27]梅布尔\\C[0]今晚可能会溜进学校",
+    "stage": 1
+  },
+  {
+    "key": "Adjust the Ladder ",
+    "original": "Adjust the Ladder ",
+    "translation": "动一动梯子",
+    "stage": 1
+  },
+  {
+    "key": "Use the Ladder",
+    "original": "Use the Ladder",
+    "translation": "爬梯子",
+    "stage": 1
+  },
+  {
+    "key": "Back",
+    "original": "Back",
+    "translation": "返回",
+    "stage": 1
+  },
+  {
+    "key": "Hehehe.",
+    "original": "Hehehe.",
+    "translation": "嘿嘿嘿",
+    "stage": 1
+  },
+  {
+    "key": "I already did it. ",
+    "original": "I already did it. ",
+    "translation": "我已经这么做了",
+    "stage": 1
+  },
+  {
+    "key": "Huh? There's something stuck on the fence!",
+    "original": "Huh? There's something stuck on the fence!",
+    "translation": "哈？有东西卡在栅栏上了！",
+    "stage": 1
+  },
+  {
+    "key": "Come Closer",
+    "original": "Come Closer",
+    "translation": "靠近",
+    "stage": 1
+  },
+  {
+    "key": "Stupid fence! Why am I so unlucky!",
+    "original": "Stupid fence! Why am I so unlucky!",
+    "translation": "该死的栅栏！我怎么这么倒霉！",
+    "stage": 1
+  },
+  {
+    "key": "It speared through my pants and I can't get down!",
+    "original": "It speared through my pants and I can't get down!",
+    "translation": "栅栏把我裤子卡得死死的，我根本下不来！",
+    "stage": 1
+  },
+  {
+    "key": "(There's someone down there. Maybe I can ask him for help.)",
+    "original": "(There's someone down there. Maybe I can ask him for help.)",
+    "translation": "(那边有人，我应该能找他帮忙)",
+    "stage": 1
+  },
+  {
+    "key": "(Wait! Isn't he my classmate?)",
+    "original": "(Wait! Isn't he my classmate?)",
+    "translation": "(等等！他不是我班上的同学吗？)",
+    "stage": 1
+  },
+  {
+    "key": "(What is his name again? ...If I remember correctly it was probably \\n[1].)",
+    "original": "(What is his name again? ...If I remember correctly it was probably \\n[1].)",
+    "translation": "(他叫什么来着……没记错的话应该叫\\n[1])",
+    "stage": 1
+  },
+  {
+    "key": "(This is bad! I don't want him to see me like this and tell everyone in the class.)",
+    "original": "(This is bad! I don't want him to see me like this and tell everyone in the class.)",
+    "translation": "(糟透了！我可不希望他看到我这副样子)",
+    "stage": 1
+  },
+  {
+    "key": "Huh? ...You really look like someone I've met.",
+    "original": "Huh? ...You really look like someone I've met.",
+    "translation": "哈？……我好像在哪见过你",
+    "stage": 1
+  },
+  {
+    "key": "Have we ever met?",
+    "original": "Have we ever met?",
+    "translation": "我认识你吗？",
+    "stage": 1
+  },
+  {
+    "key": "(That's right! It's too dark now. I can keep my distance and change my voice so he can't recognize me.)",
+    "original": "(That's right! It's too dark now. I can keep my distance and change my voice so he can't recognize me.)",
+    "translation": "(对哦！现在太晚了，只要他别靠太近应该认不出我是谁)",
+    "stage": 1
+  },
+  {
+    "key": "I'm this school student anyway. Perhaps you've seen me a few times.",
+    "original": "I'm this school student anyway. Perhaps you've seen me a few times.",
+    "translation": "咱们是一个学校的，大概见过几次吧",
+    "stage": 1
+  },
+  {
+    "key": "Don't you mind give me a helping hand?",
+    "original": "Don't you mind give me a helping hand?",
+    "translation": "你能不能搭把手？",
+    "stage": 1
+  },
+  {
+    "key": "I've been hanging up here for quite a while. So now I feel really uncomfortable and dizzy.",
+    "original": "I've been hanging up here for quite a while. So now I feel really uncomfortable and dizzy.",
+    "translation": "我已经卡在这儿一会儿了，现在头晕乎乎的",
+    "stage": 1
+  },
+  {
+    "key": "I got lost in my thoughts and I forgot you were hanging on it.",
+    "original": "I got lost in my thoughts and I forgot you were hanging on it.",
+    "translation": "看我，都忘了你还挂着呢",
+    "stage": 1
+  },
+  {
+    "key": "Let me help you down.",
+    "original": "Let me help you down.",
+    "translation": "我来帮你下来",
+    "stage": 1
+  },
+  {
+    "key": "(Well, well, well. What do we have here?)",
+    "original": "(Well, well, well. What do we have here?)",
+    "translation": "(好好好，看看现在是什么情况)",
+    "stage": 1
+  },
+  {
+    "key": "(I still remember the last time she did to me.)",
+    "original": "(I still remember the last time she did to me.)",
+    "translation": "(她上次怎么对我的我可记得清清楚楚)",
+    "stage": 1
+  },
+  {
+    "key": "(It's time to take revenge.)",
+    "original": "(It's time to take revenge.)",
+    "translation": "(这次轮到我收拾你了)",
+    "stage": 1
+  },
+  {
+    "key": "(What should I do with this unlucky person!)",
+    "original": "(What should I do with this unlucky person!)",
+    "translation": "(我该怎么收拾她呢！)",
+    "stage": 1
+  },
+  {
+    "key": "\\C[27]Mabel\\C[0] <br>",
+    "original": "\\C[27]Mabel\\C[0] <br>",
+    "translation": "\\C[27]梅布尔\\C[0]<br>",
+    "stage": 1
+  },
+  {
+    "key": "Again! Are you kidding me?",
+    "original": "Again! Are you kidding me?",
+    "translation": "又来！你在逗我吗？",
+    "stage": 1
+  },
+  {
+    "key": "It's him again!",
+    "original": "It's him again!",
+    "translation": "又是他！",
+    "stage": 1
+  },
+  {
+    "key": "(I can ask him to save me ... Damn! Almost forgot the last time.)",
+    "original": "(I can ask him to save me ... Damn! Almost forgot the last time.)",
+    "translation": "(我该叫他帮忙吗！上次都那样了)",
+    "stage": 1
+  },
+  {
+    "key": "(Really sure, this time he won't help me again after all I've done to him.)",
+    "original": "(Really sure, this time he won't help me again after all I've done to him.)",
+    "translation": "(我敢肯定他这次也不会好心帮我的)",
+    "stage": 1
+  },
+  {
+    "key": "Hi! Sorry about last time!",
+    "original": "Hi! Sorry about last time!",
+    "translation": "嗨！抱歉上次那么对你",
+    "stage": 1
+  },
+  {
+    "key": "Can you forgive me and help me down, please?",
+    "original": "Can you forgive me and help me down, please?",
+    "translation": "你能不能大人不记小人过，帮我下来呢？",
+    "stage": 1
+  },
+  {
+    "key": "(Her pleading face looks so adorable!)",
+    "original": "(Her pleading face looks so adorable!)",
+    "translation": "(她求起饶来真可爱啊)",
+    "stage": 1
+  },
+  {
+    "key": "(If I have never seen about those things in \\C[14]Ms. Emmi\\C[0]'s office.)",
+    "original": "(If I have never seen about those things in \\C[14]Ms. Emmi\\C[0]'s office.)",
+    "translation": "(要不是我亲眼见到她在\\C[14]埃米(小姐)C[0]办公室抄答案)",
+    "stage": 1
+  },
+  {
+    "key": "(I will ignore the last time and help her without any hesitate.)",
+    "original": "(I will ignore the last time and help her without any hesitate.)",
+    "translation": "(我肯定脑子都不过就上去帮她了)",
+    "stage": 1
+  },
+  {
+    "key": "(But...)",
+    "original": "(But...)",
+    "translation": "(不过嘛……)",
+    "stage": 1
+  },
+  {
+    "key": "(I've already seen your final form, \\C[27]Mabel\\C[0])",
+    "original": "(I've already seen your final form, \\C[27]Mabel\\C[0])",
+    "translation": "(你到底是什么样子我已经一清二楚了，\\C[27]梅布尔\\C[0])",
+    "stage": 1
+  },
+  {
+    "key": "It's okay! I'll help you down right now!",
+    "original": "It's okay! I'll help you down right now!",
+    "translation": "没什么！我现在就来帮你！",
+    "stage": 1
+  },
+  {
+    "key": "(Such an idiot! It can only be as simple as this!)",
+    "original": "(Such an idiot! It can only be as simple as this!)",
+    "translation": "(真是个笨蛋！原来这么简单！)",
+    "stage": 1
+  },
+  {
+    "key": "Slap",
+    "original": "Slap",
+    "translation": "拍屁股",
+    "stage": 1
+  },
+  {
+    "key": "Help",
+    "original": "Help",
+    "translation": "帮忙",
+    "stage": 1
+  },
+  {
+    "key": "W-What are you doing!?",
+    "original": "W-What are you doing!?",
+    "translation": "你-你在干什么！？",
+    "stage": 1
+  },
+  {
+    "key": "You're piece of shit! What the fuck are you doing?",
+    "original": "You're piece of shit! What the fuck are you doing?",
+    "translation": "你这坨大便！你tm在干嘛？",
+    "stage": 1
+  },
+  {
+    "key": "That's it! I'm calling the police! You are done for!",
+    "original": "That's it! I'm calling the police! You are done for!",
+    "translation": "够了！我要叫警察了！你自找的！",
+    "stage": 1
+  },
+  {
+    "key": "I'm sorry! Please stop!",
+    "original": "I'm sorry! Please stop!",
+    "translation": "对不起！求你别打了！",
+    "stage": 1
+  },
+  {
+    "key": "Huh?",
+    "original": "Huh?",
+    "translation": "哈？",
+    "stage": 1
+  },
+  {
+    "key": "Man! This is so fun!",
+    "original": "Man! This is so fun!",
+    "translation": "老天！这可真有趣！",
+    "stage": 1
+  },
+  {
+    "key": "Are you okay?",
+    "original": "Are you okay?",
+    "translation": "你没事吧？",
+    "stage": 1
+  },
+  {
+    "key": "(Crap! I overdo it! Hope she's okay.)",
+    "original": "(Crap! I overdo it! Hope she's okay.)",
+    "translation": "(我去！做过火了！希望她没事)",
+    "stage": 1
+  },
+  {
+    "key": "You're gonna pay for this!",
+    "original": "You're gonna pay for this!",
+    "translation": "你会付出代价的！",
+    "stage": 1
+  },
+  {
+    "key": "\\C[27]Mabel\\C[0]: \\C[3]+3\\C[0] <br>",
+    "original": "\\C[27]Mabel\\C[0]: \\C[3]+3\\C[0] <br>",
+    "translation": "\\C[27]梅布尔\\C[0]: \\C[3]+3\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "\\C[27]Mabel\\C[0]: \\v[103]",
+    "original": "\\C[27]Mabel\\C[0]: \\v[103]",
+    "translation": "\\C[27]梅布尔\\C[0]: \\v[103]",
+    "stage": 1
+  },
+  {
+    "key": "Hmm... What is this sticky liquid?...",
+    "original": "Hmm... What is this sticky liquid?...",
+    "translation": "嗯……这黏黏滑滑的是什么？……",
+    "stage": 1
+  },
+  {
+    "key": "\\C[27]Mabel\\C[0]: \\C[3]+2\\C[0] <br>",
+    "original": "\\C[27]Mabel\\C[0]: \\C[3]+2\\C[0] <br>",
+    "translation": "\\C[27]梅布尔\\C[0]: \\C[3]+2\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "Hey! At Least Say, \"Thank You!\" before leaving!",
+    "original": "Hey! At Least Say, \"Thank You!\" before leaving!",
+    "translation": "嘿！至少你该说一句谢谢吧！",
+    "stage": 1
+  },
+  {
+    "key": "Meh! I guess it just a piece of clothes.",
+    "original": "Meh! I guess it just a piece of clothes.",
+    "translation": "我猜就是片衣服吧！",
+    "stage": 1
+  },
+  {
+    "key": "I'm too tired. Better go home and take a good sleep.",
+    "original": "I'm too tired. Better go home and take a good sleep.",
+    "translation": "好累啊，该回家睡觉了",
+    "stage": 1
+  },
+  {
+    "key": "Couple <br>",
+    "original": "Couple <br>",
+    "translation": "情侣<br>",
+    "stage": 1
+  },
+  {
+    "key": "*Shoo* *Shoo*",
+    "original": "*Shoo* *Shoo*",
+    "translation": "去！去！",
+    "stage": 1
+  },
+  {
+    "key": "Can't you see we are working, kid?",
+    "original": "Can't you see we are working, kid?",
+    "translation": "没看到我们在忙吗，小屁孩？",
+    "stage": 1
+  },
+  {
+    "key": "Thanks for your helping!",
+    "original": "Thanks for your helping!",
+    "translation": "谢谢你帮忙！",
+    "stage": 1
+  },
+  {
+    "key": "I'm glad to help you!",
+    "original": "I'm glad to help you!",
+    "translation": "这算不了什么！",
+    "stage": 1
+  },
+  {
+    "key": "Anyway, why are you hanging up there?",
+    "original": "Anyway, why are you hanging up there?",
+    "translation": "对了，你在这儿干嘛呢？",
+    "stage": 1
+  },
+  {
+    "key": "Uhm... I saw a cute cat in school... and I wanted to go in there and pet it...",
+    "original": "Uhm... I saw a cute cat in school... and I wanted to go in there and pet it...",
+    "translation": "呃……我看到学校里有只可爱小猫猫……我想进去摸摸它……",
+    "stage": 1
+  },
+  {
+    "key": "(I made a loud noise as I fell. \\C[25]Ms. Megan\\C[0] will appear any moment, I must get out of here.)",
+    "original": "(I made a loud noise as I fell. \\C[25]Ms. Megan\\C[0] will appear any moment, I must get out of here.)",
+    "translation": "(我掉下来是弄出了好大动静，\\C[25]梅根(小姐)\\C[0]随时都可能出现，我得赶快溜)",
+    "stage": 1
+  },
+  {
+    "key": "Hey! Are you even listening?",
+    "original": "Hey! Are you even listening?",
+    "translation": "嘿！你在听吗？",
+    "stage": 1
+  },
+  {
+    "key": "I'm \\n[1]. What is your name? Why are you so far away from me?",
+    "original": "I'm \\n[1]. What is your name? Why are you so far away from me?",
+    "translation": "我是\\n[1]，你叫什么？你离我那么远干嘛？",
+    "stage": 1
+  },
+  {
+    "key": "(This guy is so annoying! No time wasting, I have to get out of here!)",
+    "original": "(This guy is so annoying! No time wasting, I have to get out of here!)",
+    "translation": "(这家伙真烦！没时间浪费了，准备开溜！)",
+    "stage": 1
+  },
+  {
+    "key": "(It's \\C[25]Ms. Megan\\C[0]!!!)",
+    "original": "(It's \\C[25]Ms. Megan\\C[0]!!!)",
+    "translation": "(是\\C[25]梅根(小姐)\\C[0]!!!)",
+    "stage": 1
+  },
+  {
+    "key": "(I'm too slow! I can't out run her!)",
+    "original": "(I'm too slow! I can't out run her!)",
+    "translation": "(不好！我被落在后面了！)",
+    "stage": 1
+  },
+  {
+    "key": "(Exactly! I can use this idiot to buy some time for me.)",
+    "original": "(Exactly! I can use this idiot to buy some time for me.)",
+    "translation": "(真不错！这笨蛋能给我争取时间)",
+    "stage": 1
+  },
+  {
+    "key": "Hey! What are you looking at? Run!",
+    "original": "Hey! What are you looking at? Run!",
+    "translation": "嘿！你看什么？快跑！",
+    "stage": 1
+  },
+  {
+    "key": "Ouch! It hurts!",
+    "original": "Ouch! It hurts!",
+    "translation": "嗷！好疼！",
+    "stage": 1
+  },
+  {
+    "key": "My face feels like burning and flatten. ",
+    "original": "My face feels like burning and flatten. ",
+    "translation": "我脸上火烧火燎的",
+    "stage": 1
+  },
+  {
+    "key": "What is wrong with her? Why would she do this?",
+    "original": "What is wrong with her? Why would she do this?",
+    "translation": "她搞什么？为什么这样做？",
+    "stage": 1
+  },
+  {
+    "key": "Hey!",
+    "original": "Hey!",
+    "translation": "嘿！",
+    "stage": 1
+  },
+  {
+    "key": "Did you try to break into the school and steal something?",
+    "original": "Did you try to break into the school and steal something?",
+    "translation": "你是想闯进学校偷东西吗？",
+    "stage": 1
+  },
+  {
+    "key": "Wait! What!? Why would I do that?",
+    "original": "Wait! What!? Why would I do that?",
+    "translation": "啥？！为什么我要这么做？",
+    "stage": 1
+  },
+  {
+    "key": "So, can you explain these noises just now?",
+    "original": "So, can you explain these noises just now?",
+    "translation": "那你说说刚才是什么动静？",
+    "stage": 1
+  },
+  {
+    "key": "That's the sound when I fell to the ground...",
+    "original": "That's the sound when I fell to the ground...",
+    "translation": "那是我摔了一跤弄出的声音……",
+    "stage": 1
+  },
+  {
+    "key": "You got busted and run. You were so clumsy that you fell on the ground.",
+    "original": "You got busted and run. You were so clumsy that you fell on the ground.",
+    "translation": "你被我发现了就跑，然后不小心摔了一跤",
+    "stage": 1
+  },
+  {
+    "key": "Then, can you explain the previous sound? Like the metal noise, when someone like you tries to climb on those metal fences.",
+    "original": "Then, can you explain the previous sound? Like the metal noise, when someone like you tries to climb on those metal fences.",
+    "translation": "就算你说的是真的，那之前还有一声动静怎么解释？像是你在翻栅栏时弄出的动静",
+    "stage": 1
+  },
+  {
+    "key": "There was a girl trapped on that fence. I just helped her get down.",
+    "original": "There was a girl trapped on that fence. I just helped her get down.",
+    "translation": "有个女孩卡在栏杆上了，我想帮她下来",
+    "stage": 1
+  },
+  {
+    "key": "Are you out of your damn mind?",
+    "original": "Are you out of your damn mind?",
+    "translation": "你觉得我会信这些？",
+    "stage": 1
+  },
+  {
+    "key": "Now you're tellin' me your imagination nonexistent story?",
+    "original": "Now you're tellin' me your imagination nonexistent story?",
+    "translation": "你胡编一段故事就想骗我？",
+    "stage": 1
+  },
+  {
+    "key": "Follow me! I need you to write something.",
+    "original": "Follow me! I need you to write something.",
+    "translation": "跟我来！我要你写点东西",
+    "stage": 1
+  },
+  {
+    "key": "This place is bright enough. I need you to write something on here...",
+    "original": "This place is bright enough. I need you to write something on here...",
+    "translation": "这里挺亮堂的，来这里签个字……",
+    "stage": 1
+  },
+  {
+    "key": "Wait! Ain't you the new transfer student?",
+    "original": "Wait! Ain't you the new transfer student?",
+    "translation": "等等！你是那个新来的学生啊？",
+    "stage": 1
+  },
+  {
+    "key": "It's me. I'm moving in here not so long ago.",
+    "original": "It's me. I'm moving in here not so long ago.",
+    "translation": "对，我不久前才搬过来",
+    "stage": 1
+  },
+  {
+    "key": "I just wanted to go for a walk and fell into this bad situation.",
+    "original": "I just wanted to go for a walk and fell into this bad situation.",
+    "translation": "我就出来散散步，结果搅进麻烦事里了",
+    "stage": 1
+  },
+  {
+    "key": "It makes sense now. Sorry for yelling at you earlier.",
+    "original": "It makes sense now. Sorry for yelling at you earlier.",
+    "translation": "现在我信你说的了，抱歉之前对你大吼大叫",
+    "stage": 1
+  },
+  {
+    "key": "It's okay! You're just doing your job.",
+    "original": "It's okay! You're just doing your job.",
+    "translation": "没事！你只是在做你的工作罢了",
+    "stage": 1
+  },
+  {
+    "key": "You can go now! But don't get excited too soon! You are still on my list.",
+    "original": "You can go now! But don't get excited too soon! You are still on my list.",
+    "translation": "你走吧！但别高兴得太早，我还盯着你呢！",
+    "stage": 1
+  },
+  {
+    "key": "If I catch you making another suspicious noise again. You're in big trouble! Understand?",
+    "original": "If I catch you making another suspicious noise again. You're in big trouble! Understand?",
+    "translation": "如果下次再搞出这种怪动静，我可不会轻易放过你了！懂吗？",
+    "stage": 1
+  },
+  {
+    "key": "I understand. Thanks, \\C[25]Ms. Megan\\C[0]!",
+    "original": "I understand. Thanks, \\C[25]Ms. Megan\\C[0]!",
+    "translation": "懂了，谢谢你，\\C[25]梅根(小姐)\\C[0]!",
+    "stage": 1
+  },
+  {
+    "key": "*sigh*",
+    "original": "*sigh*",
+    "translation": "*叹气*",
+    "stage": 1
+  },
+  {
+    "key": "What is this unlucky day? Better check the calendar before step out of the house next time.",
+    "original": "What is this unlucky day? Better check the calendar before step out of the house next time.",
+    "translation": "今天真够倒霉的，下次出门前记得要看看黄历了",
+    "stage": 1
+  },
+  {
+    "key": "Is he the one that \\C[22]Theo\\C[0]'s talking about?",
+    "original": "Is he the one that \\C[22]Theo\\C[0]'s talking about?",
+    "translation": "他就是\\C[22]希奥\\C[0]说的那家伙吗？",
+    "stage": 1
+  },
+  {
+    "key": "I'm just a little zombie chasing a dummy man.",
+    "original": "I'm just a little zombie chasing a dummy man.",
+    "translation": "我是小小僵尸，追着笨笨人儿",
+    "stage": 1
+  },
+  {
+    "key": "What... the fuck?",
+    "original": "What... the fuck?",
+    "translation": "什么……东西？",
+    "stage": 1
+  },
+  {
+    "key": "I'm faded...",
+    "original": "I'm faded...",
+    "translation": "没什么……",
+    "stage": 1
+  },
+  {
+    "key": "What the hell? Are you on drugs or something!?",
+    "original": "What the hell? Are you on drugs or something!?",
+    "translation": "什么啊？你是磕嗨了吗？",
+    "stage": 1
+  },
+  {
+    "key": "Damn, this is so embarrassing. Is he the dealer?",
+    "original": "Damn, this is so embarrassing. Is he the dealer?",
+    "translation": "我去，真够尴尬的，我是认错人了吗？",
+    "stage": 1
+  },
+  {
+    "key": "What is the last one? Kimchi war?",
+    "original": "What is the last one? Kimchi war?",
+    "translation": "还有句什么来着？",
+    "stage": 1
+  },
+  {
+    "key": "Kimochi waruiii...?",
+    "original": "Kimochi waruiii...?",
+    "translation": "奇摸鸡……？",
+    "stage": 1
+  },
+  {
+    "key": "Aeyyyyyyy.",
+    "original": "Aeyyyyyyy.",
+    "translation": "诶呀",
+    "stage": 1
+  },
+  {
+    "key": "\\c[16]Tuuku\\c[0] <br>",
+    "original": "\\c[16]Tuuku\\c[0] <br>",
+    "translation": "\\C[16]图库\\C[0]<br>",
+    "stage": 1
+  },
+  {
+    "key": "Nice to meet you, bro! My name is \\c[16]Tuuku\\c[0].",
+    "original": "Nice to meet you, bro! My name is \\c[16]Tuuku\\c[0].",
+    "translation": "哥们你好！我叫\\C[16]图库\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Phew, it's him.",
+    "original": "Phew, it's him.",
+    "translation": "呼，没认错人",
+    "stage": 1
+  },
+  {
+    "key": "Here is your stuff.",
+    "original": "Here is your stuff.",
+    "translation": "这是给你的货",
+    "stage": 1
+  },
+  {
+    "key": "\\c[14]Massage Oil\\c[0]\\i[214] and \\c[14]Massage Book\\c[0]\\i[230] \\c[1]Acquired\\c[0]",
+    "original": "\\c[14]Massage Oil\\c[0]\\i[214] and \\c[14]Massage Book\\c[0]\\i[230] \\c[1]Acquired\\c[0]",
+    "translation": "\\c[1]获得了\\c[0]\\c[14]按摩油\\c[0]\\i[214]和\\c[14]按摩书\\c[0]\\i[230]",
+    "stage": 1
+  },
+  {
+    "key": "Thanks, man! Come back anytime.",
+    "original": "Thanks, man! Come back anytime.",
+    "translation": "谢了老兄，随时再来啊",
+    "stage": 1
+  },
+  {
+    "key": "Thanks!",
+    "original": "Thanks!",
+    "translation": "谢了！",
+    "stage": 1
+  },
+  {
+    "key": "Phew, I got it. Why is this stuff so hard to get?",
+    "original": "Phew, I got it. Why is this stuff so hard to get?",
+    "translation": "呼，可算拿到手了，怎么这么麻烦？",
+    "stage": 1
+  },
+  {
+    "key": "Doesn’t matter. Next opportunity, I’ll give Auntie a massage.",
+    "original": "Doesn’t matter. Next opportunity, I’ll give Auntie a massage.",
+    "translation": "管它呢，总算能给阿姨按摩了",
+    "stage": 1
+  },
+  {
+    "key": "I need \\c[14]3000\\c[0]\\i[172]!",
+    "original": "I need \\c[14]3000\\c[0]\\i[172]!",
+    "translation": "我得要\\C[14]3000\\C[0]\\i[172]才行！",
+    "stage": 1
+  },
+  {
+    "key": "Hey! Do you need anything?",
+    "original": "Hey! Do you need anything?",
+    "translation": "嘿！你有什么要的东西吗？",
+    "stage": 1
+  }
+]

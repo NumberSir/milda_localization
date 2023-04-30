@@ -2,6 +2,9 @@ import json
 import os
 import shutil
 import re
+import zipfile
+
+import httpx
 
 from consts import *
 from models import *
@@ -19,6 +22,7 @@ class Translation:
         os.makedirs(DIR_PROCESS, exist_ok=True)
         os.makedirs(DIR_MACHINE, exist_ok=True)
         os.makedirs(DIR_PARATRANZ, exist_ok=True)
+        os.makedirs(DIR_DOWNLOAD, exist_ok=True)
         os.makedirs(DIR_LOCALIZATIONS_FILES, exist_ok=True)
         shutil.copytree(DIR_BACKUP, DIR_RESULTS)
 
@@ -266,7 +270,7 @@ class Translation:
     def post_process_all(cls):
         logger.info("##### STARTING POST PROCESSING ALL FILES...")
         cls.post_process_translated()
-        cls.post_process_paratranz()
+        # cls.post_process_paratranz()
         # cls.post_process_machine()
         logger.info("===== ALL FILES POST PROCESSED DONE.")
 
@@ -288,23 +292,76 @@ class Translation:
                 fp.write("\n".join(list(data.keys())))
         logger.info("\t- TRANSFER TO TXT POST PROCESSED DONE.")
 
-    @staticmethod
-    def post_process_paratranz():
-        """把已有的翻译丢进 paratranz 里"""
+    # @staticmethod
+    # def post_process_paratranz():
+    #     """把已有的翻译丢进 paratranz 里"""
+    #     for file in os.listdir(DIR_LOCALIZATIONS_FILES):
+    #         with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
+    #             data_localization: dict = json.load(fp)
+    #
+    #         with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
+    #             data_raw_paratranz: list[dict[str, str]] = json.load(fp)
+    #
+    #         for idx, raw in enumerate(data_raw_paratranz):
+    #             data_raw_paratranz[idx]["translation"] = data_localization[raw["original"]]
+    #
+    #         with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
+    #             json.dump(data_raw_paratranz, fp, ensure_ascii=False)
+    #
+    #     logger.info("\t- TRANSFER TO PARATRANZ FORMAT POST PROCESSED DONE.")
+
+    """ DOWNLOAD """
+    @classmethod
+    def download_from_paratranz(cls):
+        logger.info("##### STARTING DOWNLOADING ALL FILES...")
+        cls.trigger_export()
+        cls.download_export()
+        cls.unzip_export()
+        cls.move_export()
+        cls.reconf_export()
+        logger.info("===== ALL FILES DOWNLOADED DONE")
+
+    @classmethod
+    def trigger_export(cls):
+        url = f"{PARATRANZ_BASE_URL}/projects/{PARATRANZ_PROJECT_ID}/artifacts"
+        httpx.post(url, headers=PARATRANZ_HEADERS)
+        logger.info("\t- EXPORT TRIGGERED DONE")
+
+    @classmethod
+    def download_export(cls):
+        url = f"{PARATRANZ_BASE_URL}/projects/{PARATRANZ_PROJECT_ID}/artifacts/download"
+        content = httpx.get(url, headers=PARATRANZ_HEADERS, follow_redirects=True).content
+        with open(DIR_DOWNLOAD / "download.zip", "wb") as fp:
+            fp.write(content)
+        logger.info("\t- EXPORT DOWNLOADED DONE")
+
+    @classmethod
+    def unzip_export(cls):
+        with zipfile.ZipFile(DIR_DOWNLOAD / "download.zip") as zfp:
+            zfp.extractall(DIR_DOWNLOAD)
+        logger.info("\t- EXPORT UNZIPED DONE")
+
+    @classmethod
+    def move_export(cls):
+        for file in os.listdir(DIR_DOWNLOAD / "utf8" / VERSION):
+            shutil.move(DIR_DOWNLOAD / "utf8" / VERSION / file, DIR_LOCALIZATIONS_FILES / file)
+        logger.info("\t- EXPORT MOVED DONE")
+
+    @classmethod
+    def reconf_export(cls):
         for file in os.listdir(DIR_LOCALIZATIONS_FILES):
             with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
-                data_localization: dict = json.load(fp)
+                data_raw: list[dict] = json.load(fp)
 
-            with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
-                data_raw_paratranz: list[dict[str, str]] = json.load(fp)
+            data = {
+                _["key"]: _["translation"]
+                for _ in data_raw
+            }
 
-            for idx, raw in enumerate(data_raw_paratranz):
-                data_raw_paratranz[idx]["translation"] = data_localization[raw["original"]]
+            with open(DIR_LOCALIZATIONS_FILES / file, "w", encoding="utf-8") as fp:
+                json.dump(data, fp, ensure_ascii=False)
+        logger.info("\t- EXPORT RECONFED DONE")
 
-            with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
-                json.dump(data_raw_paratranz, fp, ensure_ascii=False)
-
-        logger.info("\t- TRANSFER TO PARATRANZ FORMAT POST PROCESSED DONE.")
 
     """ APPLY """
     @classmethod
@@ -504,9 +561,10 @@ def main():
     tr.fetch_all()          # 获取原文
     tr.pre_process_all()    # 预处理(合并重复句子、替换专有名词)
     tr.post_process_all()   # 后处理(删除已翻译的)
-    # tr.apply_all()          # 应用翻译
-    # tr.count_length()       # 统计内容长度
-    # tr.cover_all()          # 覆盖源文件
+    tr.download_from_paratranz()    # 从 Paratranz 下载
+    tr.apply_all()          # 应用翻译
+    tr.count_length()       # 统计内容长度
+    tr.cover_all()          # 覆盖源文件
 
 
 if __name__ == '__main__':

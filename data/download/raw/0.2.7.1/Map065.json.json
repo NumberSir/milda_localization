@@ -1,0 +1,782 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is this the way to \\C[3]Elphaba\\C[0]'s house?",
+    "original": "Is this the way to \\C[3]Elphaba\\C[0]'s house?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "??? <br>",
+    "original": "??? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\n[1]...",
+    "original": "\\n[1]...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\n[1]!",
+    "original": "\\n[1]!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Who is there!?",
+    "original": "Who is there!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Listen! ",
+    "original": "Listen! ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "We don't have much time.",
+    "original": "We don't have much time.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I am the servant of Master \\C[3]Elphaba\\C[0]. <br>",
+    "original": "I am the servant of Master \\C[3]Elphaba\\C[0]. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You are currently in the realm of an Evil Spirit!",
+    "original": "You are currently in the realm of an Evil Spirit!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I tried to communicate with you but somehow got disturbed by the evil energy.",
+    "original": "I tried to communicate with you but somehow got disturbed by the evil energy.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There's no way to escape from here by yourself nor I can do anything with it.",
+    "original": "There's no way to escape from here by yourself nor I can do anything with it.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The creature is utterly chaotic. <br>",
+    "original": "The creature is utterly chaotic. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "They exist to destroy and kill.",
+    "original": "They exist to destroy and kill.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Their favorite is consuming living things' fear.",
+    "original": "Their favorite is consuming living things' fear.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What!? <br>",
+    "original": "What!? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Am I gonna die!!?",
+    "original": "Am I gonna die!!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The worst case is yes.",
+    "original": "The worst case is yes.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Please save me!!!",
+    "original": "Please save me!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Don't let fear settle in your heart.",
+    "original": "Don't let fear settle in your heart.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Take this stone. <br>",
+    "original": "Take this stone. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It can be used as an Explosion Spell.",
+    "original": "It can be used as an Explosion Spell.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Will it kill the monster?",
+    "original": "Will it kill the monster?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm afraid it won't. <br>",
+    "original": "I'm afraid it won't. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Only use it at the critical moment.",
+    "original": "Only use it at the critical moment.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I have used all my energy to communicate and transfer the spell stone to you.",
+    "original": "I have used all my energy to communicate and transfer the spell stone to you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can sense its stinky rotten energy.",
+    "original": "I can sense its stinky rotten energy.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It won't kill you immediately. <br>",
+    "original": "It won't kill you immediately. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Those things like making fun of its victim while enjoying their fear.",
+    "original": "Those things like making fun of its victim while enjoying their fear.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I will look for Master \\C[3]Elphaba\\C[0]. <br>",
+    "original": "I will look for Master \\C[3]Elphaba\\C[0]. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Try to buy some time.",
+    "original": "Try to buy some time.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hey!",
+    "original": "Hey!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hey!!!",
+    "original": "Hey!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "She's gone!",
+    "original": "She's gone!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Dammit!",
+    "original": "Dammit!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why am I getting into this!?",
+    "original": "Why am I getting into this!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm too careless! <br>",
+    "original": "I'm too careless! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Magic energy has come to this land.",
+    "original": "Magic energy has come to this land.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Weird shit could easily happen.",
+    "original": "Weird shit could easily happen.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Worrying is useless.",
+    "original": "Worrying is useless.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I should stay calm. <br>",
+    "original": "I should stay calm. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[3]Elphaba\\C[0] will be here soon...",
+    "original": "\\C[3]Elphaba\\C[0] will be here soon...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*Phew*",
+    "original": "*Phew*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I've finally found someone around here!",
+    "original": "I've finally found someone around here!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Do you know how to get out of this fucking place?",
+    "original": "Do you know how to get out of this fucking place?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is he the monster!?",
+    "original": "Is he the monster!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can feel a weird feeling from him. <br>",
+    "original": "I can feel a weird feeling from him. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's probably it...",
+    "original": "It's probably it...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*Hah*",
+    "original": "*Hah*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm also stuck. <br>",
+    "original": "I'm also stuck. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Been walking for like hours and still in the same place.",
+    "original": "Been walking for like hours and still in the same place.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How about accompanying? <br>",
+    "original": "How about accompanying? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Two heads are better than one.",
+    "original": "Two heads are better than one.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "This place is too quiet. <br>",
+    "original": "This place is too quiet. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's giving me a weird shit...",
+    "original": "It's giving me a weird shit...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Ok, that sounds like a good plan.",
+    "original": "Ok, that sounds like a good plan.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "At least I'm safe for now. ",
+    "original": "At least I'm safe for now. ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Not sure what \"it\" is up to but I should be on high alert...",
+    "original": "Not sure what \"it\" is up to but I should be on high alert...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Damn... <br>",
+    "original": "Damn... <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can't see any emotions on its face...",
+    "original": "I can't see any emotions on its face...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "And its skin... <br>",
+    "original": "And its skin... <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "just like a walking corpse...",
+    "original": "just like a walking corpse...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's giving my back shivers even though it's wetting sweet right now...",
+    "original": "It's giving my back shivers even though it's wetting sweet right now...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "*Gulps*",
+    "original": "*Gulps*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What's wrong, dude? <br>",
+    "original": "What's wrong, dude? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Is there something on my face?",
+    "original": "Is there something on my face?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Nah, I just looked around. <br>",
+    "original": "Nah, I just looked around. <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Looking for something \"different\".",
+    "original": "Looking for something \"different\".",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It feels like a loop in here.",
+    "original": "It feels like a loop in here.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You're right! <br>",
+    "original": "You're right! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Keep looking! I hope we can get out of here soon.",
+    "original": "Keep looking! I hope we can get out of here soon.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Huh!?",
+    "original": "Huh!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I should keep moving!",
+    "original": "I should keep moving!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "How long have I been running?",
+    "original": "How long have I been running?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hah hah",
+    "original": "Hah hah",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm so tired that I can't feel my legs anymore...",
+    "original": "I'm so tired that I can't feel my legs anymore...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I should keep moving...",
+    "original": "I should keep moving...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why did you run?",
+    "original": "Why did you run?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I-I was just... looking for you...",
+    "original": "I-I was just... looking for you...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Why didn't you save me?",
+    "original": "Why didn't you save me?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I thought you were dead...",
+    "original": "I thought you were dead...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Dead... ",
+    "original": "Dead... ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "That's right...",
+    "original": "That's right...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I was already dead!!!",
+    "original": "I was already dead!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Maybe I can convince him.",
+    "original": "Maybe I can convince him.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Then you will go with me!",
+    "original": "Then you will go with me!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "DIE!!!",
+    "original": "DIE!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "AHHhh!",
+    "original": "AHHhh!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "A magic shield can save you once but it can't save you forever.",
+    "original": "A magic shield can save you once but it can't save you forever.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What just that!?",
+    "original": "What just that!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I could feel it from the Necklace that \\C[3]Elphaba\\C[0] gave me!",
+    "original": "I could feel it from the Necklace that \\C[3]Elphaba\\C[0] gave me!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's strange I don't feel any fear released from you from the beginning till now.",
+    "original": "It's strange I don't feel any fear released from you from the beginning till now.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'm bored.",
+    "original": "I'm bored.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I lost my interest in playing games with you.",
+    "original": "I lost my interest in playing games with you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Your meat and blood will be your most valuable.",
+    "original": "Your meat and blood will be your most valuable.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Mwahaha!!!",
+    "original": "Mwahaha!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Dammit! He knew it! <br>",
+    "original": "Dammit! He knew it! <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can't hold it anymore...",
+    "original": "I can't hold it anymore...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "There's only one last thing...",
+    "original": "There's only one last thing...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Before I will be consumed by you...",
+    "original": "Before I will be consumed by you...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Can you come closer? <br>",
+    "original": "Can you come closer? <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I want to take a closer look at you.",
+    "original": "I want to take a closer look at you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I will grant your last wish.",
+    "original": "I will grant your last wish.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Take a closer look at my being and your shaking soul will be...",
+    "original": "Take a closer look at my being and your shaking soul will be...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The most nutritious feast!",
+    "original": "The most nutritious feast!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Ahhh~ <br>",
+    "original": "Ahhh~ <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Much better.",
+    "original": "Much better.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hmm~",
+    "original": "Hmm~",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Delicious!",
+    "original": "Delicious!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I can feel so much fear releasing from you.",
+    "original": "I can feel so much fear releasing from you.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I should have shown my true self from the beginning.",
+    "original": "I should have shown my true self from the beginning.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Hah hah...",
+    "original": "Hah hah...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "As I expected...",
+    "original": "As I expected...",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You're the ugliest walking thing that ever existed!",
+    "original": "You're the ugliest walking thing that ever existed!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "EAT SHIT!!!",
+    "original": "EAT SHIT!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "GAHHHH!!!",
+    "original": "GAHHHH!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I'M BURNING!!!",
+    "original": "I'M BURNING!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What did you do!?",
+    "original": "What did you do!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "It's so HURT!!!",
+    "original": "It's so HURT!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "For making me suffer!",
+    "original": "For making me suffer!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "I will eat everything of you as slowly as I can!",
+    "original": "I will eat everything of you as slowly as I can!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You will be suffered from eternal pain still your... <br>",
+    "original": "You will be suffered from eternal pain still your... <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "LAST BREATH!!!",
+    "original": "LAST BREATH!!!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "You... know what.",
+    "original": "You... know what.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "The biggest mistake of villains is talking too much.",
+    "original": "The biggest mistake of villains is talking too much.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "Maybe, talk less next time and you could get my ass.",
+    "original": "Maybe, talk less next time and you could get my ass.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "What!?",
+    "original": "What!?",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "\\C[3]Elphaba\\C[0] <br>",
+    "original": "\\C[3]Elphaba\\C[0] <br>",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "He's right!",
+    "original": "He's right!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "GARRRHHHH!!!",
+    "original": "GARRRHHHH!!!",
+    "translation": "",
+    "stage": 0
+  }
+]

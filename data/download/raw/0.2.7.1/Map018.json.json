@@ -1,0 +1,98 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "我 <br>",
+    "stage": 1
+  },
+  {
+    "key": "I managed to get in here. Easy enough!",
+    "original": "I managed to get in here. Easy enough!",
+    "translation": "我进来了，小菜一碟！",
+    "stage": 1
+  },
+  {
+    "key": "Now let go to the 2nd floor. ",
+    "original": "Now let go to the 2nd floor. ",
+    "translation": "现在该去二楼了",
+    "stage": 1
+  },
+  {
+    "key": "The floor is made of wood. Hope it doesn't make any loud noise.",
+    "original": "The floor is made of wood. Hope it doesn't make any loud noise.",
+    "translation": "这里都是木地板，小心点别发出声音",
+    "stage": 1
+  },
+  {
+    "key": "\\C[4]Ms. Susan\\C[0] <br>",
+    "original": "\\C[4]Ms. Susan\\C[0] <br>",
+    "translation": "\\C[4]苏珊小姐\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "I'll go get the tools.",
+    "original": "I'll go get the tools.",
+    "translation": "我得去拿工具来",
+    "stage": 1
+  },
+  {
+    "key": "Luckily, all the necessary items are available. ",
+    "original": "Luckily, all the necessary items are available. ",
+    "translation": "还好，所有东西都齐了",
+    "stage": 1
+  },
+  {
+    "key": "Oops...",
+    "original": "Oops...",
+    "translation": "啊哦……",
+    "stage": 1
+  },
+  {
+    "key": "Are you okay?",
+    "original": "Are you okay?",
+    "translation": "你没事吧？",
+    "stage": 1
+  },
+  {
+    "key": "He-he, I'm fine. But don't tell anyone, okay?",
+    "original": "He-he, I'm fine. But don't tell anyone, okay?",
+    "translation": "嘿嘿，没事，但别给别人说，好吧？",
+    "stage": 1
+  },
+  {
+    "key": "*Phew*",
+    "original": "*Phew*",
+    "translation": "*呼*",
+    "stage": 1
+  },
+  {
+    "key": "Here.",
+    "original": "Here.",
+    "translation": "给。",
+    "stage": 1
+  },
+  {
+    "key": "Thank you very much, \\C[4]Ms. Susan\\C[0]. I think these are enough for what I need. ",
+    "original": "Thank you very much, \\C[4]Ms. Susan\\C[0]. I think these are enough for what I need. ",
+    "translation": "谢谢你，\\C[4]苏珊小姐\\C[0]。这些应该够了",
+    "stage": 1
+  },
+  {
+    "key": "In that case, if you need anything come and ask me. ",
+    "original": "In that case, if you need anything come and ask me. ",
+    "translation": "如果你还要什么，随时找我",
+    "stage": 1
+  },
+  {
+    "key": "See you later, \\C[4]Ms. Susan\\C[0].",
+    "original": "See you later, \\C[4]Ms. Susan\\C[0].",
+    "translation": "下次见，\\C[4]苏珊小姐\\C[0]",
+    "stage": 1
+  },
+  {
+    "key": "Okay, I should go and fix it now.",
+    "original": "Okay, I should go and fix it now.",
+    "translation": "好，现在去修好它",
+    "stage": 1
+  }
+]

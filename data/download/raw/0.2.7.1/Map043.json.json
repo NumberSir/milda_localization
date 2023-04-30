@@ -1,0 +1,284 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "我 <br>",
+    "stage": 1
+  },
+  {
+    "key": "The fire is burning.",
+    "original": "The fire is burning.",
+    "translation": "火正在烧",
+    "stage": 1
+  },
+  {
+    "key": "The fire burns weakly. ",
+    "original": "The fire burns weakly. ",
+    "translation": "火势变弱了",
+    "stage": 1
+  },
+  {
+    "key": "It's too hot.",
+    "original": "It's too hot.",
+    "translation": "好热",
+    "stage": 1
+  },
+  {
+    "key": "Use Tea\\i[212]",
+    "original": "Use Tea\\i[212]",
+    "translation": "喝茶\\i[212]",
+    "stage": 1
+  },
+  {
+    "key": "Use Wine\\i[211]",
+    "original": "Use Wine\\i[211]",
+    "translation": "喝酒\\i[211]",
+    "stage": 1
+  },
+  {
+    "key": "Leave",
+    "original": "Leave",
+    "translation": "离开",
+    "stage": 1
+  },
+  {
+    "key": "It's still quite hot but I could see everything inside. ",
+    "original": "It's still quite hot but I could see everything inside. ",
+    "translation": "还是很热，但我能看见里面的东西",
+    "stage": 1
+  },
+  {
+    "key": "Huh!? There seems to be a hidden path. Should I go in? ",
+    "original": "Huh!? There seems to be a hidden path. Should I go in? ",
+    "translation": "哈？！好像有条隐藏小路，我该进去吗？",
+    "stage": 1
+  },
+  {
+    "key": "Yes",
+    "original": "Yes",
+    "translation": "是",
+    "stage": 1
+  },
+  {
+    "key": "No",
+    "original": "No",
+    "translation": "否",
+    "stage": 1
+  },
+  {
+    "key": "Let's take some in case I get thirsty.",
+    "original": "Let's take some in case I get thirsty.",
+    "translation": "先带上点，免得我到时候渴了",
+    "stage": 1
+  },
+  {
+    "key": "I guess it could be used on something.",
+    "original": "I guess it could be used on something.",
+    "translation": "我猜这应该能放在什么东西上",
+    "stage": 1
+  },
+  {
+    "key": "<c:0,120,0>Ugh... How could you?",
+    "original": "<c:0,120,0>Ugh... How could you?",
+    "translation": "<c:0,120,0>呃……你怎么做到的？",
+    "stage": 1
+  },
+  {
+    "key": "What is this place?",
+    "original": "What is this place?",
+    "translation": "这里是哪？",
+    "stage": 1
+  },
+  {
+    "key": "Now that I wonder... Where am I?",
+    "original": "Now that I wonder... Where am I?",
+    "translation": "我……我在哪？",
+    "stage": 1
+  },
+  {
+    "key": "Oh, the fly swatter is still here...",
+    "original": "Oh, the fly swatter is still here...",
+    "translation": "哦，苍蝇拍还在这里",
+    "stage": 1
+  },
+  {
+    "key": "Anyway, let's get out of here.",
+    "original": "Anyway, let's get out of here.",
+    "translation": "管它呢，赶紧逃走吧",
+    "stage": 1
+  },
+  {
+    "key": "I swear I'm not gonna buy weird shit again.",
+    "original": "I swear I'm not gonna buy weird shit again.",
+    "translation": "我发誓再也不会买这种怪东西了",
+    "stage": 1
+  },
+  {
+    "key": "Find a way to get out of here.",
+    "original": "Find a way to get out of here.",
+    "translation": "找到离开这里的方法",
+    "stage": 1
+  },
+  {
+    "key": "You will be hit when \\C[20]Daisy\\C[0] touch you. <br>",
+    "original": "You will be hit when \\C[20]Daisy\\C[0] touch you. <br>",
+    "translation": "\\C[20]黛西\\C[0]碰到你就会让你掉血 <br>",
+    "stage": 1
+  },
+  {
+    "key": "Touch \\C[20]Daisy\\C[0]'s butt if you want to attack.",
+    "original": "Touch \\C[20]Daisy\\C[0]'s butt if you want to attack.",
+    "translation": "如果你想攻击可以点\\C[20]黛西\\C[0]的屁股",
+    "stage": 1
+  },
+  {
+    "key": "Your clothes will be shredded by \\C[20]Daisy\\C[0]'s attack. <br>",
+    "original": "Your clothes will be shredded by \\C[20]Daisy\\C[0]'s attack. <br>",
+    "translation": "\\C[20]黛西\\C[0]的攻击会撕烂你的衣服 <br>",
+    "stage": 1
+  },
+  {
+    "key": "Collect \\c[17]New Clothes\\c[0]\\i[155] and use it to recover.",
+    "original": "Collect \\c[17]New Clothes\\c[0]\\i[155] and use it to recover.",
+    "translation": "捡起\\c[17]新衣服\\c[0]\\i[155]来修好你的衣服",
+    "stage": 1
+  },
+  {
+    "key": "Use \\c[17]Holy Water\\c[0]\\i[228] to erase \\c[10]Horny level\\c[0].",
+    "original": "Use \\c[17]Holy Water\\c[0]\\i[228] to erase \\c[10]Horny level\\c[0].",
+    "translation": "用\\c[17]圣水\\c[0]\\i[228]来消除\\c[10]情欲等级\\c[0]",
+    "stage": 1
+  },
+  {
+    "key": "Man, can't seem to find a way out.",
+    "original": "Man, can't seem to find a way out.",
+    "translation": "老天，这该怎么出去",
+    "stage": 1
+  },
+  {
+    "key": "Crap!",
+    "original": "Crap!",
+    "translation": "我去！",
+    "stage": 1
+  },
+  {
+    "key": "\\C[20]Auntie Daisy\\C[0] <br>",
+    "original": "\\C[20]Auntie Daisy\\C[0] <br>",
+    "translation": "\\C[20]黛西阿姨\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "What are you doing here?",
+    "original": "What are you doing here?",
+    "translation": "你在这儿干什么？",
+    "stage": 1
+  },
+  {
+    "key": "Much better.",
+    "original": "Much better.",
+    "translation": "更好了",
+    "stage": 1
+  },
+  {
+    "key": "I can't wait any longer. Let's the fun begin!",
+    "original": "I can't wait any longer. Let's the fun begin!",
+    "translation": "我等不及了，开始来玩吧！",
+    "stage": 1
+  },
+  {
+    "key": "Hmm...",
+    "original": "Hmm...",
+    "translation": "嗯……",
+    "stage": 1
+  },
+  {
+    "key": "So warm...",
+    "original": "So warm...",
+    "translation": "好暖和……",
+    "stage": 1
+  },
+  {
+    "key": "It's feel good. Auntie's pussy is cold.",
+    "original": "It's feel good. Auntie's pussy is cold.",
+    "translation": "感觉好舒服，她的小穴冰冰的",
+    "stage": 1
+  },
+  {
+    "key": "This weird shiver is sending through my spine.",
+    "original": "This weird shiver is sending through my spine.",
+    "translation": "颤抖直戳骨髓",
+    "stage": 1
+  },
+  {
+    "key": "Next",
+    "original": "Next",
+    "translation": "继续",
+    "stage": 1
+  },
+  {
+    "key": "So good... ",
+    "original": "So good... ",
+    "translation": "真不错……",
+    "stage": 1
+  },
+  {
+    "key": "Slow down, Auntie! You're breaking my back.",
+    "original": "Slow down, Auntie! You're breaking my back.",
+    "translation": "慢点，阿姨！我的腰要断了！",
+    "stage": 1
+  },
+  {
+    "key": "Cum",
+    "original": "Cum",
+    "translation": "射精",
+    "stage": 1
+  },
+  {
+    "key": "It's so good! I can't hold it back anymore.",
+    "original": "It's so good! I can't hold it back anymore.",
+    "translation": "太舒服了，我忍不了了",
+    "stage": 1
+  },
+  {
+    "key": "Give me, shot your hot blood deep inside me!",
+    "original": "Give me, shot your hot blood deep inside me!",
+    "translation": "射出来，射进我里面！",
+    "stage": 1
+  },
+  {
+    "key": "You shot out so much. ",
+    "original": "You shot out so much. ",
+    "translation": "你射得真多",
+    "stage": 1
+  },
+  {
+    "key": "My womb is filled with your semen and it's so warm...",
+    "original": "My womb is filled with your semen and it's so warm...",
+    "translation": "我肚子里全是你的精液，真暖和……",
+    "stage": 1
+  },
+  {
+    "key": "End",
+    "original": "End",
+    "translation": "结束",
+    "stage": 1
+  },
+  {
+    "key": "Man, such a weird dream...",
+    "original": "Man, such a weird dream...",
+    "translation": "老天，真是场怪梦",
+    "stage": 1
+  },
+  {
+    "key": "I better prepare myself, as there is school today!",
+    "original": "I better prepare myself, as there is school today!",
+    "translation": "赶紧收拾一下，该去学校了！",
+    "stage": 1
+  },
+  {
+    "key": "Let's go!",
+    "original": "Let's go!",
+    "translation": "出发！",
+    "stage": 1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "key": "Me <br>",
+    "original": "Me <br>",
+    "translation": "我 <br>",
+    "stage": 1
+  },
+  {
+    "key": "Shouldn't bother while she's sleeping.",
+    "original": "Shouldn't bother while she's sleeping.",
+    "translation": "她在睡觉，别去打扰了",
+    "stage": 1
+  },
+  {
+    "key": "That should be enough.",
+    "original": "That should be enough.",
+    "translation": "应该差不多够了",
+    "stage": 1
+  },
+  {
+    "key": "The door’s locked.",
+    "original": "The door’s locked.",
+    "translation": "门锁上了",
+    "stage": 1
+  },
+  {
+    "key": "How am I supposed to get in there?",
+    "original": "How am I supposed to get in there?",
+    "translation": "我该怎么进去？",
+    "stage": 1
+  },
+  {
+    "key": "Hmm...",
+    "original": "Hmm...",
+    "translation": "嗯……",
+    "stage": 1
+  },
+  {
+    "key": "I need a key, but where could I get one? I need to think about this some more.",
+    "original": "I need a key, but where could I get one? I need to think about this some more.",
+    "translation": "我要一把钥匙，去哪儿搞呢？",
+    "stage": 1
+  },
+  {
+    "key": "Better hurry to my magic hole!",
+    "original": "Better hurry to my magic hole!",
+    "translation": "赶快去那个洞那儿！",
+    "stage": 1
+  },
+  {
+    "key": "Better not.",
+    "original": "Better not.",
+    "translation": "还是别了",
+    "stage": 1
+  },
+  {
+    "key": "\\C[2]Anna\\C[0] <br>",
+    "original": "\\C[2]Anna\\C[0] <br>",
+    "translation": "\\C[2]安娜\\C[0] <br>",
+    "stage": 1
+  },
+  {
+    "key": "Hey \\n[1], I had a dream last night. I was milking a cow and her milk sprayed all over my face.",
+    "original": "Hey \\n[1], I had a dream last night. I was milking a cow and her milk sprayed all over my face.",
+    "translation": "嘿\\n[1]，我做了个怪梦，梦见奶牛把她的奶全部贱我脸上了",
+    "stage": 1
+  },
+  {
+    "key": "When I woke up, my face was still sticky for some reason, just like in the dream. Weird, right?",
+    "original": "When I woke up, my face was still sticky for some reason, just like in the dream. Weird, right?",
+    "translation": "我醒来时发现脸上黏黏的，好奇怪",
+    "stage": 1
+  },
+  {
+    "key": "... I guess it must have been your saliva.",
+    "original": "... I guess it must have been your saliva.",
+    "translation": "……我猜是你睡觉流口水了吧",
+    "stage": 1
+  },
+  {
+    "key": "Ohhh... Maybe you're right, that does make sense.",
+    "original": "Ohhh... Maybe you're right, that does make sense.",
+    "translation": "哦……你说得对",
+    "stage": 1
+  },
+  {
+    "key": "Yay! It's \\c[2]Christmas\\c[0]!",
+    "original": "Yay! It's \\c[2]Christmas\\c[0]!",
+    "translation": "耶！是\\c[2]圣诞节\\c[0]！",
+    "stage": 1
+  },
+  {
+    "key": "Are you ready, \\n[1]? We can go to school together after I finished brushing my teeth..",
+    "original": "Are you ready, \\n[1]? We can go to school together after I finished brushing my teeth..",
+    "translation": "准备好了吗，\\n[1]？等我刷完牙，咱们就一起去上学",
+    "stage": 1
+  },
+  {
+    "key": "Sure!",
+    "original": "Sure!",
+    "translation": "没问题！",
+    "stage": 1
+  },
+  {
+    "key": "I have something to do",
+    "original": "I have something to do",
+    "translation": "我还有其他事要做",
+    "stage": 1
+  },
+  {
+    "key": "Yay!",
+    "original": "Yay!",
+    "translation": "耶！",
+    "stage": 1
+  },
+  {
+    "key": "Ehh...! Why not? It would be more fun.",
+    "original": "Ehh...! Why not? It would be more fun.",
+    "translation": "呃……好啊！肯定很有趣",
+    "stage": 1
+  },
+  {
+    "key": "We're not kids anymore.",
+    "original": "We're not kids anymore.",
+    "translation": "我们可不是小孩子了",
+    "stage": 1
+  },
+  {
+    "key": "What's your plan today, \\n[1]? Do you wanna play with me?",
+    "original": "What's your plan today, \\n[1]? Do you wanna play with me?",
+    "translation": "你今天想做什么，\\n[1]？想和我一起玩吗？",
+    "stage": 1
+  },
+  {
+    "key": "Maybe later when I have some spare time.",
+    "original": "Maybe later when I have some spare time.",
+    "translation": "等我有空时再说吧",
+    "stage": 1
+  },
+  {
+    "key": "I must hurry!",
+    "original": "I must hurry!",
+    "translation": "我得赶快点！",
+    "stage": 1
+  }
+]
