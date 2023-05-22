@@ -3,49 +3,21 @@
     "id": 1,
     "code": 401,
     "param": [
-      "Me  <br>"
+      "我<br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Auntie is sleeping very well, shouldn't disturb her. "
+      "阿姨睡得很香，我还是别打扰了"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me  <br>"
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "..."
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "A little peek won't hurt."
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "Me  <br>"
+      "我<br>"
     ]
   },
   {
@@ -59,147 +31,175 @@
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "The blanket is really entangled. "
+      "偷偷看一眼应该没什么"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我<br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Glups..."
+      "..."
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "I think if I'm careful, I could move it without waking her up. "
+      "这毯子盖着真碍事"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me  <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "I'm quite nervous... Maybe later. "
+      "*咽口水*"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0]: \\C[3]+3\\C[0] <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0]: \\v[21]"
+      "我试试把毯子挪开，应该弄不醒阿姨的"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我<br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "SHE'S WAKING UP!!!!!"
+      "我有点紧张……要不下次再说吧"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "\\C[20]黛西阿姨\\C[0]: \\C[3]+3\\C[0] <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Tactical retreat! Go Go Go!"
+      "\\C[20]黛西阿姨\\C[0]: \\v[21]"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "她要醒了！！！"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "战术性撤退！！溜！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me  <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Ok, here we go..."
+      "很好……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me  <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Phews..."
+      "呼……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me  <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's easier than I thought."
+      "比我想的简单多了"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
@@ -213,119 +213,49 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "W..wa..wait. Wha... What is this?"
+      "等……等等……这是什么？"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "What is this clothes? I can clearly see everything."
+      "这衣服跟没穿一样"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "And where did her panties go..?"
+      "她怎么没穿内裤……？"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me  <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Better get out of here before she wakes up!"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "\\C[20]Auntie Daisy\\C[0]: \\C[3]+5\\C[0] <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "\\C[20]Auntie Daisy\\C[0]: \\v[21]"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me  <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Ok, here we go..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me  <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Phews..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
@@ -339,119 +269,63 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "A bit touch is okay... I guess..."
+      "还是趁她没醒赶快溜吧！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "\\C[20]黛西阿姨\\C[0]: \\C[3]+5\\C[0] <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "A bit touch is okay... I guess..."
+      "\\C[20]黛西阿姨\\C[0]: \\v[21]"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I-I guess I can go a \"bit\" further. Auntie seems didn't mind that I did some naughty things..."
+      "很好……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我<br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It should be okay if I don't wake her up..."
+      "呼……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "I'm a little pussy to make any actions right now..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "The tip... I managed to get the tip inside auntie's pussy..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Her inside is so hot... I can feel its wall still twitching because of her climax earlier."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "It feels so gooooood! I can't believe I put my dick inside my aunt's pussy!"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
@@ -465,21 +339,119 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "She doesn't seem to wake up..."
+      "轻轻碰一下应该没事……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "轻轻碰一下应该没事……"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我-我觉得还能再进一步，阿姨应该对我调皮挺宽容的"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "只要别弄醒她就好……"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我现在大气都不敢喘一口了……"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "头头……我想把头头塞进阿姨的小穴里……"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "她里面好热……我甚至能感觉到肉壁一颤一颤的"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "感觉太爽啦！我竟然真的插进去了！"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
     ]
   },
   {
@@ -493,56 +465,84 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "*Gulp*"
+      "她看起来睡得挺沉……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "That's a good sign. "
+      "..."
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "She still in her good sleep. All I need is just move slowly and not too deep..."
+      "*咽口水*"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "到目前为止还算不错"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "她还睡得挺香，我就稍微动动……"
     ]
   },
   {
     "id": 4,
     "code": 102,
     "param": [
-      "Start Moving"
+      "开始晃动"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
@@ -556,343 +556,315 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's so gooood!!!"
+      "好舒服！！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Hah-hah..."
+      "哈啊……哈啊……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I-I can feel her pussy's wall is rubbing around my dickhead!"
+      "我-我能感觉到她的肉壁在摩擦着我的龟头！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "My most sensitive part is being caressed..."
+      "正在蹭着我的敏感点……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I don't think I can hold it much longer!"
+      "我要忍不住了！"
     ]
   },
   {
     "id": 4,
     "code": 102,
     "param": [
-      "Cum"
+      "射精"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Her pussy is so hot because of my friction..."
+      "我抽插搞的小穴变得好热"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It feels like my dickhead is melted..."
+      "感觉我的鸡鸡要融化了……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's so numb and amazing!!!"
+      "感觉真是太舒服了！！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's bad!!! I can't hold it anymore!!!"
+      "不行！我认不出了！！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's coming! My hot cum!!!"
+      "要来了，我要射了！！"
     ]
   },
   {
     "id": 4,
     "code": 102,
     "param": [
-      "Pull Out"
+      "拔出来"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Crap! I came inside my auntie without thinking!!!"
+      "不好！我脑子还没反应过来就射在里面了！！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "It's not too deep so... I guess it would be fine!"
+      "没插多深……应该没事吧！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "My cum is still flowing out from her pussy!"
+      "小穴里还在往外流精液！"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I wish I can do it another round but she may wake up if I did it."
+      "我还想再来一遍，但可能会弄醒她"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "*Gulp*"
+      "*咽口水*"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I hope she will not get knocked up just by I have put my tip... and came inside her."
+      "希望她不会意识到我插进去……还在里面射了"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Better get out of here..."
+      "还是快溜吧……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I made her climax with my tongue."
+      "我舔到她高潮了"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Man... She's so sexy when she moans."
+      "老天……她的娇喘真色啊"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Her pussy is so sticky and slimy now because of my saliva and her juice leaking out."
+      "她的小穴已经湿的一塌糊涂了"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "I can feel my dick is throbbing and it wants something..."
+      "我的小鸡鸡现在一跳一跳的……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "It should be okay if I make it light and slow..."
-    ]
-  },
-  {
-    "id": 4,
-    "code": 401,
-    "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
@@ -906,28 +878,56 @@
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "*Gulp*"
+      "如果我动作轻一点应该没事……"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Her pussy is twitching so much. It makes me even more horny!"
+      "..."
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "*咽口水*"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 4,
+    "code": 401,
+    "param": [
+      "她的小穴一颤一颤的，搞得我更兴奋了！"
     ]
   }
 ]

@@ -263,7 +263,7 @@ class Translation:
 
         with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
             json.dump(results, fp, ensure_ascii=False)
-        logger.info("\t- TRANSFER TO PARATRANZ FORMAT PRE PROCESSED DONE.")
+        # logger.info("\t- TRANSFER TO PARATRANZ FORMAT PRE PROCESSED DONE.")
 
     """ POST PRECESS """
     @classmethod

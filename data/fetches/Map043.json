@@ -3,535 +3,535 @@
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "The fire is burning."
+      "火正在烧"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "The fire burns weakly. "
+      "火势变弱了"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 1,
     "code": 401,
     "param": [
-      "It's too hot."
-    ]
-  },
-  {
-    "id": 1,
-    "code": 102,
-    "param": [
-      "Use Tea\\i[212]",
-      "Use Wine\\i[211]",
-      "Leave"
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "It's still quite hot but I could see everything inside. "
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "Me <br>"
-    ]
-  },
-  {
-    "id": 1,
-    "code": 401,
-    "param": [
-      "Huh!? There seems to be a hidden path. Should I go in? "
+      "好热"
     ]
   },
   {
     "id": 1,
     "code": 102,
     "param": [
-      "Yes",
-      "No"
+      "喝茶\\i[212]",
+      "喝酒\\i[211]",
+      "离开"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "还是很热，但我能看见里面的东西"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "我 <br>"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 401,
+    "param": [
+      "哈？！好像有条隐藏小路，我该进去吗？"
+    ]
+  },
+  {
+    "id": 1,
+    "code": 102,
+    "param": [
+      "是",
+      "否"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Let's take some in case I get thirsty."
+      "先带上点，免得我到时候渴了"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Let's take some in case I get thirsty."
+      "先带上点，免得我到时候渴了"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I guess it could be used on something."
+      "我猜这应该能放在什么东西上"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I guess it could be used on something."
+      "我猜这应该能放在什么东西上"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "<c:0,120,0>Ugh... How could you?"
+      "<c:0,120,0>呃……你怎么做到的？"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "What is this place?"
+      "这里是哪？"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Now that I wonder... Where am I?"
+      "我……我在哪？"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Oh, the fly swatter is still here..."
+      "哦，苍蝇拍还在这里"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Anyway, let's get out of here."
+      "管它呢，赶紧逃走吧"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "I swear I'm not gonna buy weird shit again."
+      "我发誓再也不会买这种怪东西了"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Find a way to get out of here."
+      "找到离开这里的方法"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "You will be hit when \\C[20]Daisy\\C[0] touch you. <br>"
+      "\\C[20]黛西\\C[0]碰到你就会让你掉血 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Touch \\C[20]Daisy\\C[0]'s butt if you want to attack."
+      "如果你想攻击可以点\\C[20]黛西\\C[0]的屁股"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Your clothes will be shredded by \\C[20]Daisy\\C[0]'s attack. <br>"
+      "\\C[20]黛西\\C[0]的攻击会撕烂你的衣服 <br>"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Collect \\c[17]New Clothes\\c[0]\\i[155] and use it to recover."
+      "捡起\\c[17]新衣服\\c[0]\\i[155]来修好你的衣服"
     ]
   },
   {
     "id": 7,
     "code": 401,
     "param": [
-      "Use \\c[17]Holy Water\\c[0]\\i[228] to erase \\c[10]Horny level\\c[0]."
+      "用\\c[17]圣水\\c[0]\\i[228]来消除\\c[10]情欲等级\\c[0]"
     ]
   },
   {
     "id": 8,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 8,
     "code": 401,
     "param": [
-      "Man, can't seem to find a way out."
+      "老天，这该怎么出去"
     ]
   },
   {
     "id": 8,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 8,
     "code": 401,
     "param": [
-      "Crap!"
+      "我去！"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "What are you doing here?"
+      "你在这儿干什么？"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Much better."
+      "更好了"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "I can't wait any longer. Let's the fun begin!"
+      "我等不及了，开始来玩吧！"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Hmm..."
+      "嗯……"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "So warm..."
+      "好暖和……"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "It's feel good. Auntie's pussy is cold."
+      "感觉好舒服，她的小穴冰冰的"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "This weird shiver is sending through my spine."
+      "颤抖直戳骨髓"
     ]
   },
   {
     "id": 13,
     "code": 102,
     "param": [
-      "Next"
+      "继续"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "So good... "
+      "真不错……"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Slow down, Auntie! You're breaking my back."
+      "慢点，阿姨！我的腰要断了！"
     ]
   },
   {
     "id": 13,
     "code": 102,
     "param": [
-      "Cum"
+      "射精"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "It's so good! I can't hold it back anymore."
+      "太舒服了，我忍不了了"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Give me, shot your hot blood deep inside me!"
+      "射出来，射进我里面！"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "You shot out so much. "
+      "你射得真多"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "\\C[20]Auntie Daisy\\C[0] <br>"
+      "\\C[20]黛西阿姨\\C[0] <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "My womb is filled with your semen and it's so warm..."
+      "我肚子里全是你的精液，真暖和……"
     ]
   },
   {
     "id": 13,
     "code": 102,
     "param": [
-      "End"
+      "结束"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Man, such a weird dream..."
+      "老天，真是场怪梦"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "I better prepare myself, as there is school today!"
+      "赶紧收拾一下，该去学校了！"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 13,
     "code": 401,
     "param": [
-      "Let's go!"
+      "出发！"
     ]
   }
 ]

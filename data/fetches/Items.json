@@ -2,281 +2,281 @@
   {
     "id": 1,
     "description": "",
-    "name": "Potion"
+    "name": "药水"
   },
   {
     "id": 2,
     "description": "",
-    "name": "Magic Water"
+    "name": "魔法水"
   },
   {
     "id": 3,
     "description": "",
-    "name": "Dispel Herb"
+    "name": "冷静草"
   },
   {
     "id": 4,
     "description": "",
-    "name": "Stimulant"
+    "name": "春药"
   },
   {
     "id": 9,
-    "description": "Contain fresh milk.\n\\c[3]+5\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Bottle of Milk"
+    "description": "装着鲜牛奶。\\n\\c[3]+5\\c[0]\\c[1]体力\\c[0]",
+    "name": "牛奶瓶"
   },
   {
     "id": 10,
-    "description": "Contain fresh milk.",
-    "name": "Bottle of Milk (Quest)"
+    "description": "装着鲜牛奶",
+    "name": "牛奶瓶（任务）"
   },
   {
     "id": 11,
-    "description": "Dirty clothes.\nShould put them in the basket in the bathroom.",
-    "name": "Dirty Clothes (Quest)"
+    "description": "脏衣服\\n我该把他们放进浴室的篮子里",
+    "name": "脏衣服（任务）"
   },
   {
     "id": 12,
-    "description": "A little bit different from other pine. \nUsed for making the \\c[2]Christmas Tree\\c[0].",
-    "name": "Pine"
+    "description": "和其它松树有点儿不同\\n可以用来做\\c[2]圣诞树\\c[0]",
+    "name": "松树"
   },
   {
     "id": 13,
-    "description": "My handy dandy phone.",
-    "name": "Phone"
+    "description": "我的小手机",
+    "name": "手机"
   },
   {
     "id": 14,
-    "description": "\\C[20]Auntie Daisy\\C[0]'s Axe.\nDon't know what she have it for.",
-    "name": "Daisy's Axe"
+    "description": "\\C[20]黛西阿姨\\C[0]的斧头。\\n不知道她拿来做什么",
+    "name": "黛西的斧头"
   },
   {
     "id": 15,
-    "description": "Tiny dust made by Flower Fairies.\nUsed for making things smaller.",
-    "name": "Tiny Miny Mini Dust"
+    "description": "花仙子的迷你粉\\n用来让东西变小",
+    "name": "迷你粉"
   },
   {
     "id": 16,
-    "description": "Lesbian porn Magzine Vol 1.",
-    "name": "Lesbian Porn Mag Vol 1"
+    "description": "女同色情杂志 第1册",
+    "name": "女同色情杂志 第1册"
   },
   {
     "id": 17,
-    "description": "School Hammer. Stealing is prohibited.",
-    "name": "School Hammer (Quest)"
+    "description": "校用锤子，禁止偷窃",
+    "name": "校用锤子（任务）"
   },
   {
     "id": 18,
-    "description": "Fixing the floor necessary items.",
-    "name": "Nails (Quest)"
+    "description": "修地板必需品",
+    "name": "钉子（任务）"
   },
   {
     "id": 19,
-    "description": "Fixing the floor necessary item.",
-    "name": "Wooden Plank (Quest)"
+    "description": "修地板必需品",
+    "name": "木板（任务）"
   },
   {
     "id": 20,
-    "description": "Lesbian porn Magzine Vol 2.",
-    "name": "Lesbian Porn Mag Vol 2"
+    "description": "女同色情杂志 第2册",
+    "name": "女同色情杂志 第2册"
   },
   {
     "id": 21,
-    "description": "Contain Lady's dress and accessories.",
-    "name": "Lady Box"
+    "description": "装着夫人长裙与首饰",
+    "name": "夫人的盒子"
   },
   {
     "id": 22,
     "description": "",
-    "name": "New Clothes "
+    "name": "新衣服"
   },
   {
     "id": 23,
-    "description": "Contains blessed water. \nThe use for spiritual cleansing.",
-    "name": "Holy Water"
+    "description": "装着圣水\\n可以净化灵魂",
+    "name": "圣水"
   },
   {
     "id": 24,
-    "description": "Contains tea.",
-    "name": "Tea"
+    "description": "装着茶水",
+    "name": "茶"
   },
   {
     "id": 25,
-    "description": "Wine bottle. \nIt looks pretty old. ",
-    "name": "Wine"
+    "description": "酒杯\\n看起来很古老",
+    "name": "酒"
   },
   {
     "id": 26,
-    "description": "It can be used for something or eaten directly\n\\c[3]+10\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Pudding"
+    "description": "可以用来做什么，或者直接吃掉\\n\\c[3]+10\\c[0]\\c[1]体力\\c[0]",
+    "name": "布丁"
   },
   {
     "id": 27,
-    "description": "Looks very expensive. \nMaybe it's not just a normal necklace.",
-    "name": "Elphaba's Gift"
+    "description": "看起来很贵\\n应该不是什么普通项链",
+    "name": "埃尔珐芭的礼物"
   },
   {
     "id": 28,
-    "description": "Sunscreen Oil but with Secret Ingredients.\nThis will bring pleasure to both her and yourself.",
-    "name": "Lover Oil"
+    "description": "添加了秘密配方的防晒霜\\n能让你和她都身心愉悦",
+    "name": "爱之油"
   },
   {
     "id": 29,
-    "description": "Organic special formula.",
-    "name": "Hot Oil"
+    "description": "有机特殊配方",
+    "name": "火辣油"
   },
   {
     "id": 30,
-    "description": "Summer Dress.",
-    "name": "Dress"
+    "description": "夏季长裙",
+    "name": "裙子"
   },
   {
     "id": 31,
-    "description": "A bag of \\I[282]Turnip seeds. \nDays to grow: 5.",
-    "name": "Turnip Seeds"
+    "description": "一包\\I[282]芜菁种子\\n需要5日成长",
+    "name": "芜菁种子"
   },
   {
     "id": 32,
-    "description": "A bag of \\I[283]Potato seeds. \nDays to grow: 8.",
-    "name": "Potato Seeds"
+    "description": "一包\\I[283]土豆种子\\n需要8日成长",
+    "name": "土豆种子"
   },
   {
     "id": 33,
-    "description": "A bag of \\I[284]Cucumber seeds. \nDays to grow: 10. Days to Re-grow: 5.",
-    "name": "Cucumber Seeds"
+    "description": "一包\\I[284]黄瓜种子\\n需要10日成长，5日重新成长",
+    "name": "黄瓜种子"
   },
   {
     "id": 34,
-    "description": "A bag of \\I[285]Corn seeds. \nDays to grow: 15. Days to Re-grow: 4.",
-    "name": "Corn Seeds"
+    "description": "一包\\I[285]玉米种子\\n需要15日成长，4日重新成长",
+    "name": "玉米种子"
   },
   {
     "id": 40,
-    "description": "Can be used to open Daisy's room.",
-    "name": "Daisy's Room Keys"
+    "description": "可以打开黛西的卧室",
+    "name": "黛西卧室钥匙"
   },
   {
     "id": 41,
-    "description": "Contains enough tools that you can freely \ndecorate or repair on your own.",
-    "name": "DIY Tools"
+    "description": "装着许多工具\\n供你自行使用",
+    "name": "DIY工具"
   },
   {
     "id": 42,
-    "description": "All you need to know to stimulate a female's body.",
-    "name": "Adult Massage Book"
+    "description": "你只用知道怎么让女人感到舒服就够了",
+    "name": "成人按摩书"
   },
   {
     "id": 43,
-    "description": "Lesbian porn Magzine Vol 3.",
-    "name": "Lesbian Porn Mag Vol 3"
+    "description": "女同色情杂志 第3册",
+    "name": "女同色情杂志 第3册"
   },
   {
     "id": 44,
-    "description": "A book from another World",
-    "name": "Fantasy Book"
+    "description": "另一个世界的书",
+    "name": "奇幻书"
   },
   {
     "id": 45,
-    "description": "An adult book. Only for nobles",
-    "name": "TeacherXStudent Book"
+    "description": "成人杂志，贵族专享",
+    "name": "老师x学生 成人本"
   },
   {
     "id": 46,
-    "description": "It can be used for something or eaten directly\n\\c[3]+5\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Bubble Tea"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+5\\c[0] \\c[1]体力\\c[0]",
+    "name": "泡泡茶"
   },
   {
     "id": 47,
-    "description": "It can be used for something or eaten directly\n\\c[3]+10\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Coffee"
+    "description": "可以用来做什么，或者直接吃掉\\n\\c[3]+10\\c[0]\\c[1]体力\\c[0]",
+    "name": "咖啡"
   },
   {
     "id": 51,
-    "description": "Can be eaten raw or used as an ingredient.\n\\c[3]+2\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Turnip"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+2\\c[0] \\c[1]体力\\c[0]",
+    "name": "芜菁"
   },
   {
     "id": 52,
-    "description": "Can be eaten raw or used as an ingredient.\n\\c[3]+3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Potato"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+3\\c[0] \\c[1]体力\\c[0]",
+    "name": "土豆"
   },
   {
     "id": 53,
-    "description": "Can be eaten raw or used as an ingredient.\n\\c[3]+2\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Cucumber"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+2\\c[0] \\c[1]体力\\c[0]",
+    "name": "黄瓜"
   },
   {
     "id": 54,
-    "description": "Can be eaten raw or used as an ingredient.\n\\c[3]+3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Corn"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+3\\c[0] \\c[1]体力\\c[0]",
+    "name": "玉米"
   },
   {
     "id": 70,
-    "description": "Can be eaten raw or used as an ingredient.\n\\c[3]+20\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Honey"
+    "description": "可以拿来做些什么，或者直接吃掉\\n\\c[3]+20\\c[0] \\c[1]体力\\c[0]",
+    "name": "蜂蜜"
   },
   {
     "id": 71,
-    "description": "Obtained from cutting Tree Stumps\n",
-    "name": "Wood"
+    "description": "砍树桩获得\\n",
+    "name": "木材"
   },
   {
     "id": 72,
-    "description": "Obtained from smashing Bluish Rocks\n",
-    "name": "Stone"
+    "description": "砸烂蓝石头获得\\n",
+    "name": "石材"
   },
   {
     "id": 73,
-    "description": "Used for Building or Crafting",
-    "name": "Nails"
+    "description": "用来造东西",
+    "name": "钉子"
   },
   {
     "id": 90,
-    "description": "Used for hoeing or destroying seeds.\n\\c[10]-3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Hoe"
+    "description": "用来锄地或除掉种子\\n\\c[10]-3\\c[0] \\c[1]体力\\c[0]",
+    "name": "锄头"
   },
   {
     "id": 91,
-    "description": "Used for removing grasses or crops.\n\\c[10]-3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Sickle"
+    "description": "用来除草或收割庄稼\\n\\c[10]-3\\c[0] \\c[1]体力\\c[0]",
+    "name": "镰刀"
   },
   {
     "id": 92,
-    "description": "Used for planting seeds or harvesting.\n\\c[10]-3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Glove"
+    "description": "用来种地或收庄稼\\n\\c[10]-3\\c[0] \\c[1]体力\\c[0]",
+    "name": "手套"
   },
   {
     "id": 93,
-    "description": "Used for watering crops. \\c[10]-3\\c[0] \\c[1]Stamina\\c[0]\nWater Left: \\c[1]\\v[205]/16\\c[0] <br>",
-    "name": "Water Can"
+    "description": "用来浇水\\c[10]-3\\c[0] \\c[1]体力\\c[0]\\n剩余水量: \\c[1]\\v[205]/16\\c[0] <br>",
+    "name": "水罐"
   },
   {
     "id": 94,
-    "description": "Used for cutting Tree Stumps\n\\c[10]-3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Axe"
+    "description": "用来砍树桩\\n\\c[10]-3\\c[0] \\c[1]体力\\c[0]",
+    "name": "斧头"
   },
   {
     "id": 95,
-    "description": "Used for smashing Rocks\n\\c[10]-3\\c[0] \\c[1]Stamina\\c[0]",
-    "name": "Hammer"
+    "description": "用来砸石头\\n\\c[10]-3\\c[0] \\c[1]体力\\c[0]",
+    "name": "锤子"
   },
   {
     "id": 96,
-    "description": "\\C[20]Ek\\c[0]'s Great, Great Grandfather's Axe \nLegend says it was used to defend from the Evil Force",
-    "name": "Broken Axe"
+    "description": "\\C[20]埃克\\c[0]的曾曾祖父的斧头\\n传说曾经用来抵御黑暗力量",
+    "name": "坏斧子"
   },
   {
     "id": 110,
-    "description": "A workbench for building buildings or crafts\nChoose a location and place it",
-    "name": "Workbench Scroll"
+    "description": "用来造建筑或制作物品的工作台\\n找个地方放下吧",
+    "name": "工作台卷轴"
   },
   {
     "id": 111,
-    "description": "A Bee House for Bees to live in\nChoose a location and place it",
-    "name": "Bee House Scroll"
+    "description": "让蜜蜂住进去\\n找个地方放下吧",
+    "name": "蜂箱卷轴"
   },
   {
     "id": 120,
-    "description": "Materials required:\n\\I[295]Woods: 30|\\I[305]Stones: 15|\\I[297]Nails: 30",
-    "name": "Bee House Blueprint"
+    "description": "需要材料\\n\\I[295]木材: 30|\\I[305]石材: 15|\\I[297]钉子: 30",
+    "name": "蜂箱蓝图"
   }
 ]

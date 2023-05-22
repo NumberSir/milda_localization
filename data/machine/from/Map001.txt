@@ -1,9 +1,0 @@
-Watch Intro
-Skip
-\C[20]Auntie Daisy\C[0]: \C[3]+2\C[0] <br>
-\C[20]Auntie Daisy\C[0]: \v[21]
-\C[2]Anna\C[0]: \C[3]+2\C[0] <br>
-\C[2]Anna\C[0]: \v[23]
-Me <br>
-This is my \c[12]Phone\c[0]. \c[12]P\c[0] is the \c[2]Hotkey\c[0]. There is some useful stuff in there.
-I put it in \c[12]Key Item\c[0] in case if I need it.

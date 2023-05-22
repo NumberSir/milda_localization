@@ -3,428 +3,428 @@
     "id": 3,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "Hello, sir. How can I help you?"
+      "你好，请问有什么事？"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "Thank you. Please come again."
+      "谢谢，欢迎下次光临"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Hello, sir. How can I help you?"
+      "你好，请问有什么事？"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Thank you. Please come again."
+      "谢谢，欢迎下次光临"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Hmm..."
+      "嗯……"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Hmm..."
+      "嗯……"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I couldn't find it anywhere. Better ask the shopkeeper."
+      "我找不到，还是去问问店员吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Hello, I want to buy something like this."
+      "你好，我想买这个"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Hi, please wait a moment."
+      "好，请稍等"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "We're sorry! It seems that we have sold out of this product."
+      "抱歉，我们应该卖完了"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Do you want to buy similar products?"
+      "可以给你类似的替代品吗？"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Doesn't seem okay. I buy this for a friend."
+      "应该不行，我替朋友买的"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Tell me how they are. I can advise you."
+      "给我讲讲，我应该能给你点建议"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "She is my girlfriend."
+      "呃，我给我女朋友买的"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Well. She is a girl and probably count as my friend. "
+      "嗯，至少她是女的，也是我朋友"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "So... I guess nothing wrong with it."
+      "所以……差不多就这么回事吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "In that case, you can try this."
+      "这样啊，那你试试这个"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "This will bring pleasure to both her and yourself."
+      "这个对你对她来说都是好东西"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "What the hell?"
+      "什么鬼？"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "It is sunscreen anyway. It would be fine..."
+      "反正也是防晒霜，应该没问题吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I guess..."
+      "我猜……"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "It looks so familiar..."
+      "看着好眼熟……"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Oh! Look like I already bought it."
+      "哦！我已经买过了"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "It will be 2000\\i[172]."
+      "应该要2000\\i[272]"
     ]
   },
   {
     "id": 5,
     "code": 102,
     "param": [
-      "Buy",
-      "No"
+      "购买",
+      "不要"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Do you need anything else?"
+      "你还要什么其他的吗？"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I only take this. Thanks!"
+      "没了，就这个！谢了"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I will look for another sunscreen oil."
+      "我去找找其他防晒霜吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Oh man, 2000\\i[172]! I don't have enough money. Better get it next time."
+      "老天，2000\\i[272]！我可没带够钱，还是下次再买吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "I will find another sunscreen oil."
+      "我还是去找其它防晒霜吧"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 5,
     "code": 401,
     "param": [
-      "Thank you very much! Please tell me if you need anything else."
+      "非常感谢！还有什么想买的随时找我"
     ]
   }
 ]

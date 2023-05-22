@@ -3,392 +3,392 @@
     "id": 3,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "Hello, sir. How can I help you?"
+      "你好，请问有什么事？"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 3,
     "code": 401,
     "param": [
-      "Thank you. Please come again."
+      "谢谢，欢迎下次光临"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Hello, sir. How can I help you?"
+      "你好，请问有什么事？"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "\\c[12]Tony\\c[0] <br>"
+      "\\c[12]托尼\\c[0] <br>"
     ]
   },
   {
     "id": 4,
     "code": 401,
     "param": [
-      "Thank you. Please come again."
+      "谢谢，欢迎下次光临"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I’m going to pick out some clothes."
+      "我要去选点衣服"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "You can do something else while you wait."
+      "你可以先去做自己的事"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "It’s OK. I came here with you, so I might as well be here."
+      "没事，我就在这儿等你"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "That’s the spirit."
+      "这样才好"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Oh, that’s a cute dress. Give me a second, let me try it on."
+      "哦，真是条可爱的裙子，让我试试"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "How does this dress look?"
+      "看起来怎么样？"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Wow!"
+      "哇哦！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "You look so nice and cute!"
+      "真可爱！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Thank you, \\n[1]!"
+      "谢谢你，\\n[1]!"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Aww, but it’s so expensive."
+      "啊哦，但是它有点贵"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I can’t afford it."
+      "我买不起"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I’ll look for other clothes."
+      "我找找其他的衣服吧"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I will buy it for you."
+      "没事，我买给你"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Really!?"
+      "真的？！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Of course!!!"
+      "那当然！！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "But I didn't bring enough money, I will buy it for you later."
+      "但我现在没带够钱，晚点我再买给你"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Thank you so much, \\n[1]!"
+      "你真是太好了，\\n[1]！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Damn! These things are so expensive. Like three for four times normal."
+      "我去！怎么这里的衣服这么贵，比外面贵三四倍！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "But if it makes them happy, it's worth it."
+      "但能让他们开心，也值了"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I want to buy Auntie a dress too. For taking care of me."
+      "我还想给阿姨买件裙子，感谢她对我那么体贴"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "That’s really generous of you."
+      "你真好"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "How about we surprise her at dinner?"
+      "在晚餐上给她个惊喜如何？"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "Me <br>"
+      "我 <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "That's a great idea!"
+      "棒极了！"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "\\C[2]Anna\\C[0] <br>"
+      "\\C[2]安娜\\C[0] <br>"
     ]
   },
   {
     "id": 6,
     "code": 401,
     "param": [
-      "I bet mom will be amazed and love it!"
+      "妈妈会爱上你的！"
     ]
   }
 ]
