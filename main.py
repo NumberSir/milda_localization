@@ -2,6 +2,7 @@ import json
 import os
 import shutil
 import re
+import subprocess
 import zipfile
 
 import httpx
@@ -20,7 +21,6 @@ class Translation:
         os.makedirs(DIR_FETCHES, exist_ok=True)
         os.makedirs(DIR_SUPPORT, exist_ok=True)
         os.makedirs(DIR_PROCESS, exist_ok=True)
-        os.makedirs(DIR_MACHINE, exist_ok=True)
         os.makedirs(DIR_PARATRANZ, exist_ok=True)
         os.makedirs(DIR_DOWNLOAD, exist_ok=True)
         os.makedirs(DIR_LOCALIZATIONS_FILES, exist_ok=True)
@@ -271,7 +271,6 @@ class Translation:
         logger.info("##### STARTING POST PROCESSING ALL FILES...")
         cls.post_process_translated()
         # cls.post_process_paratranz()
-        # cls.post_process_machine()
         logger.info("===== ALL FILES POST PROCESSED DONE.")
 
     @staticmethod
@@ -281,35 +280,6 @@ class Translation:
                 os.remove(DIR_PROCESS / file)
         logger.info("\t- ALREADY TRANSLATED POST PROCESSED DONE.")
 
-    @staticmethod
-    def post_process_machine():
-        for file in os.listdir(DIR_PROCESS):
-            file_name = file.split(".")[0]
-            with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
-                data: dict = json.load(fp)
-
-            with open(DIR_MACHINE / "from" / f"{file_name}.txt", "w", encoding="utf-8") as fp:
-                fp.write("\n".join(list(data.keys())))
-        logger.info("\t- TRANSFER TO TXT POST PROCESSED DONE.")
-
-    # @staticmethod
-    # def post_process_paratranz():
-    #     """把已有的翻译丢进 paratranz 里"""
-    #     for file in os.listdir(DIR_LOCALIZATIONS_FILES):
-    #         with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
-    #             data_localization: dict = json.load(fp)
-    #
-    #         with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
-    #             data_raw_paratranz: list[dict[str, str]] = json.load(fp)
-    #
-    #         for idx, raw in enumerate(data_raw_paratranz):
-    #             data_raw_paratranz[idx]["translation"] = data_localization[raw["original"]]
-    #
-    #         with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
-    #             json.dump(data_raw_paratranz, fp, ensure_ascii=False)
-    #
-    #     logger.info("\t- TRANSFER TO PARATRANZ FORMAT POST PROCESSED DONE.")
-
     """ DOWNLOAD """
     @classmethod
     def download_from_paratranz(cls):
@@ -318,6 +288,7 @@ class Translation:
         cls.download_export()
         cls.unzip_export()
         cls.move_export()
+        cls.update_local_paratranz()
         cls.reconf_export()
         logger.info("===== ALL FILES DOWNLOADED DONE")
 
@@ -348,6 +319,26 @@ class Translation:
         logger.info("\t- EXPORT MOVED DONE")
 
     @classmethod
+    def update_local_paratranz(cls):
+        """更新本地的字典"""
+        for file in os.listdir(DIR_LOCALIZATIONS_FILES):
+            with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
+                data_translated: list[dict] = json.load(fp)
+
+            with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
+                data_fetched_raw: list[dict] = json.load(fp)
+
+            for item_translated in data_translated:
+                for idx, item_fetched_raw in enumerate(data_fetched_raw):
+                    if item_fetched_raw["key"] == item_translated["key"] and item_translated["translation"] != "":
+                        data_fetched_raw[idx] = item_translated
+
+            with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
+                json.dump(data_fetched_raw, fp, ensure_ascii=False)
+            logger.info(f"\t\t- UPDATE {file} DONE")
+        logger.info("\t- UPDATE LOCAL PARATRANZ DONE")
+
+    @classmethod
     def reconf_export(cls):
         for file in os.listdir(DIR_LOCALIZATIONS_FILES):
             with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
@@ -361,7 +352,6 @@ class Translation:
             with open(DIR_LOCALIZATIONS_FILES / file, "w", encoding="utf-8") as fp:
                 json.dump(data, fp, ensure_ascii=False)
         logger.info("\t- EXPORT RECONFED DONE")
-
 
     """ APPLY """
     @classmethod
@@ -387,6 +377,8 @@ class Translation:
         for idx, d in enumerate(data["terms"]["commands"]):
             if not d:
                 continue
+            if not data_localized.get(d):
+                continue
             data["terms"]["commands"][idx] = data_localized[d]
 
         with open(DIR_RESULTS / RAW_FILES["system"], "w", encoding="utf-8") as fp:
@@ -404,8 +396,12 @@ class Translation:
             if not d:
                 continue
             if d["description"]:
+                if not data_localized.get(d["description"]):
+                    continue
                 data[idx]["description"] = data_localized[d["description"]]
             if d["name"]:
+                if not data_localized.get(d["name"]):
+                    continue
                 data[idx]["name"] = data_localized[d["name"]]
 
         with open(DIR_RESULTS / RAW_FILES["items"], "w", encoding="utf-8") as fp:
@@ -565,6 +561,8 @@ def main():
     tr.apply_all()          # 应用翻译
     tr.count_length()       # 统计内容长度
     tr.cover_all()          # 覆盖源文件
+
+    subprocess.Popen(rf'explorer /select, "{DIR_ROOT.parent.parent / "Game.exe"}"')
 
 
 if __name__ == '__main__':
