@@ -257,7 +257,7 @@ class Translation:
             data: dict = json.load(fp)
 
         results = [
-            {"key": k, "original": k, "translation": ""}
+            {"key": k, "original": k.replace(r"(\c[2]PREVIOUS\c[0])", "").replace(r"(\C[3]NEW\C[0])", ""), "translation": ""}
             for k in data
         ]
 
