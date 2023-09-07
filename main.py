@@ -454,11 +454,17 @@ class Translation:
     @staticmethod
     def apply_maps():
         for i in range(1, MAPS_COUNT + 1):
+            replace_needed = True if i == 37 else False
+
             file_name = RAW_FILES["maps"].format(i)
             if file_name not in os.listdir(DIR_LOCALIZATIONS_FILES):
                 continue
+
+            """汉化词典·"""
             with open(DIR_LOCALIZATIONS_FILES / file_name, "r", encoding="utf-8") as fp:
                 data_localized: dict = json.load(fp)
+
+            """提取词典"""
             with open(DIR_RESULTS / file_name, "r", encoding="utf-8") as fp:
                 data: dict = json.load(fp)
             if not data:
@@ -477,6 +483,9 @@ class Translation:
 
                         if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
                             key = code["parameters"][0]
+                            if replace_needed:
+                                key = key.replace("(\\C[3]NEW\\C[0])", "")  # 替换两个老是更新的东西
+                                key = key.replace("(\\c[2]PREVIOUS\\c[0])", "")  # 替换两个老是更新的东西
                             try:
                                 if not data_localized[key]:
                                     continue
