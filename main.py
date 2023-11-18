@@ -10,6 +10,7 @@ import httpx
 from consts import *
 from models import *
 from log import *
+from utils import *
 
 
 class Translation:
@@ -18,6 +19,11 @@ class Translation:
 
     @classmethod
     def init_dirs(cls):
+        for file in os.listdir(DIR_BACKUP):
+            shutil.copyfile(
+                DIR_BACKUP / file,
+                DIR_ROOT / file
+            )
         os.makedirs(DIR_FETCHES, exist_ok=True)
         os.makedirs(DIR_SUPPORT, exist_ok=True)
         os.makedirs(DIR_PROCESS, exist_ok=True)
@@ -181,7 +187,7 @@ class Translation:
         logger.info("##### STARTING PRE PROCESSING ALL FILES...")
         for file in os.listdir(DIR_FETCHES):
             cls.pre_process_duplicate(file)
-            cls.pre_process_special_words(file)
+            # cls.pre_process_special_words(file)
             cls.pre_process_paratranz(file)
         logger.info("===== ALL FILES PRE PROCESSED DONE.")
 
@@ -322,19 +328,25 @@ class Translation:
     def update_local_paratranz(cls):
         """更新本地的字典"""
         for file in os.listdir(DIR_LOCALIZATIONS_FILES):
-            with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
-                data_translated: list[dict] = json.load(fp)
+            if not (DIR_PARATRANZ / file).exists():
+                shutil.copyfile(
+                    DIR_LOCALIZATIONS_FILES / file,
+                    DIR_PARATRANZ / file
+                )
+            else:
+                with open(DIR_LOCALIZATIONS_FILES / file, "r", encoding="utf-8") as fp:
+                    data_translated: list[dict] = json.load(fp)
 
-            with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
-                data_fetched_raw: list[dict] = json.load(fp)
+                with open(DIR_PARATRANZ / file, "r", encoding="utf-8") as fp:
+                    data_fetched_raw: list[dict] = json.load(fp)
 
-            for item_translated in data_translated:
-                for idx, item_fetched_raw in enumerate(data_fetched_raw):
-                    if item_fetched_raw["key"] == item_translated["key"] and item_translated["translation"] != "":
-                        data_fetched_raw[idx] = item_translated
+                for item_translated in data_translated:
+                    for idx, item_fetched_raw in enumerate(data_fetched_raw):
+                        if item_fetched_raw["key"] == item_translated["key"] and item_translated["translation"] != "":
+                            data_fetched_raw[idx] = item_translated
 
-            with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
-                json.dump(data_fetched_raw, fp, ensure_ascii=False)
+                with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
+                    json.dump(data_fetched_raw, fp, ensure_ascii=False)
             logger.info(f"\t\t- UPDATE {file} DONE")
         logger.info("\t- UPDATE LOCAL PARATRANZ DONE")
 
@@ -454,7 +466,7 @@ class Translation:
     @staticmethod
     def apply_maps():
         for i in range(1, MAPS_COUNT + 1):
-            replace_needed = True if i == 37 else False
+            # replace_needed = True if i == 37 else False
 
             file_name = RAW_FILES["maps"].format(i)
             if file_name not in os.listdir(DIR_LOCALIZATIONS_FILES):
@@ -466,11 +478,11 @@ class Translation:
 
             """提取词典"""
             with open(DIR_RESULTS / file_name, "r", encoding="utf-8") as fp:
-                data: dict = json.load(fp)
-            if not data:
+                data_raw: dict = json.load(fp)
+            if not data_raw:
                 continue
 
-            for evt_idx, evt in enumerate(data["events"]):
+            for evt_idx, evt in enumerate(data_raw["events"]):
                 if not evt:
                     continue
                 for pg_idx, pg in enumerate(evt["pages"]):
@@ -483,13 +495,15 @@ class Translation:
 
                         if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
                             key = code["parameters"][0]
-                            if replace_needed:
-                                key = key.replace("(\\C[3]NEW\\C[0])", "")  # 替换两个老是更新的东西
-                                key = key.replace("(\\c[2]PREVIOUS\\c[0])", "")  # 替换两个老是更新的东西
+                            # if replace_needed:
+                            #     key = key.replace("(\\C[3]NEW\\C[0]) ", "")  # 替换两个老是更新的东西
+                            #     key = key.replace("(\\c[2]PREVIOUS\\c[0]) ", "")  # 替换两个老是更新的东西
+                            #     key = key.replace("(\\C[3]NEW\\C[0])", "")  # 替换两个老是更新的东西
+                            #     key = key.replace("(\\c[2]PREVIOUS\\c[0])", "")  # 替换两个老是更新的东西
                             try:
                                 if not data_localized[key]:
                                     continue
-                                data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
+                                data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
                             except KeyError:
                                 continue
                         elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
@@ -497,7 +511,7 @@ class Translation:
                                 try:
                                     if not data_localized[key]:
                                         continue
-                                    data["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = data_localized[key]
+                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = insert_linebreak_text(data_localized[key])
                                 except KeyError:
                                     continue
 
@@ -505,7 +519,7 @@ class Translation:
                             raise Exception("其它code情况")
 
             with open(DIR_RESULTS / file_name, "w", encoding="utf-8") as fp:
-                json.dump(data, fp, ensure_ascii=False)
+                json.dump(data_raw, fp, ensure_ascii=False)
         logger.info("\t- MAPS APPLIED DONE.")
 
     @staticmethod

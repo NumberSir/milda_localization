@@ -3,7 +3,7 @@ from pathlib import Path
 VERSION = "0.2.8.1"
 
 """游戏 data 文件夹绝对路径"""
-DIR_ROOT = Path("E:\Games\WOW\RPG\Daily Lives of My Countryside v0.2.8.1 (PC) (Bugfix)\www\data").absolute()
+DIR_ROOT = Path("D:\Joy\Misc\game\Daily Lives of My Countryside v0.2.9.1 (PC) (Bugfix)\www\data").absolute()
 DIR_PROJECT = Path(__file__).parent
 DIR_BACKUP = DIR_PROJECT / "BACKUP"
 
@@ -24,13 +24,14 @@ RAW_FILES = {
     "maps": "Map{:0>3d}.json"
 }
 
+MAP_SPECIAL = 37
 MAPS_COUNT = 75
 CODES_NEEDED_TRANSLATION = {
     "对话": 401,
     "选项": 102
 }
 
-PARATRANZ_TOKEN = "84f5b1350b9d607d00312111a5afdfc9"
+PARATRANZ_TOKEN = "24b1871222b2c91375f84020b297bb2c"
 PARATRANZ_BASE_URL = "https://paratranz.cn/api"
 PARATRANZ_HEADERS = {
     "Authorization": PARATRANZ_TOKEN
