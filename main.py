@@ -515,9 +515,9 @@ class Translation:
                                     if not data_localized[key]:
                                         continue
                                     if replace_needed:
-                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
+                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = data_localized[key]
                                     else:
-                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
+                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = insert_linebreak_text(data_localized[key])
                                 except KeyError:
                                     continue
 
@@ -591,7 +591,7 @@ def main():
     tr.count_length()       # 统计内容长度
     tr.cover_all()          # 覆盖源文件
 
-    subprocess.Popen(rf'explorer /select, "{DIR_ROOT.parent.parent / "Game.exe"}"')
+    subprocess.Popen(f'"{DIR_ROOT.parent.parent / "Game.exe"}"')
 
 
 if __name__ == '__main__':
