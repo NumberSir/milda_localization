@@ -466,7 +466,7 @@ class Translation:
     @staticmethod
     def apply_maps():
         for i in range(1, MAPS_COUNT + 1):
-            # replace_needed = True if i == 37 else False
+            replace_needed = True if i == 37 else False
 
             file_name = RAW_FILES["maps"].format(i)
             if file_name not in os.listdir(DIR_LOCALIZATIONS_FILES):
@@ -503,7 +503,10 @@ class Translation:
                             try:
                                 if not data_localized[key]:
                                     continue
-                                data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
+                                if replace_needed:
+                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
+                                else:
+                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
                             except KeyError:
                                 continue
                         elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
@@ -511,7 +514,10 @@ class Translation:
                                 try:
                                     if not data_localized[key]:
                                         continue
-                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = insert_linebreak_text(data_localized[key])
+                                    if replace_needed:
+                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
+                                    else:
+                                        data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
                                 except KeyError:
                                     continue
 
