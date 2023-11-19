@@ -1,36 +1,32 @@
 import unicodedata
 
 
-LINEBREAK_LENGTH = 55
-
-
-def insert_linebreak_text(text: str):
+def insert_linebreak_text(text: str, linebreak: str = "<br>", linebreak_length: int = 55):
     length = 1
     comb_flag = False
     comb_cache = 0
     for idx, char in enumerate(text):
-        if char == "\\":
+        if char == "\\" and text[idx+1] in "ic":  # \n 名称是有字数的
             comb_flag = True
-            length += 1
+            # length += 1
             comb_cache += 1
             continue
 
         elif comb_flag and char == "]":
             comb_flag = False
-            length += 1
+            # length += 1
             comb_cache += 1
 
-            if length == LINEBREAK_LENGTH:  # 需要换行
-                text = f"{text[:idx+1]}<br>{text[idx+1:]}"
-                break
-            elif length > LINEBREAK_LENGTH:  # 需要在之前就换行
-                text = f"{text[:idx+1-comb_cache]}<br>{text[idx+1-comb_cache:]}"
-                break
-            comb_cache = 0
+            # if length == linebreak_length:  # 需要换行
+            #     text = f"{text[:idx+1]}{linebreak}{text[idx+1:]}"
+            #     break
+            # elif length > linebreak_length:  # 需要在之前就换行
+            #     text = f"{text[:idx+1-comb_cache]}{linebreak}{text[idx+1-comb_cache:]}"
+            #     break
             continue
 
         elif comb_flag:
-            length += 1
+            # length += 1
             comb_cache += 1
             continue
 
@@ -42,11 +38,11 @@ def insert_linebreak_text(text: str):
             length += 1
             cache += 1
 
-        if length == LINEBREAK_LENGTH:
-            text = f"{text[:idx+1]}<br>{text[idx+1:]}"
+        if length == linebreak_length:
+            text = f"{text[:idx+1]}{linebreak}{text[idx+1:]}"
             break
-        elif length > LINEBREAK_LENGTH:
-            text = f"{text[:idx+1-cache]}<br>{text[idx+1-cache:]}"
+        elif length > linebreak_length:
+            text = f"{text[:idx+1-cache]}{linebreak}{text[idx+1-cache:]}"
             break
 
     return text

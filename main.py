@@ -20,10 +20,11 @@ class Translation:
     @classmethod
     def init_dirs(cls):
         for file in os.listdir(DIR_BACKUP):
-            shutil.copyfile(
-                DIR_BACKUP / file,
-                DIR_ROOT / file
-            )
+            if file == RAW_FILES["quests"]:
+                shutil.copyfile(DIR_BACKUP / file, FILE_QUESTS)
+                continue
+            shutil.copyfile(DIR_BACKUP / file, DIR_ROOT / file)
+
         os.makedirs(DIR_FETCHES, exist_ok=True)
         os.makedirs(DIR_SUPPORT, exist_ok=True)
         os.makedirs(DIR_PROCESS, exist_ok=True)
@@ -40,7 +41,9 @@ class Translation:
         cls.fetch_items()
         cls.fetch_common()
         cls.fetch_maps()
-        cls.fetch_special_words()
+        cls.fetch_quests()
+
+        # cls.fetch_special_words()
         cls.fetch_map_names()
         logger.info("===== ALL FILES FETCHED DONE.")
 
@@ -51,7 +54,11 @@ class Translation:
         results = {
             "gameTitle": data["gameTitle"],
             "locale": data["locale"],
-            "commands": [_ for _ in data["terms"]["commands"] if _]
+            "skillTypes": [_ for _ in data["skillTypes"]],
+            "basic": [_ for _ in data["terms"]["basic"] if _],
+            "commands": [_ for _ in data["terms"]["commands"] if _],
+            "messages": [v for k, v in data["terms"]["messages"].items() if v],
+            "params": [_ for _ in data["terms"]["params"] if _],
         }
 
         with open(DIR_FETCHES / RAW_FILES["system"], "w", encoding='utf-8') as fp:
@@ -146,6 +153,39 @@ class Translation:
         logger.info(f"\t- MAPS FETCHED DONE.")
 
     @staticmethod
+    def fetch_quests():
+        """和其他文件格式不一样"""
+        with open(FILE_QUESTS, "r", encoding="utf-8") as fp:
+            lines = fp.readlines()
+
+        results = []
+        result = None
+        flag = False
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+
+            result = {
+                "key": line,
+                "original": line,
+                "translation": ""
+            }
+
+            if line.startswith("<quest "):
+                flag = True
+
+            elif flag and line == "</quest>":
+                flag = False
+
+            elif flag and result not in results:
+                results.append(result)
+
+        with open(DIR_FETCHES / RAW_FILES["quests_json"], "w", encoding="utf-8") as fp:
+            json.dump(results, fp, ensure_ascii=False, indent=2)
+        logger.info("\t- QUESTS FETCHED DONE.")
+
+    @staticmethod
     def fetch_special_words():
         names: set = {"Me <br>"}
         for file in os.listdir(DIR_FETCHES):
@@ -209,9 +249,21 @@ class Translation:
                 data = json.load(fp)
             results["gameTitle"] = data["gameTitle"]
             results["locale"] = data["locale"]
+            for bsc in data["basic"]:
+                if bsc not in results:
+                    results[bsc] = ""
+
             for cmd in data["commands"]:
                 if cmd not in results:
                     results[cmd] = ""
+
+            for prm in data["params"]:
+                if prm not in results:
+                    results[prm] = ""
+
+        elif file in {RAW_FILES["quests_json"]}:
+            with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
+                results = json.load(fp)
 
         else:
             with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
@@ -261,11 +313,13 @@ class Translation:
         """处理成 paratranz 能看懂的文件"""
         with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
             data: dict = json.load(fp)
-
-        results = [
-            {"key": k, "original": k.replace(r"(\c[2]PREVIOUS\c[0])", "").replace(r"(\C[3]NEW\C[0])", ""), "translation": ""}
-            for k in data
-        ]
+        if file in {RAW_FILES["quests_json"]}:
+            results = data
+        else:
+            results = [
+                {"key": k, "original": k.replace(r"(\c[2]PREVIOUS\c[0])", "").replace(r"(\C[3]NEW\C[0])", ""), "translation": ""}
+                for k in data
+            ]
 
         with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
             json.dump(results, fp, ensure_ascii=False)
@@ -275,7 +329,7 @@ class Translation:
     @classmethod
     def post_process_all(cls):
         logger.info("##### STARTING POST PROCESSING ALL FILES...")
-        cls.post_process_translated()
+        # cls.post_process_translated()
         # cls.post_process_paratranz()
         logger.info("===== ALL FILES POST PROCESSED DONE.")
 
@@ -373,6 +427,7 @@ class Translation:
         cls.apply_items()
         cls.apply_common()
         cls.apply_maps()
+        cls.apply_quests()
         cls.apply_map_names()
         logger.info("===== ALL FILES APPLIED DONE.")
         
@@ -386,12 +441,41 @@ class Translation:
         data["gameTitle"] = data_localized["gameTitle"]
         data["locale"] = data_localized["locale"]
 
+        for idx, d in enumerate(data["skillTypes"]):
+            if not d:
+                continue
+            if not data_localized.get(d):
+                continue
+            data["skillTypes"][idx] = data_localized[d]
+
+
+        for idx, d in enumerate(data["terms"]["basic"]):
+            if not d:
+                continue
+            if not data_localized.get(d):
+                continue
+            data["terms"]["basic"][idx] = data_localized[d]
+
         for idx, d in enumerate(data["terms"]["commands"]):
             if not d:
                 continue
             if not data_localized.get(d):
                 continue
             data["terms"]["commands"][idx] = data_localized[d]
+
+        for idx, d in enumerate(data["terms"]["params"]):
+            if not d:
+                continue
+            if not data_localized.get(d):
+                continue
+            data["terms"]["params"][idx] = data_localized[d]
+
+        for key, value in data["terms"]["messages"].items():
+            if not value:
+                continue
+            if not data_localized.get(value):
+                continue
+            data["terms"]["messages"][key] = data_localized[value]
 
         with open(DIR_RESULTS / RAW_FILES["system"], "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False)
@@ -529,6 +613,27 @@ class Translation:
         logger.info("\t- MAPS APPLIED DONE.")
 
     @staticmethod
+    def apply_quests():
+        with open(DIR_LOCALIZATIONS_FILES / RAW_FILES["quests_json"], "r", encoding="utf-8") as fp:
+            data_localized: dict = json.load(fp)
+
+        with open(DIR_RESULTS / RAW_FILES["quests"], "r", encoding="utf-8") as fp:
+            lines = fp.readlines()
+
+        for key, value in data_localized.items():
+            if key.startswith("<quest") or key.startswith("</quest"):
+                continue
+
+            for idx, line in enumerate(lines):
+                if line.strip() == key:
+                    # lines[idx] = insert_linebreak_text(line.replace(key, value), "\n", 37)
+                    lines[idx] = line.replace(key, value)
+
+        with open(DIR_RESULTS / RAW_FILES["quests"], "w", encoding="utf-8") as fp:
+            fp.writelines(lines)
+        logger.info("\t- QUESTS APPLIED DONE.")
+
+    @staticmethod
     def apply_map_names():
         try:
             with open(DIR_LOCALIZATIONS / "map_names.json", "r", encoding="utf-8") as fp:
@@ -551,6 +656,9 @@ class Translation:
     @staticmethod
     def cover_all():
         for file in os.listdir(DIR_RESULTS):
+            if file == RAW_FILES["quests"]:
+                shutil.copyfile(DIR_RESULTS / file, FILE_QUESTS)
+                continue
             shutil.copyfile(DIR_RESULTS / file, DIR_ROOT / file)
         logger.info("***** ALL FILES COVERED DONE.")
 

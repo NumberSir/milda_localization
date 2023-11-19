@@ -7,6 +7,8 @@ DIR_ROOT = Path("D:\Joy\Misc\game\Daily Lives of My Countryside v0.2.9.1 (PC) (B
 DIR_PROJECT = Path(__file__).parent
 DIR_BACKUP = DIR_PROJECT / "BACKUP"
 
+FILE_QUESTS = DIR_ROOT.parent / "quest" / "Quests.txt"
+
 DIR_RESULTS = DIR_PROJECT / "data" / "results"
 DIR_SUPPORT = DIR_PROJECT / "data" / "support"
 DIR_FETCHES = DIR_PROJECT / "data" / "fetches"
@@ -21,7 +23,9 @@ RAW_FILES = {
     "items": "Items.json",
     "system": "System.json",
     "common": "CommonEvents.json",
-    "maps": "Map{:0>3d}.json"
+    "maps": "Map{:0>3d}.json",
+    "quests": "Quests.txt",
+    "quests_json": "Quests.json"
 }
 
 MAP_SPECIAL = 37
@@ -54,6 +58,8 @@ __all__ = [
     "DIR_DOWNLOAD",
     "DIR_LOCALIZATIONS",
     "DIR_LOCALIZATIONS_FILES",
+
+    "FILE_QUESTS",
 
     "RAW_FILES",
     "MAPS_COUNT",
