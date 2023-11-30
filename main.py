@@ -559,6 +559,7 @@ class Translation:
             """汉化词典·"""
             with open(DIR_LOCALIZATIONS_FILES / file_name, "r", encoding="utf-8") as fp:
                 data_localized: dict = json.load(fp)
+            data_localized = {k.strip(): v.strip() for k, v in data_localized.items()}
 
             """提取词典"""
             with open(DIR_RESULTS / file_name, "r", encoding="utf-8") as fp:
@@ -578,7 +579,7 @@ class Translation:
                             continue
 
                         if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
-                            key = code["parameters"][0]
+                            key = code["parameters"][0].strip()
                             # if replace_needed:
                             #     key = key.replace("(\\C[3]NEW\\C[0]) ", "")  # 替换两个老是更新的东西
                             #     key = key.replace("(\\c[2]PREVIOUS\\c[0]) ", "")  # 替换两个老是更新的东西
