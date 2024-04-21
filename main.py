@@ -19,6 +19,8 @@ class Translation:
 
     @classmethod
     def init_dirs(cls):
+        if not DIR_BACKUP.exists():
+            os.makedirs(DIR_BACKUP)
         for file in os.listdir(DIR_BACKUP):
             if file == RAW_FILES["quests"]:
                 shutil.copyfile(DIR_BACKUP / file, FILE_QUESTS)
