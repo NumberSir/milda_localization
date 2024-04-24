@@ -1,9 +1,9 @@
 from pathlib import Path
 
-VERSION = "0.2.8.1"
+VERSION = "0.3.0.1"
 
 """游戏 data 文件夹绝对路径"""
-DIR_ROOT = Path("D:\Joy\Misc\game\Daily Lives of My Countryside v0.2.9.1 (PC) (Bugfix)\www\data").absolute()
+DIR_ROOT = Path("E:\Games\WOW\RPG\Daily Lives of My Countryside v0.3.0.1 (PC) (Bugfix)\www\data").absolute()
 DIR_PROJECT = Path(__file__).parent
 DIR_BACKUP = DIR_PROJECT / "BACKUP"
 
@@ -21,6 +21,7 @@ DIR_LOCALIZATIONS_FILES = DIR_LOCALIZATIONS / "files" / VERSION
 
 RAW_FILES = {
     "items": "Items.json",
+    "skills": "Skills.json",
     "system": "System.json",
     "common": "CommonEvents.json",
     "maps": "Map{:0>3d}.json",
@@ -29,13 +30,13 @@ RAW_FILES = {
 }
 
 MAP_SPECIAL = 37
-MAPS_COUNT = 79
+MAPS_COUNT = 86
 CODES_NEEDED_TRANSLATION = {
     "对话": 401,
     "选项": 102
 }
 
-PARATRANZ_TOKEN = "24b1871222b2c91375f84020b297bb2c"
+PARATRANZ_TOKEN = "eb34c0338617ec410439baeae1a257a1"
 PARATRANZ_BASE_URL = "https://paratranz.cn/api"
 PARATRANZ_HEADERS = {
     "Authorization": PARATRANZ_TOKEN

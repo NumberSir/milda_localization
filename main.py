@@ -1,16 +1,38 @@
 import json
 import os
 import shutil
-import re
 import subprocess
 import zipfile
 
 import httpx
 
-from consts import *
-from models import *
-from log import *
-from utils import *
+from consts import (
+    DIR_BACKUP,
+    DIR_ROOT,
+    DIR_FETCHES,
+    DIR_SUPPORT,
+    DIR_PROCESS,
+    DIR_PARATRANZ,
+    DIR_DOWNLOAD,
+    DIR_LOCALIZATIONS_FILES,
+    DIR_LOCALIZATIONS,
+    DIR_RESULTS,
+
+    FILE_QUESTS,
+
+    RAW_FILES,
+    CODES_NEEDED_TRANSLATION,
+    MAPS_COUNT,
+    VERSION,
+
+    PARATRANZ_BASE_URL,
+    PARATRANZ_HEADERS,
+    PARATRANZ_PROJECT_ID,
+
+)
+from models import ItemData, EventCodeData
+from log import logger
+from utils import insert_linebreak_text
 
 
 class Translation:
@@ -41,6 +63,7 @@ class Translation:
         logger.info("##### STARTING FETCHING ALL FILES...")
         cls.fetch_system()
         cls.fetch_items()
+        cls.fetch_skills()
         cls.fetch_common()
         cls.fetch_maps()
         cls.fetch_quests()
@@ -88,6 +111,25 @@ class Translation:
         logger.info("\t- ITEMS FETCHED DONE.")
 
     @staticmethod
+    def fetch_skills():
+        with open(DIR_ROOT / RAW_FILES["skills"], "r", encoding="utf-8") as fp:
+            data: list[dict] = json.load(fp)
+
+        results = []
+        for d in data:
+            if not d:
+                continue
+            if not d["description"] and not d["name"]:
+                continue
+
+            item = ItemData(id=d["id"], description=d["description"], name=d["name"])
+            results.append(item.__dict__)
+
+        with open(DIR_FETCHES / RAW_FILES["skills"], "w", encoding="utf-8") as fp:
+            json.dump(results, fp, ensure_ascii=False, indent=2)
+        logger.info("\t- SKILLS FETCHED DONE.")
+
+    @staticmethod
     def fetch_common():
         with open(DIR_ROOT / RAW_FILES["common"], "r", encoding="utf-8") as fp:
             data: list[dict] = json.load(fp)
@@ -111,7 +153,6 @@ class Translation:
                 else:
                     raise Exception("其它code类型")
                 results.append(code.__dict__)
-
 
         with open(DIR_FETCHES / RAW_FILES["common"], "w", encoding="utf-8") as fp:
             json.dump(results, fp, ensure_ascii=False, indent=2)
@@ -152,7 +193,7 @@ class Translation:
                 continue
             with open(DIR_FETCHES / file_name, "w", encoding="utf-8") as fp:
                 json.dump(results, fp, ensure_ascii=False, indent=2)
-        logger.info(f"\t- MAPS FETCHED DONE.")
+        logger.info("\t- MAPS FETCHED DONE.")
 
     @staticmethod
     def fetch_quests():
@@ -161,7 +202,6 @@ class Translation:
             lines = fp.readlines()
 
         results = []
-        result = None
         flag = False
         for line in lines:
             line = line.strip()
@@ -188,27 +228,6 @@ class Translation:
         logger.info("\t- QUESTS FETCHED DONE.")
 
     @staticmethod
-    def fetch_special_words():
-        names: set = {"Me <br>"}
-        for file in os.listdir(DIR_FETCHES):
-            if file in {RAW_FILES["items"], RAW_FILES["system"]}:
-                continue
-            with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
-                data = json.load(fp)
-
-            for d in data:
-                if "\\C" not in d["param"][0]:
-                    continue
-                name = re.findall(r"\\[cC]\[\d*]([a-zA-Z\s\.]*?)\\[Cc]\[\d*]", d["param"][0])
-                if not name or not name[0] or name[0].strip() in {"and", "that", "the"}:
-                    continue
-                names.add(name[0])
-
-        with open(DIR_SUPPORT / "special_words.json", "w", encoding="utf-8") as fp:
-            json.dump({_: "" for _ in names}, fp, ensure_ascii=False, indent=2)
-        logger.info("\t- NAMES FETCHED DONE.")
-
-    @staticmethod
     def fetch_map_names():
         results = {}
         for i in range(1, MAPS_COUNT + 1):
@@ -221,7 +240,7 @@ class Translation:
 
         with open(DIR_SUPPORT / "map_names.json", "w", encoding="utf-8") as fp:
             json.dump(results, fp, ensure_ascii=False, indent=2)
-        logger.info(f"\t- MAP NAMES FETCHED DONE.")
+        logger.info("\t- MAP NAMES FETCHED DONE.")
 
     """ PRE PROCESS """
     @classmethod
@@ -229,14 +248,13 @@ class Translation:
         logger.info("##### STARTING PRE PROCESSING ALL FILES...")
         for file in os.listdir(DIR_FETCHES):
             cls.pre_process_duplicate(file)
-            # cls.pre_process_special_words(file)
             cls.pre_process_paratranz(file)
         logger.info("===== ALL FILES PRE PROCESSED DONE.")
 
     @staticmethod
     def pre_process_duplicate(file: str):
         results = {}
-        if file in {RAW_FILES["items"]}:
+        if file in {RAW_FILES["items"], RAW_FILES["skills"]}:
             with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
 
@@ -283,34 +301,6 @@ class Translation:
             json.dump(results, fp, ensure_ascii=False, indent=2)
 
     @staticmethod
-    def pre_process_special_words(file: str):
-        try:
-            with open(DIR_LOCALIZATIONS / "special_words.json", "r", encoding="utf-8") as fp:
-                names: dict = json.load(fp)
-        except FileNotFoundError as e:
-            logger.error("special_words 文件尚未翻译！")
-            raise
-
-        with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
-            data = json.load(fp)
-
-        for raw, target in data.items():
-            if raw == "Me <br>":
-                data[raw] = "我 <br>"
-                continue
-
-            if "\\C" not in raw:
-                continue
-
-            name = re.findall(r"\\C\[\d*]([a-zA-Z\s\.]*?)\\[Cc]\[\d*]", raw)
-            if not name or not name[0] or name[0].strip() in {"and", "that", "the", "NEW"} or name[0].strip() not in names:
-                continue
-            data[raw] = raw.replace(name[0], names[name[0]])
-
-        with open(DIR_PROCESS / file, "w", encoding="utf-8") as fp:
-            json.dump(data, fp, ensure_ascii=False, indent=2)
-
-    @staticmethod
     def pre_process_paratranz(file: str):
         """处理成 paratranz 能看懂的文件"""
         with open(DIR_PROCESS / file, "r", encoding="utf-8") as fp:
@@ -319,28 +309,13 @@ class Translation:
             results = data
         else:
             results = [
-                {"key": k, "original": k.replace(r"(\c[2]PREVIOUS\c[0])", "").replace(r"(\C[3]NEW\C[0])", ""), "translation": ""}
+                {"key": k, "original": k, "translation": ""}
                 for k in data
             ]
 
         with open(DIR_PARATRANZ / file, "w", encoding="utf-8") as fp:
             json.dump(results, fp, ensure_ascii=False)
         # logger.info("\t- TRANSFER TO PARATRANZ FORMAT PRE PROCESSED DONE.")
-
-    """ POST PRECESS """
-    @classmethod
-    def post_process_all(cls):
-        logger.info("##### STARTING POST PROCESSING ALL FILES...")
-        # cls.post_process_translated()
-        # cls.post_process_paratranz()
-        logger.info("===== ALL FILES POST PROCESSED DONE.")
-
-    @staticmethod
-    def post_process_translated():
-        for file in os.listdir(DIR_PROCESS):
-            if file in os.listdir(DIR_LOCALIZATIONS_FILES):
-                os.remove(DIR_PROCESS / file)
-        logger.info("\t- ALREADY TRANSLATED POST PROCESSED DONE.")
 
     """ DOWNLOAD """
     @classmethod
@@ -427,6 +402,7 @@ class Translation:
         logger.info("##### STARTING APPLYING ALL FILES...")
         cls.apply_system()
         cls.apply_items()
+        cls.apply_skills()
         cls.apply_common()
         cls.apply_maps()
         cls.apply_quests()
@@ -449,7 +425,6 @@ class Translation:
             if not data_localized.get(d):
                 continue
             data["skillTypes"][idx] = data_localized[d]
-
 
         for idx, d in enumerate(data["terms"]["basic"]):
             if not d:
@@ -505,6 +480,29 @@ class Translation:
         with open(DIR_RESULTS / RAW_FILES["items"], "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False)
         logger.info("\t- ITEMS APPLIED DONE.")
+
+    @staticmethod
+    def apply_skills():
+        with open(DIR_LOCALIZATIONS_FILES / RAW_FILES["skills"], "r", encoding="utf-8") as fp:
+            data_localized: dict = json.load(fp)
+
+        with open(DIR_RESULTS / RAW_FILES["skills"], "r", encoding="utf-8") as fp:
+            data: list = json.load(fp)
+        for idx, d in enumerate(data):
+            if not d:
+                continue
+            if d["description"]:
+                if not data_localized.get(d["description"]):
+                    continue
+                data[idx]["description"] = data_localized[d["description"]]
+            if d["name"]:
+                if not data_localized.get(d["name"]):
+                    continue
+                data[idx]["name"] = data_localized[d["name"]]
+
+        with open(DIR_RESULTS / RAW_FILES["skills"], "w", encoding="utf-8") as fp:
+            json.dump(data, fp, ensure_ascii=False)
+        logger.info("\t- SKILLS APPLIED DONE.")
 
     @staticmethod
     def apply_common():
@@ -581,15 +579,13 @@ class Translation:
                             continue
 
                         if code["code"] == CODES_NEEDED_TRANSLATION["对话"]:
-                            key = code["parameters"][0].strip()
-                            # if replace_needed:
-                            #     key = key.replace("(\\C[3]NEW\\C[0]) ", "")  # 替换两个老是更新的东西
-                            #     key = key.replace("(\\c[2]PREVIOUS\\c[0]) ", "")  # 替换两个老是更新的东西
-                            #     key = key.replace("(\\C[3]NEW\\C[0])", "")  # 替换两个老是更新的东西
-                            #     key = key.replace("(\\c[2]PREVIOUS\\c[0])", "")  # 替换两个老是更新的东西
+                            key = code["parameters"][0].strip()  # 原文中的内容，去掉了空格
+                            if not key:
+                                continue
+                                
+                            if not data_localized[key] and key != "<br>":
+                                continue
                             try:
-                                if not data_localized[key]:
-                                    continue
                                 if replace_needed:
                                     data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
                                 else:
@@ -599,8 +595,6 @@ class Translation:
                         elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
                             for code_idx, key in enumerate(code["parameters"][0]):
                                 try:
-                                    if not data_localized[key]:
-                                        continue
                                     if replace_needed:
                                         data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0][code_idx] = data_localized[key]
                                     else:
@@ -643,7 +637,7 @@ class Translation:
                 names: dict = json.load(fp)
         except FileNotFoundError as e:
             logger.error("map_names 文件尚未翻译！")
-            raise
+            raise e
 
         for file_name, map_name in names.items():
             with open(DIR_RESULTS / file_name, "r", encoding="utf-8") as fp:
@@ -696,7 +690,6 @@ def main():
     tr.init_dirs()          # 创建目录
     tr.fetch_all()          # 获取原文
     tr.pre_process_all()    # 预处理(合并重复句子、替换专有名词)
-    tr.post_process_all()   # 后处理(删除已翻译的)
     tr.download_from_paratranz()    # 从 Paratranz 下载
     tr.apply_all()          # 应用翻译
     tr.count_length()       # 统计内容长度
