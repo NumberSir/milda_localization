@@ -6,7 +6,7 @@ def insert_linebreak_text(text: str, linebreak: str = "<br>", linebreak_length: 
     comb_flag = False
     comb_cache = 0
     for idx, char in enumerate(text):
-        if char == "\\" and text[idx+1] in "ic":  # \n 名称是有字数的
+        if char == "\\" and text[idx+1] in "icIC":  # \n 名称是有字数的
             comb_flag = True
             # length += 1
             comb_cache += 1
@@ -49,7 +49,7 @@ def insert_linebreak_text(text: str, linebreak: str = "<br>", linebreak_length: 
 
 
 def main():
-    line = "这是我的\c[12]手机\c[0]。\c[2]快捷键\c[0]是\c[12]P\c[0]。里面有很多有用的功能。"
+    line = "至少我不会像你这种丑疯子一样整天溜达，\C[31]露西\C[0]！"
     print(insert_linebreak_text(line))
 
 

@@ -281,6 +281,10 @@ class Translation:
                 if prm not in results:
                     results[prm] = ""
 
+            for msg in data["messages"]:
+                if msg not in results:
+                    results[msg] = ""
+
         elif file in {RAW_FILES["quests_json"]}:
             with open(DIR_FETCHES / file, "r", encoding="utf-8") as fp:
                 results = json.load(fp)
@@ -585,13 +589,11 @@ class Translation:
                                 
                             if not data_localized[key] and key != "<br>":
                                 continue
-                            try:
-                                if replace_needed:
-                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
-                                else:
-                                    data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
-                            except KeyError:
-                                continue
+
+                            if replace_needed:
+                                data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = data_localized[key]
+                            else:
+                                data_raw["events"][evt_idx]["pages"][pg_idx]["list"][list_idx]["parameters"][0] = insert_linebreak_text(data_localized[key])
                         elif code["code"] == CODES_NEEDED_TRANSLATION["选项"]:
                             for code_idx, key in enumerate(code["parameters"][0]):
                                 try:
