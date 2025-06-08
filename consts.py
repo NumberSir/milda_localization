@@ -1,5 +1,8 @@
 from pathlib import Path
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 VERSION = "0.3.0.1"
 
 """游戏 data 文件夹绝对路径"""
@@ -36,7 +39,7 @@ CODES_NEEDED_TRANSLATION = {
     "选项": 102
 }
 
-PARATRANZ_TOKEN = "eb34c0338617ec410439baeae1a257a1"
+PARATRANZ_TOKEN = os.getenv("PARATRANZ_TOKEN") or ""  # 必填，在个人设置里
 PARATRANZ_BASE_URL = "https://paratranz.cn/api"
 PARATRANZ_HEADERS = {
     "Authorization": PARATRANZ_TOKEN
